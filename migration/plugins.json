@@ -1,0 +1,2012 @@
+[
+  {
+    "internalName": "ActionTimelineReplacement",
+    "name": "Action Timeline Replacement",
+    "repository": "cycleapple/ActionTimelineReplacement",
+    "api13Version": "1.0.0.1",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.0.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Aetherment",
+    "name": "Aetherment",
+    "repository": "cycleapple/aetherment",
+    "api13Version": "0.4.0.0",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "0.4.0.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AllaganItemSearch",
+    "name": "Allagan Item Search",
+    "repository": "cycleapple/AllaganItemSearch",
+    "api13Version": "1.0.0.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AllaganMarket",
+    "name": "Allagan Market",
+    "repository": "cycleapple/AllaganMarket",
+    "api13Version": "1.2.0.9",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.2.0.9"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AntiAfkKick-Dalamud",
+    "name": "AntiAfkKick",
+    "repository": "cycleapple/AntiAfkKick",
+    "api13Version": "2.1.0.10",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.0.10"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Artisan",
+    "name": "Artisan",
+    "repository": "cycleapple/Artisan",
+    "api13Version": "4.0.4.26",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "4.0.4.26"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AutoDuty",
+    "name": "AutoDuty",
+    "repository": "cycleapple/AutoDuty",
+    "api13Version": "0.0.0.9",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.0.9"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AutoHook",
+    "name": "AutoHook",
+    "repository": "cycleapple/AutoHook",
+    "api13Version": "5.0.0.15",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "5.0.0.15"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AutoMinion",
+    "name": "AutoMinion",
+    "repository": "cycleapple/AutoMinion",
+    "api13Version": "1.0.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "AutoRetainer",
+    "name": "AutoRetainer",
+    "repository": "cycleapple/AutoRetainer",
+    "api13Version": "4.5.1.30",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "4.5.1.30"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Automaton",
+    "name": "CBT",
+    "repository": "cycleapple/ffxiv-bundleoftweaks",
+    "api13Version": "69.103.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "69.103.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Avarice",
+    "name": "Avarice",
+    "repository": "cycleapple/Avarice",
+    "api13Version": "2.1.1.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.1.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BDTHPlugin",
+    "name": "Burning Down the House",
+    "repository": "cycleapple/BDTHPlugin",
+    "api13Version": "1.7.1.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.7.1.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BOCCHI",
+    "name": "BOCCHI 新月島助手",
+    "repository": "cycleapple/BOCCHI",
+    "api13Version": "1.0.1.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.1.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BetterMountRoulette",
+    "name": "Better Mount Roulette",
+    "repository": "cycleapple/BetterMountRoulette",
+    "api13Version": "1.0.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BigPlayerDebuffs",
+    "name": "BigPlayerDebuffs",
+    "repository": "cycleapple/BigPlayerDebuffs",
+    "api13Version": "1.1.0.14",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.0.14"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BossMod",
+    "name": "Boss Mod",
+    "repository": "cycleapple/ffxiv_bossmod",
+    "api13Version": "0.1.4.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.1.4.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "BossModReborn",
+    "name": "Bossmod Reborn",
+    "repository": "cycleapple/BossmodReborn",
+    "api13Version": "7.3.8.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "7.3.8.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Brio",
+    "name": "Brio",
+    "repository": "cycleapple/Brio",
+    "api13Version": "0.5.2.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "0.5.2.2"
+      },
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.5.2.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Cammy",
+    "name": "Cammy",
+    "repository": "cycleapple/Cammy",
+    "api13Version": "2.1.0.14",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.0.14"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ChatCoordinates",
+    "name": "ChatCoordinates",
+    "repository": "cycleapple/dalamud-chatcoordinates",
+    "api13Version": "2.1.2.10",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.2.10"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ChatTwo",
+    "name": "Chat 2",
+    "repository": "cycleapple/ChatTwo",
+    "api13Version": "1.32.0.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.32.0.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ChilledLeves",
+    "name": "Chilled Leves",
+    "repository": "cycleapple/ChilledLeves",
+    "api13Version": "1.0.1.22",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.1.22"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Craftimizer",
+    "name": "Craftimizer",
+    "repository": "cycleapple/Craftimizer",
+    "api13Version": "2.8.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.8.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "CrossUp",
+    "name": "CrossUp",
+    "repository": "cycleapple/CrossUp",
+    "api13Version": "1.7.1.14",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.7.1.14"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "CustomResolution2782",
+    "name": "CustomResolution",
+    "repository": "cycleapple/DP-CustomResolution",
+    "api13Version": "1.0.1.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.1.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "CustomizePlus",
+    "name": "Customize+",
+    "repository": "cycleapple/CustomizePlus",
+    "api13Version": "2.0.7.31",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "2.0.7.31"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "DailyDuty",
+    "name": "DailyDuty",
+    "repository": "cycleapple/DailyDuty",
+    "api13Version": "5.3.2.14",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "5.3.2.14"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "DeathRecap",
+    "name": "Death Recap",
+    "repository": "cycleapple/ffxiv-deathrecap",
+    "api13Version": "1.13.2.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.2.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "DeepDungeonDex",
+    "name": "MonsterDex",
+    "repository": "cycleapple/MonsterDex",
+    "api13Version": "2.13.6.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.13.6.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Deliveroo",
+    "name": "Deliveroo",
+    "repository": "cycleapple/Deliveroo",
+    "api13Version": "7.4.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "7.4.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Distance",
+    "name": "Distance",
+    "repository": "cycleapple/Distance",
+    "api13Version": "1.1.3.6",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.3.6"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Doorbell",
+    "name": "Doorbell",
+    "repository": "cycleapple/Doorbell",
+    "api13Version": "1.0.4.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.4.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "DozeAnywhere",
+    "name": "DozeAnywhere",
+    "repository": "cycleapple/DozeAnywhere",
+    "api13Version": "13.1.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "13.1.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "EasyEyes",
+    "name": "EasyEyes",
+    "repository": "cycleapple/EasyEyes",
+    "api13Version": "1.3.1.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.3.1.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "EnemyListDebuffs",
+    "name": "EnemyListDebuffs",
+    "repository": "cycleapple/EnemyListDebuffs",
+    "api13Version": "1.13.0.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.0.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "EngageTimer",
+    "name": "EngageTimer",
+    "repository": "cycleapple/EngageTimer",
+    "api13Version": "2.4.4.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.4.4.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "EnmityHp",
+    "name": "EnemyListHP",
+    "repository": "cycleapple/EnmityHp",
+    "api13Version": "2.0.1.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.0.1.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "EurekaTrackerAutoPopper",
+    "name": "Eureka Linker",
+    "repository": "cycleapple/EurekaTrackerAutoPopper",
+    "api13Version": "1.5.9.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.5.9.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ExplorersIcebox",
+    "name": "Explorer's Icebox",
+    "repository": "cycleapple/Explorers-Icebox",
+    "api13Version": "1.0.4.6",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.4.6"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "FPSPlugin",
+    "name": "FPS Plugin",
+    "repository": "cycleapple/FPSPlugin",
+    "api13Version": "1.7.0.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.7.0.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Facade",
+    "name": "Facade",
+    "repository": "cycleapple/Facade",
+    "api13Version": "1.0.0.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "FlashOnTell",
+    "name": "FlashOnTell",
+    "repository": "cycleapple/Dalamud-FlashOnTellPlugin",
+    "api13Version": "0.0.9.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.9.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "FlyTextFilter",
+    "name": "FlyTextFilter",
+    "repository": "cycleapple/FlyTextFilter",
+    "api13Version": "4.4.0.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "4.4.0.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Fungah",
+    "name": "Fungah",
+    "repository": "cycleapple/Fungah-Totally-Safe-Spot",
+    "api13Version": "1.0.0.7",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.7"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "GatherBuddyReborn",
+    "name": "GatherBuddy Reborn",
+    "repository": "cycleapple/GatherBuddyReborn",
+    "api13Version": "7.3.5.7",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "7.3.5.7"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "GatheringPathRenderer",
+    "name": "GatheringPathRenderer",
+    "repository": "cycleapple/Questionable",
+    "api13Version": "0.10.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.10.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "GaugeOMatic",
+    "name": "Gauge-O-Matic",
+    "repository": "cycleapple/GaugeOMatic",
+    "api13Version": "0.8.2.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.8.2.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Gearsetter",
+    "name": "Gearsetter",
+    "repository": "cycleapple/Gearsetter",
+    "api13Version": "4.0.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "4.0.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Glamourer",
+    "name": "Glamourer",
+    "repository": "cycleapple/Glamourer",
+    "api13Version": "1.5.0.16",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.5.0.13"
+      },
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.5.0.16"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "HighFpsPhysicsPlugin",
+    "name": "High FPS Physics Fix",
+    "repository": "cycleapple/xivlauncher_physics_plugin",
+    "api13Version": "8.3.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "8.3.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Honorific",
+    "name": "Honorific",
+    "repository": "cycleapple/Honorific",
+    "api13Version": "1.7.1.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.7.1.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Housemate",
+    "name": "Housemate",
+    "repository": "cycleapple/Housemate",
+    "api13Version": "1.0.3.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.3.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "HuntBuddy",
+    "name": "Hunt Buddy",
+    "repository": "cycleapple/HuntBuddy",
+    "api13Version": "1.2.2.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.2.2.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Hyperborea",
+    "name": "Hyperborea",
+    "repository": "cycleapple/Hyperborea",
+    "api13Version": "1.0.0.33",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.33"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ICE",
+    "name": "Ice's Cosmic Exploration",
+    "repository": "cycleapple/Ices-Cosmic-Exploration",
+    "api13Version": "0.0.73.52",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.73.52"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "IINACT",
+    "name": "IINACT",
+    "repository": "cycleapple/IINACT",
+    "api13Version": "1.13.9.7",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.9.7"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "InventoryTools",
+    "name": "Allagan Tools",
+    "repository": "cycleapple/InventoryTools",
+    "api13Version": "1.13.1.14",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.1.14"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "JobBars",
+    "name": "JobBars",
+    "repository": "cycleapple/JobBars",
+    "api13Version": "1.3.2.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.3.2.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Ktisis",
+    "name": "Ktisis v0.3",
+    "repository": "cycleapple/Ktisis",
+    "api13Version": "0.3.14.5",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "0.3.14.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "LMeter",
+    "name": "LMeter",
+    "repository": "cycleapple/LMeter_TC",
+    "api13Version": "1.13.0.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.0.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "LazyLoot",
+    "name": "LazyLoot",
+    "repository": "cycleapple/LazyLoot",
+    "api13Version": "5.3.2.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "5.3.2.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Lifestream",
+    "name": "Lifestream",
+    "repository": "cycleapple/Lifestream",
+    "api13Version": "2.5.3.9",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.5.3.9"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "LoporritSync",
+    "name": "Loporrit Sync",
+    "repository": "cycleapple/LopClient",
+    "api13Version": "1.0.9.2",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.0.9.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MapLinker",
+    "name": "MapLinker",
+    "repository": "cycleapple/MapLinker",
+    "api13Version": "1.1.11.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.11.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Mappy",
+    "name": "Mappy",
+    "repository": "cycleapple/Mappy",
+    "api13Version": "3.1.6.12",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.1.6.12"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MarketBoardPlugin",
+    "name": "Market board",
+    "repository": "cycleapple/MarketBoardPlugin",
+    "api13Version": "1.11.0.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.11.0.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Marketbuddy",
+    "name": "Marketbuddy",
+    "repository": "cycleapple/Marketbuddy",
+    "api13Version": "0.2.4.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.2.4.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MaskOfKefka",
+    "name": "Mask of Kefka",
+    "repository": "cycleapple/mask-of-kefka",
+    "api13Version": "0.2.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.2.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MeterWay",
+    "name": "MeterWay",
+    "repository": "cycleapple/MeterWay",
+    "api13Version": "1.0.17.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.17.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MidiBard2",
+    "name": "MidiBard 2",
+    "repository": "cycleapple/MidiBard2",
+    "api13Version": "3.2.1.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.2.1.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MiniCactpotSolver",
+    "name": "ezMiniCactpot",
+    "repository": "cycleapple/EzMiniCactpot",
+    "api13Version": "3.0.0.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.0.0.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MissFisher",
+    "name": "MissFisher",
+    "repository": "cycleapple/MissFisher",
+    "api13Version": "1.6.5.13",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.6.5.13"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MouseLock",
+    "name": "MouseLock",
+    "repository": "cycleapple/MouseLock",
+    "api13Version": "1.0.0.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.0.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "MultiHit",
+    "name": "MultiHit",
+    "repository": "cycleapple/MultiHit",
+    "api13Version": "0.0.4.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.4.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "NOTED",
+    "name": "NOTED",
+    "repository": "cycleapple/NOTED",
+    "api13Version": "1.6.0.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.6.0.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Namingway",
+    "name": "Namingway",
+    "repository": "cycleapple/NamingWay",
+    "api13Version": "1.1.17.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.17.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "NecroLens",
+    "name": "NecroLens",
+    "repository": "cycleapple/NecroLens",
+    "api13Version": "1.0.8.13",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.8.13"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "NoClippy",
+    "name": "NoClippy",
+    "repository": "cycleapple/NoClippy",
+    "api13Version": "0.5.0.20",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.5.0.20"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "NotificationMaster",
+    "name": "NotificationMaster",
+    "repository": "cycleapple/NotificationMaster",
+    "api13Version": "2.1.1.13",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.1.13"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Orbwalker",
+    "name": "Orbwalker",
+    "repository": "cycleapple/Orbwalker",
+    "api13Version": "1.0.1.7",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.1.7"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PalacePal",
+    "name": "Palace Pal",
+    "repository": "cycleapple/PalacePal",
+    "api13Version": "4.14.0.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "4.14.0.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PandorasBox",
+    "name": "Pandora's Box",
+    "repository": "cycleapple/PandorasBox",
+    "api13Version": "1.6.3.19",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.6.3.19"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PartyIcons",
+    "name": "Party Icons",
+    "repository": "cycleapple/xivPartyIcons",
+    "api13Version": "1.2.3.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.2.3.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PeepingTom",
+    "name": "Peeping Tom",
+    "repository": "cycleapple/PeepingTom",
+    "api13Version": "1.7.13.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.7.13.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PennyPincher",
+    "name": "Penny Pincher",
+    "repository": "cycleapple/PennyPincher",
+    "api13Version": "1.8.0.6",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.8.0.6"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Penumbra",
+    "name": "Penumbra",
+    "repository": "cycleapple/Penumbra",
+    "api13Version": "1.5.1.26",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.5.1.26"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PingPlugin",
+    "name": "PingPlugin",
+    "repository": "cycleapple/PingPlugin",
+    "api13Version": "2.9.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.9.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PixelPerfect",
+    "name": "Pixel Perfect",
+    "repository": "cycleapple/PixelPerfect",
+    "api13Version": "3.3.2.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.3.2.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PlayerWatchlist",
+    "name": "PlayerWatchlist",
+    "repository": "cycleapple/PlayerWatchlist",
+    "api13Version": "1.0.0.1",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.0.0.1"
+      }
+    ],
+    "status": "build-passed",
+    "build": "upstream-api14-passed",
+    "runtime": "not-run",
+    "sourceCommit": "2d9c8049095c4305f30f51a5e3becea65e83ae5b",
+    "evidence": "migration/evidence/PlayerWatchlist.json"
+  },
+  {
+    "internalName": "PocketRecorder",
+    "name": "Pocket Recorder（繁體中文）",
+    "repository": "cycleapple/PocketRecorder",
+    "api13Version": "1.0.5.23",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.5.23"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "PriceInsight",
+    "name": "Price Insight",
+    "repository": "cycleapple/ffxiv-priceinsight",
+    "api13Version": "2.11.3.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.11.3.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "QoLBar",
+    "name": "QoL Bar",
+    "repository": "cycleapple/QoLBar",
+    "api13Version": "2.3.3.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.3.3.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Questionable",
+    "name": "Questionable",
+    "repository": "cycleapple/Questionable",
+    "api13Version": "13.68.129.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "13.68.129.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "RadarPlugin",
+    "name": "Radar Plugin",
+    "repository": "cycleapple/RadarPlugin",
+    "api13Version": "2.1.8.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.8.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Raphael.Dalamud",
+    "name": "Raphael.Dalamud",
+    "repository": "cycleapple/Raphael.Dalamud",
+    "api13Version": "0.0.5.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.5.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ReAction",
+    "name": "ReAction",
+    "repository": "cycleapple/ReAction",
+    "api13Version": "1.3.4.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.3.4.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ReMakePlacePlugin",
+    "name": "ReMakePlace Plugin",
+    "repository": "cycleapple/ReMakePlacePlugin",
+    "api13Version": "7.3.4.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "7.3.4.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "RezPls",
+    "name": "RezPls",
+    "repository": "cycleapple/RezPls",
+    "api13Version": "1.5.2.3",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.5.2.3"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "RotationSolver",
+    "name": "Rotation Solver Reborn",
+    "repository": "cycleapple/RotationSolverReborn",
+    "api13Version": "7.3.5.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "7.3.5.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Saucy",
+    "name": "Saucy",
+    "repository": "cycleapple/Saucy",
+    "api13Version": "1.4.2.9",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.4.2.9"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SimpleHeels",
+    "name": "Simple Heels",
+    "repository": "cycleapple/SimpleHeels",
+    "api13Version": "0.10.7.5",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "0.10.7.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SimpleTweaksPlugin",
+    "name": "Simple Tweaks",
+    "repository": "cycleapple/SimpleTweaksPlugin",
+    "api13Version": "1.10.11.2",
+    "baselineCatalog": "DalamudPlugins-TW",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW",
+        "version": "1.10.11.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Skippy",
+    "name": "Skippy",
+    "repository": "cycleapple/Skippy",
+    "api13Version": "1.2.2.9",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.2.2.9"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SomethingNeedDoing",
+    "name": "Something Need Doing",
+    "repository": "cycleapple/SomethingNeedDoing",
+    "api13Version": "0.0.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SonarPlugin",
+    "name": "Sonar",
+    "repository": "cycleapple/SonarDistrib",
+    "api13Version": "0.7.4.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.7.4.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SortaKinda",
+    "name": "SortaKinda",
+    "repository": "cycleapple/SortaKinda",
+    "api13Version": "2.1.1.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.1.1.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Splatoon",
+    "name": "Splatoon",
+    "repository": "cycleapple/Splatoon",
+    "api13Version": "3.8.2.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.8.2.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "SubmarineTracker",
+    "name": "Submarine Tracker",
+    "repository": "cycleapple/SubmarineTracker",
+    "api13Version": "2.0.2.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.0.2.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "TeleporterPlugin",
+    "name": "Teleporter",
+    "repository": "cycleapple/TeleporterPlugin",
+    "api13Version": "2.0.2.11",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.0.2.11"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "TextAdvance",
+    "name": "TextAdvance",
+    "repository": "cycleapple/TextAdvance",
+    "api13Version": "3.2.4.8",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.2.4.8"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "TitleEdit",
+    "name": "Title Edit",
+    "repository": "cycleapple/TitleEdit",
+    "api13Version": "3.0.6.22",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.0.6.22"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "TriadBuddy",
+    "name": "TriadBuddy",
+    "repository": "cycleapple/FFTriadBuddyDalamud",
+    "api13Version": "1.13.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Umbra",
+    "name": "Umbra XIV",
+    "repository": "cycleapple/umbra",
+    "api13Version": "3.1.7.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "3.1.7.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "VFXEditor",
+    "name": "VFXEditor（繁體中文）",
+    "repository": "cycleapple/Dalamud-VFXEditor-API13",
+    "api13Version": "1.9.2.10",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.9.2.10"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "Visibility",
+    "name": "Visibility",
+    "repository": "cycleapple/VisibilityPlugin",
+    "api13Version": "1.1.9.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.9.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "WaymarkPresetPlugin",
+    "name": "Waymark Preset Plugin",
+    "repository": "cycleapple/WaymarkPresetPlugin",
+    "api13Version": "1.5.5.0",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.5.5.0"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "WrathCombo",
+    "name": "Wrath Combo",
+    "repository": "cycleapple/WrathCombo",
+    "api13Version": "1.0.1.25",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.0.1.25"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "XivTreasureParty",
+    "name": "XIV 藏寶圖工具小幫手",
+    "repository": "cycleapple/xiv-party-treasure-helper",
+    "api13Version": "0.1.9.4",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.1.9.4"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "YesAlready",
+    "name": "YesAlready",
+    "repository": "cycleapple/YesAlready",
+    "api13Version": "0.0.0.1",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.0.1"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "ZodiacBuddy",
+    "name": "ZodiacBuddy",
+    "repository": "cycleapple/ZodiacBuddy",
+    "api13Version": "1.13.0.2",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.13.0.2"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "orchestrion",
+    "name": "Orchestrion Plugin",
+    "repository": "cycleapple/OrchestrionPlugin",
+    "api13Version": "2.2.0.13",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "2.2.0.13"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "vfaux",
+    "name": "Easier Faux Hollows",
+    "repository": "cycleapple/vfaux",
+    "api13Version": "0.0.0.11",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.0.11"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "visland",
+    "name": "Visland",
+    "repository": "cycleapple/ffxiv_visland",
+    "api13Version": "0.0.0.139",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "0.0.0.139"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  },
+  {
+    "internalName": "vnavmesh",
+    "name": "vnavmesh",
+    "repository": "cycleapple/ffxiv_navmesh",
+    "api13Version": "1.1.2.5",
+    "baselineCatalog": "DalamudPlugins-TW-API13-Extended",
+    "variants": [
+      {
+        "catalog": "DalamudPlugins-TW-API13-Extended",
+        "version": "1.1.2.5"
+      }
+    ],
+    "status": "queued",
+    "build": "not-run",
+    "runtime": "not-run"
+  }
+]

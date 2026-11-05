@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-05",
+  "sourceCommit": "2d9c8049095c4305f30f51a5e3becea65e83ae5b",
+  "dotnetSdk": "10.0.302",
+  "dalamudAssemblyVersion": "14.0.4.3",
+  "referenceKind": "upstream-only",
+  "referenceUrl": "https://raw.githubusercontent.com/goatcorp/dalamud-distrib/261f5b0cd1f5746533d3d13cf01d9aa62853a746/latest.zip",
+  "referenceSha256": "81704d31a1690801f87c8fdb3c2c7956afcf7e7f56dd04fa37f9b1d3813082ca",
+  "command": "dotnet build PlayerWatchlist.csproj -c Release -p:DALAMUD_HOME=<upstream-api14>",
+  "result": "passed",
+  "warnings": 0,
+  "errors": 0,
+  "negativeCheck": "API13 references rejected: Expected Dalamud API14; found 13.0.0.6.",
+  "zipManifestApiLevel": 14,
+  "localBuildZipSha256": "ae4b092de30c1306fb9aea0a051c67c2b8082c56988bdc807dc09156be83f2dd",
+  "tcBuild": "pending-api14-references",
+  "tcRuntime": "not-run",
+  "published": false
+}

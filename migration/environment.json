@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "tcDalamud": {
+    "repository": "yanmucorp/Dalamud",
+    "branch": "master",
+    "assemblyVersion": "13.0.0.16",
+    "api14References": "not-yet-confirmed"
+  },
+  "upstreamApi14": {
+    "assemblyVersion": "14.0.4.3",
+    "distributionCommit": "261f5b0cd1f5746533d3d13cf01d9aa62853a746",
+    "dotnetSdk": "10.0.302"
+  },
+  "releaseRequirement": "Matching TC API14 build and in-game verification"
+}
