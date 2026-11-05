@@ -7,14 +7,16 @@
       "project": "AutoMinion/AutoMinion.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.9,
+      "seconds": 6.4,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoMinion.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "ada328192e8a67d822253b0456d4bc311e330a42",
+  "sourceCommit": "02c8ff8be0a1a6e9e5f62bfd4b122a469c736fb6",
   "publishedSource": true,
   "dependencyPatches": 1
 }

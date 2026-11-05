@@ -7,14 +7,16 @@
       "project": "Orbwalker/Orbwalker.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.9,
+      "seconds": 4.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Orbwalker.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "2ff1b8141c54b05c065d55245f113a3400c715de",
+  "sourceCommit": "20932b5a675e1a5f4555828dae03d370c787b862",
   "publishedSource": true,
   "dependencyPatches": 2
 }

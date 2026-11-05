@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Penumbra",
+  "fork": true,
+  "default_branch": "master",
+  "description": "FINAL FANTASY XIV modding, but actually good this time",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:10Z",
+  "parent": {
+    "full_name": "xivdev/Penumbra",
+    "default_branch": "testing",
+    "clone_url": "https://github.com/xivdev/Penumbra.git"
+  },
+  "source": {
+    "full_name": "xivdev/Penumbra",
+    "default_branch": "testing",
+    "clone_url": "https://github.com/xivdev/Penumbra.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "xivdev/Penumbra",
+  "upstreamDefaultBranch": "testing",
+  "upstreamHead": "d0cab787b8d8ff067a3fb3055b2a47ada4261a38",
+  "apiMarkerPath": "Penumbra/Penumbra.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "ad7a2deb6e690c07f9969041ec309c1551026df6",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "66bae79d1923c7077042337781a546c06cef6f9c",
+  "api14Date": "2026-04-28T11:03:23Z",
+  "api14Message": "More line endings.",
+  "api14Url": "https://github.com/xivdev/Penumbra/commit/66bae79d1923c7077042337781a546c06cef6f9c"
+}

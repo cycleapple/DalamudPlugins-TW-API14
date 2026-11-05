@@ -7,14 +7,14 @@
       "project": "SortaKinda/SortaKinda.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.8,
+      "seconds": 3.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SortaKinda.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
+  "sourceCommit": "e53328f8528dac3a76aacbedc28d2f3d6eecb21a",
   "publishedSource": true,
   "dependencyPatches": 2
 }

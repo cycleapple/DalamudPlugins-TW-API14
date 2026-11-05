@@ -1,0 +1,87 @@
+{
+  "full_name": "cycleapple/Dalamud",
+  "fork": true,
+  "default_branch": "master",
+  "description": "FFXIV plugin framework and API",
+  "homepage": "",
+  "pushed_at": "2026-11-05T14:09:43Z",
+  "parent": {
+    "full_name": "goatcorp/Dalamud",
+    "default_branch": "master",
+    "clone_url": "https://github.com/goatcorp/Dalamud.git"
+  },
+  "source": {
+    "full_name": "goatcorp/Dalamud",
+    "default_branch": "master",
+    "clone_url": "https://github.com/goatcorp/Dalamud.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "goatcorp/Dalamud",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "a74096043b58d69b08af214ac724f3d42c3a238b",
+  "upstreamStatus": "manual-reference-project-needs-review",
+  "upstreamCreatedAt": "2019-09-21T13:27:16Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "api15-rollup",
+      "commit": "65765b2043c0a336bcd1c16a1b7154379d9f1065"
+    },
+    {
+      "name": "api16-rollup",
+      "commit": "7a2de90e1f13f6bfd40e0b206dd4d29e745db008"
+    },
+    {
+      "name": "api16",
+      "commit": "8dc1f50e58bfabdd72278a007ca2be6ae350013d"
+    },
+    {
+      "name": "csupdate-master",
+      "commit": "b8004cec125081165a356880dbfe9dd8ff4b9224"
+    },
+    {
+      "name": "feat/needs_update",
+      "commit": "8ab5aff49e6d818792af73343234a297279c74e4"
+    },
+    {
+      "name": "fools21",
+      "commit": "d94beb85c4bce92a7d94cb90ec4e92efd4231b86"
+    },
+    {
+      "name": "fools22",
+      "commit": "0c9fd9547812e8bceb7d9e4cfc69466cc7dbb7cf"
+    },
+    {
+      "name": "fools23",
+      "commit": "e35d89b82337a4ec4dee6bc933494aea0aef00d0"
+    },
+    {
+      "name": "gitlab-sync",
+      "commit": "6d3d57ae1c33211d0dac158facb3d7b1aa3bf7da"
+    },
+    {
+      "name": "master",
+      "commit": "a74096043b58d69b08af214ac724f3d42c3a238b"
+    },
+    {
+      "name": "net8",
+      "commit": "55bd845a633cbbf4214b4fdf8d3712d0ce481298"
+    },
+    {
+      "name": "net9-rollup",
+      "commit": "3e629393b6327505392b85baa90d0b068b430f1c"
+    },
+    {
+      "name": "rc",
+      "commit": "03562189e4161c52037c968c471f4b3a03cbc659"
+    },
+    {
+      "name": "revert-2540-master",
+      "commit": "5ad617a1b3fde90ba86566af2a4e92125ad06028"
+    },
+    {
+      "name": "schemaupdate-master",
+      "commit": "ad11854790f9bec4597a48e72c77a8329b35d533"
+    }
+  ]
+}

@@ -7,14 +7,14 @@
       "project": "PriceInsight.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PriceInsight.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "bfb5ad07728073e1155f29923e29d1147877867a",
+  "sourceCommit": "e2838ad43bf93a8659ead1c7d78eb49d92450131",
   "publishedSource": true,
   "dependencyPatches": 0
 }

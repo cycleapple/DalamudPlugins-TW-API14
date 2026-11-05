@@ -7,14 +7,14 @@
       "project": "InventoryTools/InventoryTools.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.2,
+      "seconds": 11.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\InventoryTools.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
+  "sourceCommit": "46b31dc7b57c4d2f89f71eb95644d4a8a98a32a0",
   "publishedSource": true,
   "dependencyPatches": 3
 }

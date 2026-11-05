@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/TeleporterPlugin",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:07Z",
+  "parent": {
+    "full_name": "pohky/TeleporterPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/pohky/TeleporterPlugin.git"
+  },
+  "source": {
+    "full_name": "pohky/TeleporterPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/pohky/TeleporterPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "pohky/TeleporterPlugin",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "20a9235830e1415e79ddef0c3e7ccf5a0cd52b79",
+  "apiMarkerPath": "TeleporterPlugin/TeleporterPlugin.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "14b96ed2c711073e005f9d5daee28aa70ff99792",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "427d431d8544870721b8b5f8c9be3f4d734cac7a",
+  "api14Date": "2025-12-19T17:11:10Z",
+  "api14Message": "clean up some warnings",
+  "api14Url": "https://github.com/pohky/TeleporterPlugin/commit/427d431d8544870721b8b5f8c9be3f4d734cac7a"
+}

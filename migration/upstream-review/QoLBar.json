@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/QoLBar",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A XIVLauncher plugin.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:21Z",
+  "parent": {
+    "full_name": "UnknownX7/QoLBar",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/QoLBar.git"
+  },
+  "source": {
+    "full_name": "UnknownX7/QoLBar",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/QoLBar.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "UnknownX7/QoLBar",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "eb1da5f93f56cd2ff43316fdb96cc3712abec519",
+  "apiMarkerPath": "QoLBar.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "b7305710f4a6c3857be7902d531e7984d6889dab",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "bd6f3c052c0f1fdabc9987804141ecfe065f2dc6",
+  "api14Date": "2025-12-21T01:49:35Z",
+  "api14Message": "Move icons to correct tabs",
+  "api14Url": "https://github.com/UnknownX7/QoLBar/commit/bd6f3c052c0f1fdabc9987804141ecfe065f2dc6"
+}

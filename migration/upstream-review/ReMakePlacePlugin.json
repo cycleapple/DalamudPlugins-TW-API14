@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ReMakePlacePlugin",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Re-makePlace FFXIV Plugin",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:35Z",
+  "parent": {
+    "full_name": "RemakePlace/plugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/RemakePlace/plugin.git"
+  },
+  "source": {
+    "full_name": "jawslouis/MakePlacePlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/jawslouis/MakePlacePlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "RemakePlace/plugin",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "0b0a29f5d850ffbbb1548e0408f9ac73653b3978",
+  "apiMarkerPath": "ReMakePlacePlugin/ReMakePlacePlugin.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "57828797bef317c9f41ad807dcd2ed58e957f095",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "375cf9dc365d10410141d0e5cd09c59aa11d1935",
+  "api14Date": "2026-01-14T09:50:08Z",
+  "api14Message": "trying to fix sizing issue",
+  "api14Url": "https://github.com/RemakePlace/plugin/commit/375cf9dc365d10410141d0e5cd09c59aa11d1935"
+}

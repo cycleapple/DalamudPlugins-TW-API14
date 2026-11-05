@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Housemate",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:32Z",
+  "parent": {
+    "full_name": "perchbirdd/Housemate",
+    "default_branch": "main",
+    "clone_url": "https://github.com/perchbirdd/Housemate.git"
+  },
+  "source": {
+    "full_name": "perchbirdd/Housemate",
+    "default_branch": "main",
+    "clone_url": "https://github.com/perchbirdd/Housemate.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "perchbirdd/Housemate",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "d5c94806d436e588d517fbfac472e53c1e3370c5",
+  "apiMarkerPath": "Housemate/Housemate.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "d5c94806d436e588d517fbfac472e53c1e3370c5",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "889ce7ae6d12f99b98e808335ed37dfb0d4890fa",
+  "api14Date": "2025-12-21T23:10:44Z",
+  "api14Message": "Update for 7.4",
+  "api14Url": "https://github.com/perchbirdd/Housemate/commit/889ce7ae6d12f99b98e808335ed37dfb0d4890fa"
+}

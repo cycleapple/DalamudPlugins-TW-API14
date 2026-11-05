@@ -7,14 +7,14 @@
       "project": "MouseLock/MouseLock.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.3,
+      "seconds": 1.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MouseLock.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
+  "sourceCommit": "fa2267f473a95f77da2e8103281c3182c061965b",
   "publishedSource": true,
   "dependencyPatches": 0
 }

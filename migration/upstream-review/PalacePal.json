@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/PalacePal",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Shows possible trap & Accursed Hoard locations in Palace of The Dead, Heaven on High, and Eureka Orthos.",
+  "homepage": "https://puni.sh/plugin/PalacePal",
+  "pushed_at": "2026-11-05T16:51:05Z",
+  "parent": {
+    "full_name": "PunishXIV/PalacePal",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/PalacePal.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/PalacePal",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/PalacePal.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/PalacePal",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "021636c14ef59c0310139959cb829d11c484cf68",
+  "apiMarkerPath": "Pal.Client/Pal.Client.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "bd0959c2863383aa471d182721f612f3e9bfa2a9",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "b3dadf55c51afe1b8a6c20cf8d989c4074dcdf35",
+  "api14Date": "2025-12-22T16:56:22Z",
+  "api14Message": "version",
+  "api14Url": "https://github.com/PunishXIV/PalacePal/commit/b3dadf55c51afe1b8a6c20cf8d989c4074dcdf35"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Glamourer",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Change outside appearance of actors using Penumbra.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:27Z",
+  "parent": {
+    "full_name": "Ottermandias/Glamourer",
+    "default_branch": "testing",
+    "clone_url": "https://github.com/Ottermandias/Glamourer.git"
+  },
+  "source": {
+    "full_name": "Ottermandias/Glamourer",
+    "default_branch": "testing",
+    "clone_url": "https://github.com/Ottermandias/Glamourer.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Ottermandias/Glamourer",
+  "upstreamDefaultBranch": "testing",
+  "upstreamHead": "e165910345b17b99d9aa35990005b5e0f73ae65b",
+  "apiMarkerPath": "Glamourer/Glamourer.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "4ef452a41176d8d9b6611a8c5d740e565aea219d",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "0308a4bf6b90389ee4c9871f91fc0a03a7f32318",
+  "api14Date": "2026-04-30T19:34:41Z",
+  "api14Message": "Update cmp offsets.",
+  "api14Url": "https://github.com/Ottermandias/Glamourer/commit/0308a4bf6b90389ee4c9871f91fc0a03a7f32318"
+}

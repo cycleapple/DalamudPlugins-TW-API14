@@ -1,0 +1,51 @@
+[
+  {
+    "repository": "cycleapple/Ktisis",
+    "path": "Ktisis/Editor/Posing/PosingModule.cs",
+    "upstreamPath": "Ktisis/Editor/Posing/PosingModule.cs",
+    "kind": "delegate",
+    "symbol": "CalcBoneModelSpaceDelegate",
+    "current": {
+      "returns": "nint",
+      "parameters": [
+        "ref hkaPose",
+        "int"
+      ]
+    },
+    "upstream": {
+      "returns": "hkQsTransformf*",
+      "parameters": [
+        "hkaPose*",
+        "int"
+      ]
+    },
+    "upstreamEvidence": "last-api14-before-project-upgrade",
+    "resolution": "ABI-equivalent: nint and native pointer return; ref hkaPose and hkaPose* both pass one pointer on x64."
+  },
+  {
+    "repository": "cycleapple/Penumbra",
+    "path": "Penumbra/Interop/Hooks/DebugHook.cs",
+    "upstreamPath": "Penumbra/Interop/Hooks/DebugHook.cs",
+    "kind": "delegate",
+    "symbol": "Delegate",
+    "current": {
+      "returns": "nint",
+      "parameters": [
+        "ResourceHandle*",
+        "int",
+        "int"
+      ]
+    },
+    "upstream": {
+      "returns": "byte",
+      "parameters": [
+        "nint",
+        "nint",
+        "int",
+        "uint"
+      ]
+    },
+    "upstreamEvidence": "last-api14-before-project-upgrade",
+    "resolution": "Inactive DEBUG-only placeholder with empty signature; not an enabled Release hook."
+  }
+]

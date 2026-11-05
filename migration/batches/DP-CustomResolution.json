@@ -7,14 +7,14 @@
       "project": "CustomResolution2782/CustomResolution2782.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.8,
+      "seconds": 2.4,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\CustomResolution2782.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
+  "sourceCommit": "ec7dba2e98f0bd3bc96345d2ea898f78dafcbd5a",
   "publishedSource": true,
   "dependencyPatches": 1
 }

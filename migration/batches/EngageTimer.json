@@ -7,14 +7,14 @@
       "project": "Plugin/EngageTimer.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.4,
+      "seconds": 3.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\EngageTimer.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "492804f08f6f83a7932acc4fa8631f87214460e0",
+  "sourceCommit": "eda741d957a1518387f15dbdb9c99586cb8c7c3c",
   "publishedSource": true,
   "dependencyPatches": 0
 }

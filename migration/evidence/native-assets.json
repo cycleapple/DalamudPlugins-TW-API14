@@ -1,0 +1,33 @@
+[
+  {
+    "internalName": "Aetherment",
+    "nativeDll": "aetherment_core.dll",
+    "sha256": "54c06204d35b664c1da59e2c6b2f4f5ab0994887e8d10ac8801e9b3394f8670f",
+    "requiredExports": [
+      "initialize",
+      "destroy",
+      "draw",
+      "command",
+      "config_plugin_open_on_launch",
+      "backend_penumbraipc_modchanged"
+    ],
+    "packageFiles": "passed",
+    "apiLevel": 14,
+    "architecture": "AMD64",
+    "nativeBuild": "passed-rust-locked",
+    "tcRuntime": "pending"
+  },
+  {
+    "internalName": "Raphael.Dalamud",
+    "nativeDll": "raphael_bindings.dll",
+    "sha256": "8ced53b7f865380e5708a8a7cbf31db2b21247c8dc6e3850d73e528a7e56e4dd",
+    "requiredExports": [
+      "solve"
+    ],
+    "packageFiles": "passed",
+    "apiLevel": 14,
+    "architecture": "AMD64",
+    "nativeBuild": "provided-version-independent-solver",
+    "tcRuntime": "pending"
+  }
+]

@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 WORK = ROOT.parent
 DOTNET = Path(os.environ.get("API14_DOTNET", str(WORK.parent / "api13-extended-work/tools/dotnet10/dotnet.exe")))
-REFS = Path(os.environ.get("DALAMUD_HOME", str(WORK / "references/upstream-api14")))
+REFS = Path(os.environ.get("DALAMUD_HOME", str(WORK / "references/upstream-api14-final")))
 ALIASES = {"LoporritSync": "MareSynchronos", "PalacePal": "Pal.Client", "PeepingTom": "Peeping Tom", "GatherBuddyReborn": "GatherBuddy"}
 
 
@@ -69,14 +69,18 @@ def migrate(path):
             continue
         if p.suffix in [".csproj", ".props", ".targets"]:
             text = p.read_text(encoding="utf-8-sig")
-            new = re.sub(r"Dalamud\.(?:CN\.)?NET\.Sdk/13\.[\w.\-]+", "Dalamud.NET.Sdk/14.0.1", text)
+            new = re.sub(r"Dalamud\.(?:CN\.)?NET\.Sdk/(?:12|13)\.[\w.\-]+", "Dalamud.NET.Sdk/14.0.1", text, flags=re.I)
             new = re.sub(r'(<Sdk\s+Name="Dalamud.NET.Sdk"\s+Version=")13\.[^\"]+', r'\g<1>14.0.1', new)
-            new = re.sub(r'((?:Include|Update)="DalamudPackager"\s+Version=")13\.[^\"]+', r'\g<1>14.0.1', new)
+            new = re.sub(r'((?:Include|Update)="DalamudPackager"\s+Version=")(\d+)\.[^\"]+',
+                         lambda m: m[1] + '14.0.1' if int(m[2]) < 14 else m[0], new, flags=re.I)
             new = re.sub(r'(<DalamudApiLevel>)13(</DalamudApiLevel>)', r'\g<1>14\2', new)
             new = re.sub(r'\bnet9\.0(?=[<;"\-])', 'net10.0', new)
             new = re.sub(r'\bnet9(?=[<;"\-])', 'net10.0', new)
             new = re.sub(r'((?:Include|Update)="[Ee][Cc]ommons"\s+Version=")3\.0\.[^\"]+', r'\g<1>3.1.0.29', new)
             new = new.replace('<Use_Dalamud_CN>true</Use_Dalamud_CN>', '<Use_Dalamud_CN>false</Use_Dalamud_CN>')
+            if p.name == 'ECommons.csproj':
+                # These ECommons revisions do not use SharpDX types. API14 no longer supplies this DLL.
+                new = re.sub(r'\s*<Reference Include="SharpDX.Mathematics">.*?</Reference>', '', new, flags=re.S)
             if new != text:
                 p.write_text(new, encoding="utf-8")
                 changed.append(name)
@@ -84,16 +88,24 @@ def migrate(path):
             try:
                 text = p.read_text(encoding="utf-8-sig")
                 data = json.loads(text)
-                if isinstance(data, dict) and data.get("DalamudApiLevel") == 13:
-                    new = re.sub(r'("(?:Testing)?DalamudApiLevel"\s*:\s*)13\b', r'\g<1>14', text)
-                    p.write_text(new, encoding="utf-8")
-                    changed.append(name)
-                elif name == "global.json" and str(data.get("sdk", {}).get("version", "")).startswith("9."):
+                if isinstance(data, dict):
+                    new = re.sub(r'("(?:Testing)?DalamudApiLevel"\s*:\s*)("?)13\2', r'\g<1>14', text, flags=re.I)
+                    new = re.sub(r'("MinimumDalamudVersion"\s*:\s*")13\.[^\"]*', r'\g<1>14.0.5.1', new, flags=re.I)
+                    if new != text:
+                        p.write_text(new, encoding="utf-8")
+                        changed.append(name)
+                if name == "global.json" and str(data.get("sdk", {}).get("version", "")).startswith("9."):
                     data["sdk"]["version"] = "10.0.302"
                     p.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
                     changed.append(name)
             except (ValueError, UnicodeError):
                 pass
+        elif p.suffix in ['.yaml', '.yml']:
+            text = p.read_text(encoding='utf-8-sig')
+            new = re.sub(r'(?im)^(\s*(?:testing_)?dalamud_api_level\s*:\s*)[\"\x27]?13[\"\x27]?\s*$', r'\g<1>14', text)
+            if new != text:
+                p.write_text(new, encoding='utf-8')
+                changed.append(name)
     for line in run(["git", "ls-tree", "-r", "HEAD"], path).splitlines():
         if line.startswith("160000 "):
             name = line.split("\t", 1)[1]
@@ -158,7 +170,11 @@ def process(project, do_build):
                 start = time.monotonic()
                 try:
                     with log.open("w", encoding="utf-8") as f:
-                        proc = subprocess.run(args, cwd=dest, stdout=f, stderr=subprocess.STDOUT, env=env, timeout=600)
+                        prebuild = dest / '.api14/prebuild.ps1'
+                        native = subprocess.run(['powershell.exe', '-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', str(prebuild)], cwd=dest, stdout=f, stderr=subprocess.STDOUT, env=env, timeout=1200) if prebuild.exists() else None
+                        if native is not None:
+                            result['nativeBuild'] = 'passed' if native.returncode == 0 else 'failed'
+                        proc = native if native is not None and native.returncode != 0 else subprocess.run(args, cwd=dest, stdout=f, stderr=subprocess.STDOUT, env=env, timeout=600)
                     result["status"] = "build-passed" if proc.returncode == 0 else "build-failed"
                     text = log.read_text(encoding="utf-8", errors="replace")
                     result["errors"] = list(dict.fromkeys(line.strip() for line in text.splitlines() if ": error " in line))[:35]

@@ -7,14 +7,14 @@
       "project": "MultiHit/MultiHit.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MultiHit.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
+  "sourceCommit": "99416b33c8b286b4c7d67a3be3acf13a827995ee",
   "publishedSource": true,
   "dependencyPatches": 0
 }

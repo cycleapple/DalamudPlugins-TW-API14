@@ -7,14 +7,14 @@
       "project": "Facade.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.4,
+      "seconds": 2.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Facade.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "95125c9a8a6de8726d22c404267ded5589341eae",
+  "sourceCommit": "30175d4ac44ab52defdb5823d67ce5d450ae2c4b",
   "publishedSource": true,
   "dependencyPatches": 0
 }

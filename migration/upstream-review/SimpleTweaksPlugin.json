@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/SimpleTweaksPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:26Z",
+  "parent": {
+    "full_name": "Caraxi/SimpleTweaksPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Caraxi/SimpleTweaksPlugin.git"
+  },
+  "source": {
+    "full_name": "Caraxi/SimpleTweaksPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Caraxi/SimpleTweaksPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Caraxi/SimpleTweaksPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "c039932e40b0c752c09005cc4fdc362b6b786da4",
+  "apiMarkerPath": "SimpleTweaksPlugin.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "74a41f1802a92572dc6cce5e80627b8e229281ef",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "b3cdea11a4b26d56b101be05997ea8c1b44b44e7",
+  "api14Date": "2026-01-05T11:19:38Z",
+  "api14Message": "more null checks I guess",
+  "api14Url": "https://github.com/Caraxi/SimpleTweaksPlugin/commit/b3cdea11a4b26d56b101be05997ea8c1b44b44e7"
+}

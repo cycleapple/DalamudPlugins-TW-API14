@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/CriticalCommonLib",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud Common Library",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:48:16Z",
+  "parent": {
+    "full_name": "Critical-Impact/CriticalCommonLib",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/CriticalCommonLib.git"
+  },
+  "source": {
+    "full_name": "Critical-Impact/CriticalCommonLib",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/CriticalCommonLib.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Critical-Impact/CriticalCommonLib",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "34d364ea938e585b4f7eeab5b36e4261fdd817d0",
+  "apiMarkerPath": "CriticalCommonLib.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "a2bda43c89f88a934d35b8d6ab94696f013f8f05",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f2ab294b43f969c25ea565e13d67851eaa37c9c6",
+  "api14Date": "2026-04-26T05:42:25Z",
+  "api14Message": "Add flag icon",
+  "api14Url": "https://github.com/Critical-Impact/CriticalCommonLib/commit/f2ab294b43f969c25ea565e13d67851eaa37c9c6"
+}

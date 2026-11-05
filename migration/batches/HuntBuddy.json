@@ -7,14 +7,14 @@
       "project": "HuntBuddy/HuntBuddy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.0,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\HuntBuddy.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "28192e8d076316ac88118eb7b7eee69f78d87394",
+  "sourceCommit": "894182e513925474cfbf14f1c8065fdea115ac0d",
   "publishedSource": true,
   "dependencyPatches": 0
 }

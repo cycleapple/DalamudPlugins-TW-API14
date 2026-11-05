@@ -1,0 +1,24 @@
+{
+  "nativeParameters": 9,
+  "legacyCallbackParameters": 7,
+  "source": "NightmareXIV/ECommons@7f7b741dfe30a7f42de6802d3a10a60afb273661",
+  "paths": [
+    "sources\\AutoMinion\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "dependencies\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\AutoDuty\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\ChilledLeves\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Explorers-Icebox\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\WrathCombo\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Avarice\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\GatherBuddyReborn\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Hyperborea\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Ices-Cosmic-Exploration\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\PandorasBox\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Orbwalker\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Splatoon\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\AutoRetainer\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\TextAdvance\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\LazyLoot\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs",
+    "sources\\Lifestream\\ECommons\\ECommons\\Hooks\\DirectorUpdate.cs"
+  ]
+}

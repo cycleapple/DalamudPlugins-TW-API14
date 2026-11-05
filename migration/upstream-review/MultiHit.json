@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/MultiHit",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Split flytext to match animation swings",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:16:36Z",
+  "parent": {
+    "full_name": "Bluefissure/MultiHit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Bluefissure/MultiHit.git"
+  },
+  "source": {
+    "full_name": "Bluefissure/MultiHit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Bluefissure/MultiHit.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Bluefissure/MultiHit",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "e4a9c6fbd406a0ac1afd968a0f11ab27785a6ec6",
+  "apiMarkerPath": "MultiHit/MultiHit.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "e4a9c6fbd406a0ac1afd968a0f11ab27785a6ec6",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "448c780dad3e407248055f447f8f0fe882512a77",
+  "api14Date": "2026-05-10T05:14:30Z",
+  "api14Message": "Merge pull request #35 from Mustar1989/master",
+  "api14Url": "https://github.com/Bluefissure/MultiHit/commit/448c780dad3e407248055f447f8f0fe882512a77"
+}

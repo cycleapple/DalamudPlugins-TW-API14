@@ -7,14 +7,14 @@
       "project": "Glamourer/Glamourer.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 4.0,
+      "seconds": 2.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Glamourer.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "50fa8b8248cd8335cb0ba68a08b600f8ad17ec01",
+  "sourceCommit": "488c3588384fdfdf60369d6cc2c3c7011d60a951",
   "publishedSource": true,
   "dependencyPatches": 6
 }

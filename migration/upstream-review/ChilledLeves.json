@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/ChilledLeves",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Another leve turnin plugin that might never get finished",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:12:50Z",
+  "parent": {
+    "full_name": "LeontopodiumNivale14/ChilledLeves",
+    "default_branch": "Main-Branch",
+    "clone_url": "https://github.com/LeontopodiumNivale14/ChilledLeves.git"
+  },
+  "source": {
+    "full_name": "LeontopodiumNivale14/ChilledLeves",
+    "default_branch": "Main-Branch",
+    "clone_url": "https://github.com/LeontopodiumNivale14/ChilledLeves.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "LeontopodiumNivale14/ChilledLeves",
+  "upstreamDefaultBranch": "Main-Branch",
+  "upstreamHead": "01bd8f5047479d2dc703732c2a31e4d6e9c24256",
+  "apiMarkerPath": "ChilledLeves/ChilledLeves.csproj",
+  "headApiLevel": 14,
+  "upstreamStatus": "api14-head-confirmed",
+  "api14Commit": "01bd8f5047479d2dc703732c2a31e4d6e9c24256",
+  "api14Date": "2026-11-05T21:34:51Z",
+  "api14Message": "Cleaned up commands, ui fixes",
+  "api14Url": "https://github.com/LeontopodiumNivale14/ChilledLeves/commit/01bd8f5047479d2dc703732c2a31e4d6e9c24256"
+}

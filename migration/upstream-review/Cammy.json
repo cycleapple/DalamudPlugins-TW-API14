@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Cammy",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A XIVLauncher plugin.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:12:44Z",
+  "parent": {
+    "full_name": "UnknownX7/Cammy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/Cammy.git"
+  },
+  "source": {
+    "full_name": "UnknownX7/Cammy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/Cammy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "UnknownX7/Cammy",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "c9895b2ca7a4d285aa967be46a2963cbaddd7282",
+  "apiMarkerPath": "Cammy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "5fc5cac284175fa789fa97d5e2bafcc6dec96fff",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "42259f106d8ef95d7e43d45b4e26e59769be1bdd",
+  "api14Date": "2026-04-28T09:05:39Z",
+  "api14Message": "Fix for 7.5",
+  "api14Url": "https://github.com/UnknownX7/Cammy/commit/42259f106d8ef95d7e43d45b4e26e59769be1bdd"
+}

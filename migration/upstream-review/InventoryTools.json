@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/InventoryTools",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud plugin for inventory tracking",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:50:03Z",
+  "parent": {
+    "full_name": "Critical-Impact/InventoryTools",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/InventoryTools.git"
+  },
+  "source": {
+    "full_name": "Critical-Impact/InventoryTools",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/InventoryTools.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Critical-Impact/InventoryTools",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "70a9f410d9a8ab97bef6bcf795415ea2d7c75097",
+  "apiMarkerPath": "InventoryTools/InventoryTools.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "9b722a3844535acde0fa29d3c1999ed30f664270",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "2043c0188760b2e050062cd9c6ffb666a16865da",
+  "api14Date": "2026-04-26T05:49:10Z",
+  "api14Message": "14.1.3",
+  "api14Url": "https://github.com/Critical-Impact/InventoryTools/commit/2043c0188760b2e050062cd9c6ffb666a16865da"
+}

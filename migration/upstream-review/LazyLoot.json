@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/LazyLoot",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": "https://puni.sh/plugin/LazyLoot",
+  "pushed_at": "2026-11-05T16:15:58Z",
+  "parent": {
+    "full_name": "PunishXIV/LazyLoot",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/LazyLoot.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/LazyLoot",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/LazyLoot.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/LazyLoot",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "6613f821332a8d450841d895a934a257e708f95c",
+  "upstreamStatus": "api14-head-confirmed",
+  "apiMarkerPath": "LazyLoot/LazyLoot.csproj",
+  "headApiLevel": 14,
+  "api14Commit": "6613f821332a8d450841d895a934a257e708f95c",
+  "api14Date": "2026-04-30T19:15:55Z",
+  "api14Message": "Fulf Fix",
+  "api14Url": "https://github.com/PunishXIV/LazyLoot/commit/6613f821332a8d450841d895a934a257e708f95c"
+}

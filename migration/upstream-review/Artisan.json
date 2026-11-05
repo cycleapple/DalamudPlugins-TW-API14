@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/Artisan",
+  "fork": true,
+  "default_branch": "cn",
+  "description": "A 'simple' crafting plugin.",
+  "homepage": "https://puni.sh/plugin/Artisan",
+  "pushed_at": "2026-11-05T16:03:58Z",
+  "parent": {
+    "full_name": "MeowZWR/Artisan",
+    "default_branch": "cn",
+    "clone_url": "https://github.com/MeowZWR/Artisan.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Artisan",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/Artisan.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Artisan",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "a6118e6ab278d7ce5355011b5105fc47f0b7c542",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "Artisan/Artisan.json",
+  "headApiLevel": 13,
+  "manualReviewVersion": 1,
+  "api14Commit": "d49905965f304c285a6f042538706e5c148955e7",
+  "api14Date": "2026-04-25T19:47:59Z",
+  "api14Url": "https://github.com/PunishXIV/Artisan/commit/d49905965f304c285a6f042538706e5c148955e7"
+}

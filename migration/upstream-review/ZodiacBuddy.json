@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ZodiacBuddy",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:41Z",
+  "parent": {
+    "full_name": "foophoof/ZodiacBuddy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/foophoof/ZodiacBuddy.git"
+  },
+  "source": {
+    "full_name": "foophoof/ZodiacBuddy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/foophoof/ZodiacBuddy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "foophoof/ZodiacBuddy",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "bdf89eaced8b305f111cc7d927726455b752c3d6",
+  "apiMarkerPath": "ZodiacBuddy/ZodiacBuddy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "bdf89eaced8b305f111cc7d927726455b752c3d6",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "1f46fb6281aaed4f9ad1d65697bb25f13283694f",
+  "api14Date": "2026-02-04T13:05:07Z",
+  "api14Message": "1.14.1.0",
+  "api14Url": "https://github.com/foophoof/ZodiacBuddy/commit/1f46fb6281aaed4f9ad1d65697bb25f13283694f"
+}

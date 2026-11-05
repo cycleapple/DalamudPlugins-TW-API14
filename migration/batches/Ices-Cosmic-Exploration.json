@@ -7,14 +7,16 @@
       "project": "ICE/ICE.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.4,
+      "seconds": 8.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ICE.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
+  "sourceCommit": "557bf643b768e6c7130898aaba7bf0bc3f4600e9",
   "publishedSource": true,
   "dependencyPatches": 2
 }

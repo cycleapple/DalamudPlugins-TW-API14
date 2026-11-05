@@ -1,0 +1,993 @@
+[
+  {
+    "internalName": "HighFpsPhysicsPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "C:\\Users\\cycle\\AppData\\Roaming\\XIVLauncher\\devPlugins\\HighFpsPhysicsPlugin\\HighFpsPhysicsPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ActionTimelineReplacement",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ActionTimelineReplacement\\bin\\Release\\ActionTimelineReplacement\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AllaganItemSearch",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AllaganItemSearch\\AllaganItemSearch\\bin\\Release\\AllaganItemSearch\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AllaganMarket",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AllaganMarket\\AllaganMarket\\bin\\Release\\AllaganMarket\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AntiAfkKick-Dalamud",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AntiAfkKick\\AntiAfkKick-Dalamud\\bin\\Release\\AntiAfkKick-Dalamud\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Artisan",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Artisan\\Artisan\\bin\\Release\\Artisan\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AutoDuty",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoDuty\\AutoDuty\\bin\\Release\\AutoDuty\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AutoHook",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoHook\\AutoHook\\bin\\Release\\AutoHook\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AutoMinion",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoMinion\\AutoMinion\\bin\\Release\\AutoMinion\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "AutoRetainer",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoRetainer\\AutoRetainer\\bin\\Release\\AutoRetainer\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Avarice",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Avarice\\Avarice\\bin\\Release\\Avarice\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BDTHPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BDTHPlugin\\BDTHPlugin\\bin\\Release\\BDTHPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BOCCHI",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BOCCHI\\BOCCHI\\bin\\Release\\BOCCHI\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BetterMountRoulette",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BetterMountRoulette\\dist\\BetterMountRoulette\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BigPlayerDebuffs",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BigPlayerDebuffs\\bin\\Release\\BigPlayerDebuffs\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BossModReborn",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BossmodReborn\\BossMod\\bin\\Release\\BossModReborn\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Brio",
+    "status": "no-local-zip",
+    "manifest": "passed"
+  },
+  {
+    "internalName": "Doorbell",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Build\\Doorbell\\Doorbell\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Cammy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Cammy\\bin\\Release\\Cammy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ChatTwo",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ChatTwo\\ChatTwo\\bin\\Release\\ChatTwo\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ChilledLeves",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ChilledLeves\\ChilledLeves\\bin\\Release\\ChilledLeves\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Craftimizer",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Craftimizer\\Craftimizer\\bin\\Release\\Craftimizer\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "CrossUp",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\CrossUp\\bin\\Release\\CrossUp\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "CustomizePlus",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\CustomizePlus\\CustomizePlus\\bin\\Release\\CustomizePlus\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "CustomResolution2782",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\DP-CustomResolution\\CustomResolution2782\\bin\\Release\\CustomResolution2782\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "DailyDuty",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\DailyDuty\\DailyDuty\\bin\\Release\\DailyDuty\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "FlashOnTell",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Dalamud-FlashOnTellPlugin\\FlashOnTell\\bin\\Release\\FlashOnTell\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "VFXEditor",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Dalamud-VFXEditor-API13\\VFXEditor\\bin\\Release\\VFXEditor\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Deliveroo",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Deliveroo\\Deliveroo\\dist\\Deliveroo\\Deliveroo-7.4.0.1.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Distance",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Distance\\Distance\\bin\\Release\\Distance\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "DozeAnywhere",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\DozeAnywhere\\DozeAnywhere\\bin\\Release\\DozeAnywhere\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "EasyEyes",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EasyEyes\\EasyEyes\\bin\\Release\\EasyEyes\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "EnemyListDebuffs",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EnemyListDebuffs\\bin\\Release\\EnemyListDebuffs\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "EngageTimer",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EngageTimer\\Plugin\\bin\\Release\\EngageTimer\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "EnmityHp",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EnmityHp\\EnmityHp\\bin\\Release\\EnmityHp\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "EurekaTrackerAutoPopper",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EurekaTrackerAutoPopper\\EurekaTrackerAutoPopper\\bin\\Release\\EurekaTrackerAutoPopper\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ExplorersIcebox",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Explorers-Icebox\\ExplorersIcebox\\bin\\Release\\ExplorersIcebox\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MiniCactpotSolver",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EzMiniCactpot\\MiniCactpotSolver\\bin\\Release\\MiniCactpotSolver\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "TriadBuddy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\FFTriadBuddyDalamud\\bin\\Release\\TriadBuddy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "FPSPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\FPSPlugin\\bin\\Release\\FPSPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Facade",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Facade\\bin\\Release\\Facade\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "FlyTextFilter",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\FlyTextFilter\\FlyTextFilter\\bin\\Release\\FlyTextFilter\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Fungah",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Fungah-Totally-Safe-Spot\\Fungah\\bin\\Release\\Fungah\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "GatherBuddyReborn",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\GatherBuddyReborn\\GatherBuddy\\bin\\Release\\GatherBuddyReborn\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "GaugeOMatic",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\GaugeOMatic\\GaugeOMatic\\bin\\Release\\GaugeOMatic\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Gearsetter",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Gearsetter\\Gearsetter\\dist\\Gearsetter\\Gearsetter-4.0.0.1.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Glamourer",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Glamourer\\Glamourer\\bin\\Release\\Glamourer\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Honorific",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Honorific\\bin\\Release\\Honorific\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Housemate",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Housemate\\Housemate\\bin\\Release\\Housemate\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "HuntBuddy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\HuntBuddy\\HuntBuddy\\bin\\Release\\HuntBuddy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Hyperborea",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Hyperborea\\Hyperborea\\bin\\Release\\Hyperborea\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "IINACT",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\IINACT\\IINACT\\bin\\Release\\win-x64\\IINACT\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ICE",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Ices-Cosmic-Exploration\\ICE\\bin\\Release\\ICE\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "InventoryTools",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\InventoryTools\\InventoryTools\\bin\\Release\\InventoryTools\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "JobBars",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\JobBars\\JobBars\\bin\\Release\\JobBars\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Ktisis",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Ktisis\\Ktisis\\bin\\Release\\Ktisis\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "LMeter",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LMeter_TC\\LMeter\\bin\\Release\\win-x64\\LMeter\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "LazyLoot",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LazyLoot\\LazyLoot\\bin\\Release\\LazyLoot\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Lifestream",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Lifestream\\Lifestream\\bin\\Release\\Lifestream\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "LoporritSync",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LopClient\\MareSynchronos\\bin\\Release\\LoporritSync\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MapLinker",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MapLinker\\MapLinker\\bin\\Release\\MapLinker\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Mappy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Mappy\\Mappy\\bin\\Release\\Mappy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MarketBoardPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MarketBoardPlugin\\MarketBoardPlugin\\bin\\Release\\MarketBoardPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Marketbuddy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Marketbuddy\\Marketbuddy\\bin\\Release\\Marketbuddy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MeterWay",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MeterWay\\MeterWay\\bin\\Release\\MeterWay\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MidiBard2",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MidiBard2\\Midibard\\bin\\Release\\MidiBard2\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MissFisher",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MissFisher\\.api14\\artifacts\\MissFisher-1.9.20.1.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "DeepDungeonDex",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MonsterDex\\DeepDungeonDex\\bin\\Release\\DeepDungeonDex\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MouseLock",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MouseLock\\MouseLock\\bin\\Release\\MouseLock\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MultiHit",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MultiHit\\MultiHit\\bin\\Release\\MultiHit\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "NOTED",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NOTED\\NOTED\\bin\\Release\\NOTED\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Namingway",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NamingWay\\Namingway\\bin\\Release\\Namingway\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "NecroLens",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NecroLens\\NecroLens\\bin\\Release\\NecroLens\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "NoClippy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NoClippy\\bin\\Release\\NoClippy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "NotificationMaster",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NotificationMaster\\NotificationMaster\\bin\\Release\\NotificationMaster\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Orbwalker",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Orbwalker\\Orbwalker\\bin\\Release\\Orbwalker\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "orchestrion",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\OrchestrionPlugin\\Orchestrion\\bin\\Release\\orchestrion\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PalacePal",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PalacePal\\Pal.Client\\dist\\PalacePal\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PandorasBox",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PandorasBox\\PandorasBox\\bin\\Release\\PandorasBox\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PeepingTom",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PeepingTom\\Peeping Tom\\bin\\Release\\PeepingTom\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PennyPincher",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PennyPincher\\bin\\Release\\PennyPincher\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Penumbra",
+    "status": "no-local-zip",
+    "manifest": "passed"
+  },
+  {
+    "internalName": "PingPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PingPlugin\\PingPlugin\\bin\\Release\\PingPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PixelPerfect",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PixelPerfect\\PixelPerfect\\bin\\Release\\PixelPerfect\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PlayerWatchlist",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PlayerWatchlist\\bin\\Release\\PlayerWatchlist\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PocketRecorder",
+    "status": "no-local-zip",
+    "manifest": "passed"
+  },
+  {
+    "internalName": "QoLBar",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\QoLBar\\bin\\Release\\QoLBar\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "GatheringPathRenderer",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Questionable\\GatheringPathRenderer\\dist\\GatheringPathRenderer\\GatheringPathRenderer-0.10.0.1.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Questionable",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Questionable\\Questionable\\dist\\Questionable\\Questionable-13.68.129.8.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "RadarPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\RadarPlugin\\RadarPlugin\\bin\\Release\\RadarPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Raphael.Dalamud",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Raphael.Dalamud\\Raphael.Dalamud\\bin\\Release\\Raphael.Dalamud\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ReAction",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ReAction\\bin\\Release\\ReAction\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ReMakePlacePlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ReMakePlacePlugin\\bin\\ReMakePlacePlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "RezPls",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\RezPls\\RezPls\\bin\\Release\\RezPls\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "RotationSolver",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\RotationSolverReborn\\RotationSolver\\bin\\Release\\RotationSolver\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Saucy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Saucy\\Saucy\\bin\\Release\\Saucy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SimpleHeels",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SimpleHeels\\bin\\Release\\SimpleHeels\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SimpleTweaksPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SimpleTweaksPlugin\\bin\\Release\\SimpleTweaksPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Skippy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Skippy\\Skippy\\Skippy\\bin\\Release\\net10.0-windows\\Skippy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SomethingNeedDoing",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SomethingNeedDoing\\SomethingNeedDoing\\bin\\Release\\SomethingNeedDoing\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SonarPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SonarDistrib\\SonarPlugin\\bin\\SonarPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SortaKinda",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SortaKinda\\SortaKinda\\bin\\Release\\SortaKinda\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Splatoon",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Splatoon\\Splatoon\\bin\\Release\\Splatoon\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "SubmarineTracker",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SubmarineTracker\\SubmarineTracker\\bin\\Release\\SubmarineTracker\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "TeleporterPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\TeleporterPlugin\\TeleporterPlugin\\bin\\Release\\TeleporterPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "TextAdvance",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\TextAdvance\\TextAdvance\\bin\\Release\\TextAdvance\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "TitleEdit",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\TitleEdit\\TitleEdit\\bin\\Release\\TitleEdit\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Visibility",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\VisibilityPlugin\\Visibility\\bin\\Release\\Visibility\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "WaymarkPresetPlugin",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\WaymarkPresetPlugin\\WaymarkPresetPlugin\\bin\\Release\\WaymarkPresetPlugin\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "WrathCombo",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\WrathCombo\\WrathCombo\\bin\\Release\\WrathCombo\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "YesAlready",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\YesAlready\\YesAlready\\bin\\Release\\YesAlready\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ZodiacBuddy",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ZodiacBuddy\\ZodiacBuddy\\bin\\Release\\ZodiacBuddy\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Aetherment",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\aetherment\\plugin\\plugin\\bin\\Release\\Aetherment\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "ChatCoordinates",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\dalamud-chatcoordinates\\ChatCoordinates\\bin\\Release\\ChatCoordinates\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Automaton",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-bundleoftweaks\\ffxiv_bundledtweaks\\bin\\Release\\Automaton\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "DeathRecap",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-deathrecap\\bin\\Release\\DeathRecap\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PriceInsight",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-priceinsight\\bin\\Release\\PriceInsight\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "BossMod",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_bossmod\\BossMod\\bin\\Release\\BossMod\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "vnavmesh",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_navmesh\\vnavmesh\\bin\\Release\\vnavmesh\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "visland",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_visland\\ffxiv_visland\\bin\\Release\\visland\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "MaskOfKefka",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\mask-of-kefka\\MaskOfKefka\\bin\\Release\\MaskOfKefka\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "Umbra",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\umbra\\out\\Release\\Umbra\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "vfaux",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\vfaux\\vfaux\\bin\\Release\\vfaux\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "XivTreasureParty",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\xiv-party-treasure-helper\\XivTreasureParty\\bin\\Release\\XivTreasureParty\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  },
+  {
+    "internalName": "PartyIcons",
+    "status": "passed",
+    "manifest": "passed",
+    "package": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\xivPartyIcons\\PartyIcons\\bin\\Release\\PartyIcons\\latest.zip",
+    "matchesBuiltDll": true,
+    "bundledHostAssemblies": []
+  }
+]

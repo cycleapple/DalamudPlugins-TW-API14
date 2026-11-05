@@ -7,14 +7,14 @@
       "project": "EnemyListDebuffs.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.9,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\EnemyListDebuffs.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "4e2feeb7e7300b578a54072e34aeca53345b971b",
+  "sourceCommit": "0deb1c8fbd5c65cdab9d3a3c8a427b75f5aed117",
   "publishedSource": true,
   "dependencyPatches": 0
 }

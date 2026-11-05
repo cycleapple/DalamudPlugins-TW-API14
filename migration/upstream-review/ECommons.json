@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ECommons",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A library for Dalamud",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:33:28Z",
+  "parent": {
+    "full_name": "NightmareXIV/ECommons",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/ECommons.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/ECommons",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/ECommons.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/ECommons",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "6e3524d0c6d229b854d300d949b6a315aab97ab3",
+  "upstreamStatus": "api14-package-source-confirmed",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "0af507e47812e336bb5a13bcec90df63f618db4c",
+  "candidateDate": "2026-04-28T22:23:34Z",
+  "api14Commit": "7f7b741dfe30a7f42de6802d3a10a60afb273661",
+  "packageVersion": "3.1.0.29",
+  "packageDalamudReference": "14.0.4.1",
+  "api14Url": "https://github.com/NightmareXIV/ECommons/commit/7f7b741dfe30a7f42de6802d3a10a60afb273661"
+}

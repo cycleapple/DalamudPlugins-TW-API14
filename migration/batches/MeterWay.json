@@ -7,14 +7,14 @@
       "project": "MeterWay/MeterWay.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.5,
+      "seconds": 2.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MeterWay.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
+  "sourceCommit": "5ef5ee0b0f7b9009165e6af6577a067b0cc501d5",
   "publishedSource": true,
   "dependencyPatches": 0
 }

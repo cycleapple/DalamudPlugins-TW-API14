@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Questionable",
+  "fork": true,
+  "default_branch": "new-main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:55:40Z",
+  "parent": {
+    "full_name": "PunishXIV/Questionable",
+    "default_branch": "new-main",
+    "clone_url": "https://github.com/PunishXIV/Questionable.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Questionable",
+    "default_branch": "new-main",
+    "clone_url": "https://github.com/PunishXIV/Questionable.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Questionable",
+  "upstreamDefaultBranch": "new-main",
+  "upstreamHead": "f737a0865627bc6fa70fb7024ab403b3e4881736",
+  "apiMarkerPath": "GatheringPathRenderer/GatheringPathRenderer.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "98455941088ede9cbc4b6e7eb0b83c871152e641",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "e9f684572fdf8ce4f4390f378dab565db8ebf92c",
+  "api14Date": "2026-04-24T20:19:52Z",
+  "api14Message": "Alzadaals Legacy ran fine",
+  "api14Url": "https://github.com/PunishXIV/Questionable/commit/e9f684572fdf8ce4f4390f378dab565db8ebf92c"
+}

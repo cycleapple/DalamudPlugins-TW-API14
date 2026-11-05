@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Ktisis",
+  "fork": true,
+  "default_branch": "main",
+  "description": "A robust posing tool for creating screenshots in FFXIV's GPose mode.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:09Z",
+  "parent": {
+    "full_name": "ktisis-tools/Ktisis",
+    "default_branch": "main",
+    "clone_url": "https://github.com/ktisis-tools/Ktisis.git"
+  },
+  "source": {
+    "full_name": "ktisis-tools/Ktisis",
+    "default_branch": "main",
+    "clone_url": "https://github.com/ktisis-tools/Ktisis.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "ktisis-tools/Ktisis",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "774e61399df57108feea1f86dee54fc5bdb42877",
+  "apiMarkerPath": "Ktisis/Ktisis.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "14115943069b7c666a71103921d5fb774098ba82",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "e97e166ec486f9c410a96d7a5801bd4f9a555cb9",
+  "api14Date": "2026-04-30T00:58:19Z",
+  "api14Message": "pose gizmo popout",
+  "api14Url": "https://github.com/ktisis-tools/Ktisis/commit/e97e166ec486f9c410a96d7a5801bd4f9a555cb9"
+}

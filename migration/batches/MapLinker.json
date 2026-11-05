@@ -7,14 +7,14 @@
       "project": "MapLinker/MapLinker.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.4,
+      "seconds": 2.1,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MapLinker.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
+  "sourceCommit": "2ab73930bbb386dc66907ae8eb1a2efb5cdded29",
   "publishedSource": true,
   "dependencyPatches": 0
 }

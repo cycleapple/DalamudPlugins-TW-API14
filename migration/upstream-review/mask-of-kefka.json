@@ -1,0 +1,35 @@
+{
+  "full_name": "cycleapple/mask-of-kefka",
+  "fork": true,
+  "default_branch": "api13-tw",
+  "description": "Streamer mode for FFXIV: stream the game without showing Dalamud plugin overlays",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:22Z",
+  "parent": {
+    "full_name": "doomzao/mask-of-kefka",
+    "default_branch": "main",
+    "clone_url": "https://github.com/doomzao/mask-of-kefka.git"
+  },
+  "source": {
+    "full_name": "doomzao/mask-of-kefka",
+    "default_branch": "main",
+    "clone_url": "https://github.com/doomzao/mask-of-kefka.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "doomzao/mask-of-kefka",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "62bd263ffb0efe4e34f1507e2afc5fec683f00b0",
+  "apiMarkerPath": "MaskOfKefka/MaskOfKefka.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "no-api14-project-history-found",
+  "manualReviewVersion": 1,
+  "manualReviewError": "No pre-API15 history",
+  "upstreamCreatedAt": "2026-06-11T20:49:00Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "62bd263ffb0efe4e34f1507e2afc5fec683f00b0"
+    }
+  ]
+}

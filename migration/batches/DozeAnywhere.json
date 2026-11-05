@@ -7,14 +7,14 @@
       "project": "DozeAnywhere/DozeAnywhere.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 1.4,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\DozeAnywhere.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "5ba51f2530865aac7d483be221529166dbb6938e",
+  "sourceCommit": "0dead812bb97d823eddff176475f7789a53360f9",
   "publishedSource": true,
   "dependencyPatches": 0
 }

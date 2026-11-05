@@ -7,14 +7,14 @@
       "project": "Orchestrion/Orchestrion.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.3,
+      "seconds": 2.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\orchestrion.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
+  "sourceCommit": "7c06ac02c6e474822a731b8b153991978a164322",
   "publishedSource": true,
   "dependencyPatches": 0
 }

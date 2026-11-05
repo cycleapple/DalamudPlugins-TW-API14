@@ -1,0 +1,67 @@
+{
+  "full_name": "cycleapple/ffxiv_bossmod",
+  "fork": true,
+  "default_branch": "master",
+  "description": "BossMod FFXIV dalamud plugin",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:49:56Z",
+  "parent": {
+    "full_name": "awgil/ffxiv_bossmod",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_bossmod.git"
+  },
+  "source": {
+    "full_name": "awgil/ffxiv_bossmod",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_bossmod.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "awgil/ffxiv_bossmod",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "6e410ef8bb912fc70e3c1f97eedfb77a7dc4dfc0",
+  "apiMarkerPath": "BossMod/BossMod.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "api14-cutoff-source-confirmed",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+  "candidateDate": "2026-04-23T15:46:53Z",
+  "upstreamCreatedAt": "2022-02-13T10:56:23Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "dalamock",
+      "commit": "b0ccb15f7db5baf4118759931c96a5687445728a"
+    },
+    {
+      "name": "dalamockv2",
+      "commit": "6d85abd527bd0da92b576a328713d676fc8ad2ef"
+    },
+    {
+      "name": "dalamockv3",
+      "commit": "529d058031ce363278fdb586960add819c5f97a2"
+    },
+    {
+      "name": "dalamockv4",
+      "commit": "70a42c78c549704b5ef473f32340358acddc24cb"
+    },
+    {
+      "name": "gaze_avoid_forced_movement_bug",
+      "commit": "a562898ddad3e7585ab143ce75a28f2e14637736"
+    },
+    {
+      "name": "master",
+      "commit": "6e410ef8bb912fc70e3c1f97eedfb77a7dc4dfc0"
+    },
+    {
+      "name": "packify",
+      "commit": "530272a88410229806fbdab4ae3fe23fd157cb48"
+    },
+    {
+      "name": "testing",
+      "commit": "c02a6105e00a4f2604f5dd9569cb76259fe37b74"
+    }
+  ],
+  "api14Commit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+  "api14Date": "2026-04-23T15:46:53Z",
+  "api14Url": "https://github.com/awgil/ffxiv_bossmod/commit/e563820e90fad4b7281eb838e66c2fbe4421cb56"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Facade",
+  "fork": true,
+  "default_branch": "api13-tw",
+  "description": "Change your neighbours' housing exterior appearance.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:24Z",
+  "parent": {
+    "full_name": "keifufu/Facade",
+    "default_branch": "main",
+    "clone_url": "https://github.com/keifufu/Facade.git"
+  },
+  "source": {
+    "full_name": "keifufu/Facade",
+    "default_branch": "main",
+    "clone_url": "https://github.com/keifufu/Facade.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "keifufu/Facade",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "07291dd607d29cdebfcfba3ee84bccc48fe9fed2",
+  "apiMarkerPath": "Facade.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "88aad4af03b7d30a588b9a13ea882daa8b8facc2",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "99084c0689a06d6ea8cc54468ee2fa8d597566a6",
+  "api14Date": "2026-02-23T21:21:32Z",
+  "api14Message": "v1.0.0.0",
+  "api14Url": "https://github.com/keifufu/Facade/commit/99084c0689a06d6ea8cc54468ee2fa8d597566a6"
+}

@@ -7,14 +7,14 @@
       "project": "BossMod/BossMod.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.7,
+      "seconds": 18.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BossMod.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
+  "sourceCommit": "7c58cab05532bd906a7c49fc668b327fc966dfdd",
   "publishedSource": true,
   "dependencyPatches": 0
 }

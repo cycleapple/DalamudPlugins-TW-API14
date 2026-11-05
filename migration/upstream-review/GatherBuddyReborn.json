@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/GatherBuddyReborn",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud-based FFXIV addon to extremely simplify gathering.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:16Z",
+  "parent": {
+    "full_name": "AtmoOmen/GatherBuddyReborn",
+    "default_branch": "main",
+    "clone_url": "https://github.com/AtmoOmen/GatherBuddyReborn.git"
+  },
+  "source": {
+    "full_name": "Ottermandias/GatherBuddy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Ottermandias/GatherBuddy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "AtmoOmen/GatherBuddyReborn",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "e3c1e4c2c0749908cba04fefe1372cc4d51f9c85",
+  "apiMarkerPath": "GatherBuddy/GatherBuddy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "9f73e10d934e9a87454c48472e1f5c800e990930",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "6934b92214647d89d96e2ed1a55b80b2171f4f25",
+  "api14Date": "2026-05-02T16:43:21Z",
+  "api14Message": "Merge upstream/main",
+  "api14Url": "https://github.com/AtmoOmen/GatherBuddyReborn/commit/6934b92214647d89d96e2ed1a55b80b2171f4f25"
+}

@@ -7,14 +7,15 @@ from port_batch import ROOT, WORK, DOTNET
 
 def main():
     existing = json.loads((ROOT / 'migration/assembly-audit.json').read_text(encoding='utf-8'))
-    paths = {item['path'] for item in existing}
+    paths = {item['path'] for item in existing if item['name'] not in ['MissFisher', 'Aetherment']}
     for relative in [
+        'aetherment/plugin/plugin/bin/Release/Aetherment.dll',
         'ffxiv-bundleoftweaks/ffxiv_bundledtweaks/bin/Release/Automaton.dll',
         'ffxiv_bossmod/BossMod/bin/Release/BossMod.dll',
         'BossmodReborn/BossMod/bin/Release/BossModReborn.dll',
         'SimpleTweaksPlugin/bin/Release/SimpleTweaksPlugin.dll',
         'PocketRecorder/bin/x64/Release/PocketRecorder.dll',
-        'MissFisher/.api14/work/package/MissFisher.dll',
+        'MissFisher/.api14/work-1.9.20.0/package/MissFisher.dll',
     ]:
         paths.add(str(WORK / 'sources' / relative))
     output = ROOT / 'tools/AssemblyVerifier'

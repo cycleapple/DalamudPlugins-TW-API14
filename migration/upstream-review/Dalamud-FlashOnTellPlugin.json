@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Dalamud-FlashOnTellPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": "flash FFXIV's window when you receive a tell",
+  "homepage": null,
+  "pushed_at": "2026-11-05T14:09:13Z",
+  "parent": {
+    "full_name": "reiichi001/Dalamud-FlashOnTellPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
+  },
+  "source": {
+    "full_name": "reiichi001/Dalamud-FlashOnTellPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "reiichi001/Dalamud-FlashOnTellPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "f302bb3005c01346dccb105c8de7e086ddd43d36",
+  "apiMarkerPath": "FlashOnTell/FlashOnTell.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "f302bb3005c01346dccb105c8de7e086ddd43d36",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "3f8c68cde0f26b7734e3000e69e3a9bf56cfb2b7",
+  "api14Date": "2025-12-19T00:35:39Z",
+  "api14Message": "API 14",
+  "api14Url": "https://github.com/reiichi001/Dalamud-FlashOnTellPlugin/commit/3f8c68cde0f26b7734e3000e69e3a9bf56cfb2b7"
+}

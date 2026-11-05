@@ -7,14 +7,14 @@
       "project": "ChatCoordinates/ChatCoordinates.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ChatCoordinates.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
+  "sourceCommit": "cd50baae9d8c5d8c387cf92dff7a5e558b9d2001",
   "publishedSource": true,
   "dependencyPatches": 0
 }

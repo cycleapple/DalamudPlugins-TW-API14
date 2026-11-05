@@ -7,14 +7,14 @@
       "project": "ChatTwo/ChatTwo.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.7,
+      "seconds": 6.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ChatTwo.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
+  "sourceCommit": "1540e034545fe8b3eea7ac03ab2151b76c9006ef",
   "publishedSource": true,
   "dependencyPatches": 0
 }

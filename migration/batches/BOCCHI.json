@@ -7,14 +7,14 @@
       "project": "BOCCHI/BOCCHI.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.7,
+      "seconds": 5.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BOCCHI.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
+  "sourceCommit": "037a5025b00db5ef2c40aebda054544eb793c748",
   "publishedSource": true,
   "dependencyPatches": 2
 }

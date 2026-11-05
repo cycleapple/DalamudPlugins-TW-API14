@@ -7,14 +7,14 @@
       "project": "SonarPlugin/SonarPlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 7.2,
+      "seconds": 3.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SonarPlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
+  "sourceCommit": "b40cabe6e228025fdfb47f3161373a72024117fe",
   "publishedSource": true,
   "dependencyPatches": 0
 }

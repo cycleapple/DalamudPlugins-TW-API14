@@ -7,14 +7,16 @@
       "project": "AutoDuty/AutoDuty.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 4.6,
+      "seconds": 8.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoDuty.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
+  "sourceCommit": "82ad4cdd8b8fb79e9b7eeac1c3dd4289bd7ff467",
   "publishedSource": true,
   "dependencyPatches": 1
 }

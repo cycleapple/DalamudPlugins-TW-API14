@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/EnmityHp",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Adds little display to enemy list that shows enemy hp.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:49:54Z",
+  "parent": {
+    "full_name": "NightmareXIV/EnmityHp",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/EnmityHp.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/EnmityHp",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/EnmityHp.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/EnmityHp",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "b3a86db5b384b483a0d466639650c74cf1a313b0",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "apiMarkerPath": "EnmityHp/EnmityHp.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "5e4e1004e53b9c4b9e98bc119883ad74c8824249",
+  "api14Commit": "765bc30fe234dec1e5909f07ce23f7c95d423731",
+  "api14Date": "2025-12-19T00:28:22Z",
+  "api14Message": "7.4",
+  "api14Url": "https://github.com/NightmareXIV/EnmityHp/commit/765bc30fe234dec1e5909f07ce23f7c95d423731"
+}

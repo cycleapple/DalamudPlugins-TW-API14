@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/vfaux",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Easier Faux Hollows",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:20Z",
+  "parent": {
+    "full_name": "awgil/vfaux",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/vfaux.git"
+  },
+  "source": {
+    "full_name": "awgil/vfaux",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/vfaux.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "awgil/vfaux",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "7fa0e0fd52f0039d2b712c21680e62c0b67b023b",
+  "apiMarkerPath": "vfaux/vfaux.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "7fa0e0fd52f0039d2b712c21680e62c0b67b023b",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "1a2b76f9ccdc147605f37accb0e32424cb553129",
+  "api14Date": "2025-12-18T22:27:18Z",
+  "api14Message": "update sdk",
+  "api14Url": "https://github.com/awgil/vfaux/commit/1a2b76f9ccdc147605f37accb0e32424cb553129"
+}

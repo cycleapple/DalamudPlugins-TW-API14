@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/CustomizePlus",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:13:01Z",
+  "parent": {
+    "full_name": "Aether-Tools/CustomizePlus",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Aether-Tools/CustomizePlus.git"
+  },
+  "source": {
+    "full_name": "Aether-Tools/CustomizePlus",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Aether-Tools/CustomizePlus.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Aether-Tools/CustomizePlus",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "44d25415b961e0bbba759d1508b6d06acef88d90",
+  "apiMarkerPath": "CustomizePlus/CustomizePlus.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "481e7f894d764fb097e7542c2a7307ea2fa2ecc0",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "9fe6ffd04af26542db0f29c7df67606f399dd490",
+  "api14Date": "2026-04-26T21:01:58Z",
+  "api14Message": "[CI] Updating repo.json for 2.1.1.2",
+  "api14Url": "https://github.com/Aether-Tools/CustomizePlus/commit/9fe6ffd04af26542db0f29c7df67606f399dd490"
+}

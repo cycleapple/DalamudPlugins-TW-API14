@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/FPSPlugin",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:15:03Z",
+  "parent": {
+    "full_name": "Caraxi/FPSPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Caraxi/FPSPlugin.git"
+  },
+  "source": {
+    "full_name": "Caraxi/FPSPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Caraxi/FPSPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Caraxi/FPSPlugin",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "dd9048e113133feef36cd46c26d66e34227614da",
+  "apiMarkerPath": "FPSPlugin.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "dd9048e113133feef36cd46c26d66e34227614da",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "7304a4534418c7fea4f075d414f034c29101f1d9",
+  "api14Date": "2025-12-19T04:46:20Z",
+  "api14Message": "SDK 14.0.1",
+  "api14Url": "https://github.com/Caraxi/FPSPlugin/commit/7304a4534418c7fea4f075d414f034c29101f1d9"
+}

@@ -7,14 +7,14 @@
       "project": "Visibility/Visibility.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 1.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Visibility.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
+  "sourceCommit": "b550fe422bba7a7fff008bdfbb08b1adb2ba758d",
   "publishedSource": true,
   "dependencyPatches": 0
 }

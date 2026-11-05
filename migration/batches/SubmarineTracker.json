@@ -7,14 +7,14 @@
       "project": "SubmarineTracker/SubmarineTracker.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.1,
+      "seconds": 3.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SubmarineTracker.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "9c7494714914cd07688be720a36451fe32bcb8ff",
+  "sourceCommit": "4882f194a0a25e9dab03698e86385767743c218e",
   "publishedSource": true,
   "dependencyPatches": 0
 }

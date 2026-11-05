@@ -7,14 +7,14 @@
       "project": "Penumbra/Penumbra.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.9,
+      "seconds": 7.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Penumbra.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
+  "sourceCommit": "44317c471a79372585ef7b3a244022c14cb95f45",
   "publishedSource": true,
   "dependencyPatches": 5
 }

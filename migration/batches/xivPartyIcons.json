@@ -7,14 +7,14 @@
       "project": "PartyIcons/PartyIcons.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.5,
+      "seconds": 2.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PartyIcons.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "237fbbf6ecaaa5ffc63884b55b92d0e2d7f845ff",
+  "sourceCommit": "118566441f02983c426be1961eb15ebc652b5ed8",
   "publishedSource": true,
   "dependencyPatches": 0
 }

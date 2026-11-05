@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/NotificationMaster",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Notifies you about various events while your game is minimized.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:12Z",
+  "parent": {
+    "full_name": "NightmareXIV/NotificationMaster",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/NotificationMaster.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/NotificationMaster",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/NotificationMaster.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/NotificationMaster",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "af80ee30b7c54d66062e29370126222f56496641",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "apiMarkerPath": "NotificationMaster/NotificationMaster.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "e4c5f52f601fd1fea07484373ad4fb1aee00c6f4",
+  "api14Commit": "be830547f3dde05b1d0db8d3050945d78648628c",
+  "api14Date": "2026-01-02T20:51:47Z",
+  "api14Message": "Update ver",
+  "api14Url": "https://github.com/NightmareXIV/NotificationMaster/commit/be830547f3dde05b1d0db8d3050945d78648628c"
+}

@@ -7,14 +7,16 @@
       "project": "CrossUp.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\CrossUp.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "CrossUp.yaml"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3415ef6f859115f22d2a4051a3cc58df49f10ab0",
+  "sourceCommit": "6771bbcf7e0440295ba28fb2fcf92adc860a08ef",
   "publishedSource": true,
   "dependencyPatches": 0
 }

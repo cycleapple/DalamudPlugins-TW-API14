@@ -7,14 +7,14 @@
       "project": "DeathRecap.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\DeathRecap.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
+  "sourceCommit": "080427e56615a09da53d6378b198a49ce177c725",
   "publishedSource": true,
   "dependencyPatches": 0
 }

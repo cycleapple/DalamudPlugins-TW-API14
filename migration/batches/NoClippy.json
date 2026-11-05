@@ -7,14 +7,14 @@
       "project": "NoClippy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.8,
+      "seconds": 1.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\NoClippy.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "73a73a9a69b19acd826fe9e514c5523a06eed35d",
+  "sourceCommit": "19a92847bbb9c1aca5b4a22fd20deae13a15b5ff",
   "publishedSource": true,
   "dependencyPatches": 0
 }

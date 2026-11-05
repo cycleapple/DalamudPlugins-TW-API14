@@ -7,14 +7,14 @@
       "project": "Saucy/Saucy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.0,
+      "seconds": 2.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Saucy.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "e1b857f5eae04713f02039a947a6e823f67034ac",
+  "sourceCommit": "28c6fd7bb2a4090d1a433c1a6b946ba42e95a1f3",
   "publishedSource": true,
   "dependencyPatches": 1
 }

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/NOTED",
+  "fork": true,
+  "default_branch": "master",
+  "description": "FFXIV Dalamud plugin to create notes and link them to duties.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:46Z",
+  "parent": {
+    "full_name": "Tischel/NOTED",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Tischel/NOTED.git"
+  },
+  "source": {
+    "full_name": "Tischel/NOTED",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Tischel/NOTED.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Tischel/NOTED",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "5900af34c3031e3681196d1dcb9ba8fcd249f91d",
+  "apiMarkerPath": "NOTED/NOTED.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "21c2a2b7795975816f28e4a36a49102e89aaa18f",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "51ee34fa9f3c8a73596d69a4d1da2f01ace17fd0",
+  "api14Date": "2025-12-19T01:11:19Z",
+  "api14Message": "Clean up",
+  "api14Url": "https://github.com/Tischel/NOTED/commit/51ee34fa9f3c8a73596d69a4d1da2f01ace17fd0"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ffxiv_navmesh",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:37Z",
+  "parent": {
+    "full_name": "awgil/ffxiv_navmesh",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_navmesh.git"
+  },
+  "source": {
+    "full_name": "awgil/ffxiv_navmesh",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_navmesh.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "awgil/ffxiv_navmesh",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "88d2455d716987ce1b6da3495bd7c60f33ea36bc",
+  "apiMarkerPath": "vnavmesh/vnavmesh.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "f4cfdc2e21a6068199564b9763936a912678c194",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "a49e52fc84390cfecfd633e181653c7641110c0a",
+  "api14Date": "2026-02-25T18:23:02Z",
+  "api14Message": "fix bug",
+  "api14Url": "https://github.com/awgil/ffxiv_navmesh/commit/a49e52fc84390cfecfd633e181653c7641110c0a"
+}

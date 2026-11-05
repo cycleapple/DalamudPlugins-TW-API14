@@ -7,14 +7,14 @@
       "project": "DeepDungeonDex/DeepDungeonDex.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 6.4,
+      "seconds": 4.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\DeepDungeonDex.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "38a2bc2728dea0ec74dddb741f628c4e83f47473",
+  "sourceCommit": "644a91244ed2ffed7b0799bdac9f14149a613a91",
   "publishedSource": true,
   "dependencyPatches": 0
 }

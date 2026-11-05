@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/AllaganMarket",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:49:40Z",
+  "parent": {
+    "full_name": "Critical-Impact/AllaganMarket",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/AllaganMarket.git"
+  },
+  "source": {
+    "full_name": "Critical-Impact/AllaganMarket",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/AllaganMarket.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Critical-Impact/AllaganMarket",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "ae150f9366e3c42173362c566f7817c8de56fbd7",
+  "apiMarkerPath": "AllaganMarket/AllaganMarket.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "33e4510f6577f3945f2f4f84674e2ca284453de0",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "2a190e565019cc63bf2b0bed19b25b83d831899a",
+  "api14Date": "2026-03-04T08:45:32Z",
+  "api14Message": "3.0.7",
+  "api14Url": "https://github.com/Critical-Impact/AllaganMarket/commit/2a190e565019cc63bf2b0bed19b25b83d831899a"
+}

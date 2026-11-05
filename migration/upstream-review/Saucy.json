@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Saucy",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Automates certain Gold Saucer mini-games.",
+  "homepage": "https://puni.sh/plugin/Saucy",
+  "pushed_at": "2026-11-05T16:17:44Z",
+  "parent": {
+    "full_name": "PunishXIV/Saucy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/Saucy.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Saucy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/Saucy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Saucy",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "427f7c6b6bd5b9c1c11a181e3e2c99fd5b13b9ff",
+  "apiMarkerPath": "Saucy/Saucy.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "nextApiCommit": "6ccb21b63c499136729ab8e80db3c71ac915eb1a",
+  "api14Commit": "6ad3f56a0014a52bd0e11c2b104e01171dbea569",
+  "api14Date": "2025-12-30T11:04:22Z",
+  "api14Message": "1.4.2.9",
+  "api14Url": "https://github.com/PunishXIV/Saucy/commit/6ad3f56a0014a52bd0e11c2b104e01171dbea569"
+}

@@ -7,14 +7,14 @@
       "project": "SamplePlugin/HighFpsPhysicsPlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 2.1,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\HighFpsPhysicsPlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "1432625f846b866438d287005f241f100da1b9b1",
+  "sourceCommit": "6906654e280d14a557ebc220fae706ccbad53031",
   "publishedSource": true,
   "dependencyPatches": 0
 }

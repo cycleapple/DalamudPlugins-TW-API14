@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/TextAdvance",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Quest speedrunning assistance tool. Automatically confirm quest acceptation and completion, skip subtitles, cutscenes and most of prompts. ",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:30Z",
+  "parent": {
+    "full_name": "NightmareXIV/TextAdvance",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/TextAdvance.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/TextAdvance",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/TextAdvance.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/TextAdvance",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "9dee62760472b08a7c36c596c64e4dfbfdc5cf8b",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "TextAdvance/TextAdvance.json",
+  "headApiLevel": 2,
+  "manualReviewVersion": 1,
+  "api14Commit": "2c18efea92233c5a0e70b751219b015a91c5d74e",
+  "api14Date": "2026-04-20T22:57:23Z",
+  "api14Url": "https://github.com/NightmareXIV/TextAdvance/commit/2c18efea92233c5a0e70b751219b015a91c5d74e"
+}

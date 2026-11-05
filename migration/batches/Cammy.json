@@ -7,14 +7,14 @@
       "project": "Cammy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 5.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Cammy.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "464638fa648547141aac9bdc5a1fcc611f5784a5",
+  "sourceCommit": "d0053aefc8ce59ce4e9aaac3d981991b72629126",
   "publishedSource": true,
   "dependencyPatches": 0
 }

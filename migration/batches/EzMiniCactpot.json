@@ -7,14 +7,14 @@
       "project": "MiniCactpotSolver/MiniCactpotSolver.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.6,
+      "seconds": 2.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MiniCactpotSolver.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "62eed63019dd99cbf4d82844f8a3630ab9820bd5",
+  "sourceCommit": "97e647f4873d09668650071225d21adf00ec967f",
   "publishedSource": true,
   "dependencyPatches": 2
 }

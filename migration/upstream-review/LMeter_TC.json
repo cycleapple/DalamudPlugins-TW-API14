@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/LMeter_TC",
+  "fork": true,
+  "default_branch": "main",
+  "description": "A Dalamud Plugin to display ACT combat log data in FFXIV",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:16:06Z",
+  "parent": {
+    "full_name": "juicefish/LMeter_TC",
+    "default_branch": "main",
+    "clone_url": "https://github.com/juicefish/LMeter_TC.git"
+  },
+  "source": {
+    "full_name": "lichie567/LMeter",
+    "default_branch": "main",
+    "clone_url": "https://github.com/lichie567/LMeter.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "juicefish/LMeter_TC",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "3bee085a19df9fdd995a90cb7d068894ffcec490",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "apiMarkerPath": "LMeter/LMeter.csproj",
+  "headApiLevel": 13,
+  "nextApiCommit": "38148bd55c1c74be058b8a9885370b737848e6cf",
+  "api14Commit": "32580572cd2c869f1f313123588e5bd0f16ae3c1",
+  "api14Date": "2026-04-29T09:33:47Z",
+  "api14Message": "remove fflog references",
+  "api14Url": "https://github.com/juicefish/LMeter_TC/commit/32580572cd2c869f1f313123588e5bd0f16ae3c1"
+}

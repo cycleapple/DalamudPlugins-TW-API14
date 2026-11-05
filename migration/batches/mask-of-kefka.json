@@ -7,14 +7,14 @@
       "project": "MaskOfKefka/MaskOfKefka.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.7,
+      "seconds": 2.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MaskOfKefka.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
+  "sourceCommit": "03d64b28f626189b67e359b1e638d40368a9e119",
   "publishedSource": true,
   "dependencyPatches": 0
 }

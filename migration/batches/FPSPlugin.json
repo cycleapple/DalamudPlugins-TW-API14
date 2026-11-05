@@ -7,14 +7,14 @@
       "project": "FPSPlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.3,
+      "seconds": 4.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\FPSPlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
+  "sourceCommit": "b987235514ca20d248d34987fc07b9c7ad8d6b82",
   "publishedSource": true,
   "dependencyPatches": 0
 }

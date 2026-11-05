@@ -7,14 +7,14 @@
       "project": "LMeter/LMeter.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.3,
+      "seconds": 2.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\LMeter.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
+  "sourceCommit": "cd02ad74989faef10c391e952428f43aace768b1",
   "publishedSource": true,
   "dependencyPatches": 0
 }

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/SomethingNeedDoing",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Macro expansion and lua scripting engine plugin for FFXIV",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:51:19Z",
+  "parent": {
+    "full_name": "Jaksuhn/SomethingNeedDoing",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Jaksuhn/SomethingNeedDoing.git"
+  },
+  "source": {
+    "full_name": "Jaksuhn/SomethingNeedDoing",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Jaksuhn/SomethingNeedDoing.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Jaksuhn/SomethingNeedDoing",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "527ca83892506c74fea4d5e07b9b9436e50ef95d",
+  "apiMarkerPath": "SomethingNeedDoing/SomethingNeedDoing.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "2108491c1d578b37202565a750ab560fd547d01a",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f1eeb19b2adabd7c7546e8bda532ecf9c7dc9513",
+  "api14Date": "2026-04-29T18:05:23Z",
+  "api14Message": "api15",
+  "api14Url": "https://github.com/Jaksuhn/SomethingNeedDoing/commit/f1eeb19b2adabd7c7546e8bda532ecf9c7dc9513"
+}

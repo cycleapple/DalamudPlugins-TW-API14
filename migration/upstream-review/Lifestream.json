@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/Lifestream",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Lifestream is a plugin that helps with navigation between data centers, worlds, instances, residential areas. Visit another world, data center or house with just a single command.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:55:37Z",
+  "parent": {
+    "full_name": "NightmareXIV/Lifestream",
+    "default_branch": "main",
+    "clone_url": "https://github.com/NightmareXIV/Lifestream.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/Lifestream",
+    "default_branch": "main",
+    "clone_url": "https://github.com/NightmareXIV/Lifestream.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/Lifestream",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "b36320170faafc8315f7585edb45cfbcd34e7046",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "Lifestream/Lifestream.json",
+  "headApiLevel": 2,
+  "manualReviewVersion": 1,
+  "api14Commit": "d378f2913cee78bf95c7d6581f5e6eea83c16052",
+  "api14Date": "2026-04-28T22:59:38Z",
+  "api14Url": "https://github.com/NightmareXIV/Lifestream/commit/d378f2913cee78bf95c7d6581f5e6eea83c16052"
+}

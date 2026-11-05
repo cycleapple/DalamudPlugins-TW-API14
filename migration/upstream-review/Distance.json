@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Distance",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud/XIVLauncher plugin to show basic distance to boss information.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:13:54Z",
+  "parent": {
+    "full_name": "PunishedPineapple/Distance",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishedPineapple/Distance.git"
+  },
+  "source": {
+    "full_name": "PunishedPineapple/Distance",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishedPineapple/Distance.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishedPineapple/Distance",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "13965485dbfd9dbd07fb92e0a8538c149e7d46e3",
+  "apiMarkerPath": "Distance/Distance.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "13965485dbfd9dbd07fb92e0a8538c149e7d46e3",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "569a41b039ebc0b27432296271030fc50ae80d67",
+  "api14Date": "2026-02-02T05:06:00Z",
+  "api14Message": "Add better support for Duty Recorder playback.",
+  "api14Url": "https://github.com/PunishedPineapple/Distance/commit/569a41b039ebc0b27432296271030fc50ae80d67"
+}

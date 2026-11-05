@@ -7,14 +7,14 @@
       "project": "Fungah/Fungah.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.8,
+      "seconds": 4.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Fungah.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
+  "sourceCommit": "2f2501bde14ca35a6004c8cc8e5dade7a1f8bc04",
   "publishedSource": true,
   "dependencyPatches": 0
 }

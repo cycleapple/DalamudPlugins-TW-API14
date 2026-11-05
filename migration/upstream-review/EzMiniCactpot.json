@@ -1,0 +1,40 @@
+{
+  "full_name": "cycleapple/EzMiniCactpot",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:21Z",
+  "parent": {
+    "full_name": "MidoriKami/EzMiniCactpot",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/EzMiniCactpot.git"
+  },
+  "source": {
+    "full_name": "MidoriKami/EzMiniCactpot",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/EzMiniCactpot.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "MidoriKami/EzMiniCactpot",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "63173afb3eff69aa64a3edc613a377c4053d26fa",
+  "apiMarkerPath": "MiniCactpotSolver/MiniCactpotSolver.csproj",
+  "headApiLevel": 13,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "63173afb3eff69aa64a3edc613a377c4053d26fa",
+  "candidateDate": "2025-12-19T20:50:45Z",
+  "upstreamCreatedAt": "2020-12-27T03:36:48Z",
+  "upstreamArchived": true,
+  "upstreamBranches": [
+    {
+      "name": "api13",
+      "commit": "c453957730648138b177e45fbe56e58ad5cb66c4"
+    },
+    {
+      "name": "master",
+      "commit": "63173afb3eff69aa64a3edc613a377c4053d26fa"
+    }
+  ]
+}

@@ -7,14 +7,16 @@
       "project": "Hyperborea/Hyperborea.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.6,
+      "seconds": 6.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Hyperborea.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "810015c058983111960788d6c00ded34c0565b25",
+  "sourceCommit": "e23d13f6b6a1d1cd81e0ac1aa8f97a3455ce0f3a",
   "publishedSource": true,
   "dependencyPatches": 1
 }

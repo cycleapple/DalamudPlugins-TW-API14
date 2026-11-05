@@ -1,0 +1,154 @@
+[
+  {
+    "repository": "Brio",
+    "path": "Brio/Resources/Sheets/BrioActionTimeline.cs",
+    "sheet": "ActionTimeline",
+    "hash": 3624102303,
+    "api14Hash": 3624102303,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Brio",
+    "path": "Brio/Resources/Sheets/BrioHairMakeType.cs",
+    "sheet": "HairMakeType",
+    "hash": 3374538714,
+    "api14Hash": 3374538714,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Dalamud-VFXEditor-API13",
+    "path": "VFXEditor/Data/Excel/CharaMakeCustomize.cs",
+    "sheet": "CharaMakeCustomize",
+    "hash": 3272514419,
+    "api14Hash": 3272514419,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Dalamud-VFXEditor-API13",
+    "path": "VFXEditor/Data/Excel/CharaMakeType.cs",
+    "sheet": "CharaMakeType",
+    "hash": 1355661039,
+    "api14Hash": 1355661039,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Dalamud-VFXEditor-API13",
+    "path": "VFXEditor/Data/Excel/HairMakeType.cs",
+    "sheet": "HairMakeType",
+    "hash": 3374538714,
+    "api14Hash": 3374538714,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Deliveroo",
+    "path": "Deliveroo/GameData/GameStrings.cs",
+    "sheet": "custom/000/ComDefGrandCompanyOfficer_00073",
+    "hash": null,
+    "api14Hash": null,
+    "status": "unhashed-or-custom"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/BattleNpc.cs",
+    "sheet": "BNpcBase",
+    "hash": 3587712534,
+    "api14Hash": 3587712534,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/BattleNpc.cs",
+    "sheet": "BNpcCustomize",
+    "hash": 418406612,
+    "api14Hash": 418406612,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/CharaMakeType.cs",
+    "sheet": "CharaMakeType",
+    "hash": 1355661039,
+    "api14Hash": 1355661039,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/EventNpc.cs",
+    "sheet": "ENpcBase",
+    "hash": 1537860006,
+    "api14Hash": 1537860006,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/Glasses.cs",
+    "sheet": "Glasses",
+    "hash": 799720129,
+    "api14Hash": 799720129,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/ItemSheet.cs",
+    "sheet": "Item",
+    "hash": 3919789213,
+    "api14Hash": 3919789213,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/ItemSheet.cs",
+    "sheet": "EquipSlotCategory",
+    "hash": 4104873044,
+    "api14Hash": 4104873044,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/NpcEquipment.cs",
+    "sheet": "NpcEquip",
+    "hash": 2125379932,
+    "api14Hash": 2125379932,
+    "status": "hash-match"
+  },
+  {
+    "repository": "Ktisis",
+    "path": "Ktisis/GameData/Excel/ResidentNpc.cs",
+    "sheet": "ENpcResident",
+    "hash": 4149192844,
+    "api14Hash": 4149192844,
+    "status": "hash-match"
+  },
+  {
+    "repository": "SimpleTweaksPlugin",
+    "path": "Sheets/ExtendedBaseParam.cs",
+    "sheet": "BaseParam",
+    "hash": 469253919,
+    "api14Hash": 469253919,
+    "status": "hash-match"
+  },
+  {
+    "repository": "SimpleTweaksPlugin",
+    "path": "Sheets/ExtendedHairMakeType.cs",
+    "sheet": "HairMakeType",
+    "hash": 3374538714,
+    "api14Hash": 3374538714,
+    "status": "hash-match"
+  },
+  {
+    "repository": "SimpleTweaksPlugin",
+    "path": "Sheets/ExtendedItemLevel.cs",
+    "sheet": "ItemLevel",
+    "hash": 3793107359,
+    "api14Hash": 3793107359,
+    "status": "hash-match"
+  },
+  {
+    "repository": "SimpleTweaksPlugin",
+    "path": "Sheets/ExtendedRecipeLookup.cs",
+    "sheet": "RecipeLookup",
+    "hash": 2802361504,
+    "api14Hash": 2802361504,
+    "status": "hash-match"
+  }
+]

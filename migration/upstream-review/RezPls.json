@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/RezPls",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Signify players currently being rezzed or already rezzed in group/alliance interface and on the ground.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:17:37Z",
+  "parent": {
+    "full_name": "Ottermandias/RezPls",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Ottermandias/RezPls.git"
+  },
+  "source": {
+    "full_name": "Ottermandias/RezPls",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Ottermandias/RezPls.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Ottermandias/RezPls",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "b4efe564b808701968fe8376ba51a78d2dc979b9",
+  "apiMarkerPath": "RezPls/RezPls.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "b4efe564b808701968fe8376ba51a78d2dc979b9",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "4f9004b1a724cf0be268e965a0c260643e55edeb",
+  "api14Date": "2025-12-18T22:44:12Z",
+  "api14Message": "Update SDK.",
+  "api14Url": "https://github.com/Ottermandias/RezPls/commit/4f9004b1a724cf0be268e965a0c260643e55edeb"
+}

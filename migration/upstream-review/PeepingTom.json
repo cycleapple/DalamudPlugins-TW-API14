@@ -1,0 +1,36 @@
+{
+  "full_name": "cycleapple/PeepingTom",
+  "fork": true,
+  "default_branch": "main",
+  "description": "This plugin for FFXIVLauncher shows who was or currently is targeting you.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:17:04Z",
+  "parent": {
+    "full_name": "pyreymo/PeepingTom",
+    "default_branch": "main",
+    "clone_url": "https://github.com/pyreymo/PeepingTom.git"
+  },
+  "source": {
+    "full_name": "thakyZ/PeepingTom",
+    "default_branch": "main",
+    "clone_url": "https://github.com/thakyZ/PeepingTom.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "pyreymo/PeepingTom",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "f29568c1d77bddfbb1fd1da0f11051dd30902db2",
+  "apiMarkerPath": "Peeping Tom/Peeping Tom.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "192b66bad1f3ed255501df4d5eb6ff6a4826d6e1",
+  "candidateDate": "2023-01-11T21:04:26Z",
+  "upstreamCreatedAt": "2026-07-01T04:31:34Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "f29568c1d77bddfbb1fd1da0f11051dd30902db2"
+    }
+  ]
+}

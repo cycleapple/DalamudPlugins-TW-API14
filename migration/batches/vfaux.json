@@ -7,14 +7,14 @@
       "project": "vfaux/vfaux.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.8,
+      "seconds": 2.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\vfaux.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
+  "sourceCommit": "73d7c72acdd881b030ef8be4f14841cf077d8b3a",
   "publishedSource": true,
   "dependencyPatches": 0
 }

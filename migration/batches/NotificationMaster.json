@@ -7,14 +7,14 @@
       "project": "NotificationMaster/NotificationMaster.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.9,
+      "seconds": 2.9,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\NotificationMaster.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "dba34891268d39ecea96117794caa97771f431af",
+  "sourceCommit": "d340d603d8e3d7300b78eb3787ac2fc6b75c5f25",
   "publishedSource": true,
   "dependencyPatches": 1
 }

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/RadarPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": "FFXIV Dalamud Plugin for an ingame ESP.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:27Z",
+  "parent": {
+    "full_name": "KangasZ/RadarPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/KangasZ/RadarPlugin.git"
+  },
+  "source": {
+    "full_name": "KangasZ/RadarPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/KangasZ/RadarPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "KangasZ/RadarPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "e32318ab48ed0353eaf0ea70e3c3cea8c78aba01",
+  "apiMarkerPath": "RadarPlugin/RadarPlugin.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "nextApiCommit": "745eb6224790ddb781344f2c7383cf92b4a240d7",
+  "api14Commit": "3b43eb58776e8d8d1a23e2b0c1eee042139f396b",
+  "api14Date": "2025-12-19T01:54:38Z",
+  "api14Message": "[stg] 7.4 patch",
+  "api14Url": "https://github.com/KangasZ/RadarPlugin/commit/3b43eb58776e8d8d1a23e2b0c1eee042139f396b"
+}

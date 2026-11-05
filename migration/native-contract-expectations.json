@@ -1,0 +1,296 @@
+[
+  {
+    "assembly": "sources/Splatoon/Splatoon/bin/Release/Splatoon.dll",
+    "type": "Splatoon.Memory.ActorControlProcessor+ProcessPacketActorControlDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/ffxiv_bossmod/BossMod/bin/Release/BossMod.dll",
+    "type": "BossMod.WorldStateGameSync+ProcessPacketActorControlDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/BossmodReborn/BossMod/bin/Release/BossModReborn.dll",
+    "type": "BossMod.WorldStateGameSync+ProcessPacketActorControlDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/JobBars/JobBars/bin/Release/JobBars.dll",
+    "type": "JobBars.JobBars+ActorControlSelfDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/NecroLens/NecroLens/bin/Release/NecroLens.dll",
+    "type": "NecroLens.Service.DeepDungeonService+ActorControlSelfDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/RotationSolverReborn/RotationSolver/bin/Release/RotationSolver.dll",
+    "type": "RotationSolver.ActionTimeline.ActionTimelineManager+OnActorControlDelegate",
+    "method": "Invoke",
+    "parameters": 12,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/Penumbra/Penumbra/bin/Release/Penumbra.dll",
+    "type": "Penumbra.Interop.Hooks.Meta.AtchCallerHook1+Delegate",
+    "method": "Invoke",
+    "parameters": 4,
+    "returns": "Byte"
+  },
+  {
+    "assembly": "sources/Penumbra/Penumbra/bin/Release/Penumbra.dll",
+    "type": "Penumbra.Interop.Hooks.Meta.AtchCallerHook2+Delegate",
+    "method": "Invoke",
+    "parameters": 5,
+    "returns": "Byte"
+  },
+  {
+    "assembly": "sources/Glamourer/Glamourer/bin/Release/Glamourer.dll",
+    "type": "Glamourer.Interop.WeaponService+LoadWeaponDelegate",
+    "method": "Invoke",
+    "parameters": 8,
+    "returns": "Void"
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "EmoteController",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "EmoteController",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "Animation",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "Timeline",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "Gaze",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "LookAt",
+    "delta": 16
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "Opacity",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "Alpha",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "Mode",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "Mode",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Ktisis/Ktisis/bin/Release/Ktisis.dll",
+    "type": "Ktisis.Structs.Actors.CharacterEx",
+    "field": "EmoteMode",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "ModeParam",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Dalamud-VFXEditor-API13/VFXEditor/bin/Release/VFXEditor.dll",
+    "type": "VfxEditor.Structs.Animation.ActorMemoryStruct",
+    "field": "Animation",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "Timeline",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Dalamud-VFXEditor-API13/VFXEditor/bin/Release/VFXEditor.dll",
+    "type": "VfxEditor.Structs.Animation.ActorMemoryStruct",
+    "field": "CharacterMode",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "Mode",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/Dalamud-VFXEditor-API13/VFXEditor/bin/Release/VFXEditor.dll",
+    "type": "VfxEditor.Structs.Animation.ActorMemoryStruct",
+    "field": "CharacterModeInput",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Character.Character",
+    "sdkField": "ModeParam",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/GatherBuddy/bin/Release/GatherBuddyReborn.dll",
+    "type": "GatherBuddy.SeFunctions.EventFramework+FishingManagerStruct",
+    "field": "FishingState",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Event.FishingEventHandler",
+    "sdkField": "State",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/GatherBuddy/bin/Release/GatherBuddyReborn.dll",
+    "type": "GatherBuddy.SeFunctions.EventFramework+FishingManagerStruct",
+    "field": "CurrentSelectedSwimBait",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Event.FishingEventHandler",
+    "sdkField": "CurrentSelectedSwimBait",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/GatherBuddy/bin/Release/GatherBuddyReborn.dll",
+    "type": "GatherBuddy.SeFunctions.EventFramework+FishingManagerStruct",
+    "field": "SwimBaitId1",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Event.FishingEventHandler",
+    "sdkField": "_swimBaitItemIds",
+    "delta": 0
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/GatherBuddy/bin/Release/GatherBuddyReborn.dll",
+    "type": "GatherBuddy.SeFunctions.EventFramework+FishingManagerStruct",
+    "field": "SwimBaitId2",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Event.FishingEventHandler",
+    "sdkField": "_swimBaitItemIds",
+    "delta": 4
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/GatherBuddy/bin/Release/GatherBuddyReborn.dll",
+    "type": "GatherBuddy.SeFunctions.EventFramework+FishingManagerStruct",
+    "field": "SwimBaitId3",
+    "sdkType": "FFXIVClientStructs.FFXIV.Client.Game.Event.FishingEventHandler",
+    "sdkField": "_swimBaitItemIds",
+    "delta": 8
+  },
+  {
+    "assembly": "sources/AutoMinion/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "dependencies/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/AutoDuty/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/ChilledLeves/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Explorers-Icebox/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/WrathCombo/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Avarice/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/GatherBuddyReborn/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Hyperborea/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Ices-Cosmic-Exploration/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/PandorasBox/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Orbwalker/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Splatoon/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/AutoRetainer/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/TextAdvance/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/LazyLoot/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  },
+  {
+    "assembly": "sources/Lifestream/ECommons/ECommons/bin/Release/ECommons.dll",
+    "type": "ECommons.Hooks.DirectorUpdate+ProcessDirectorUpdate",
+    "method": "Invoke",
+    "parameters": 9,
+    "returns": "Int64"
+  }
+]

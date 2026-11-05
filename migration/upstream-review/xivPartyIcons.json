@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/xivPartyIcons",
+  "fork": true,
+  "default_branch": "main",
+  "description": "XIV Dalamud plugin to show icons instead of names.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:36Z",
+  "parent": {
+    "full_name": "nebel/xivPartyIcons",
+    "default_branch": "main",
+    "clone_url": "https://github.com/nebel/xivPartyIcons.git"
+  },
+  "source": {
+    "full_name": "shdwp/xivPartyIcons",
+    "default_branch": "main",
+    "clone_url": "https://github.com/shdwp/xivPartyIcons.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "nebel/xivPartyIcons",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "15cfdb124865f316d63d0482146c01a5412beefa",
+  "apiMarkerPath": "PartyIcons/PartyIcons.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "abc1fe745ccbc5ec286cae355e44cfe302252902",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f595d107d5ddd1a47c9be613ee45646086e1f31b",
+  "api14Date": "2026-01-03T03:15:48Z",
+  "api14Message": "Fix Occult Crescent not being recognized as a Field Operation",
+  "api14Url": "https://github.com/nebel/xivPartyIcons/commit/f595d107d5ddd1a47c9be613ee45646086e1f31b"
+}

@@ -7,14 +7,14 @@
       "project": "Artisan/Artisan.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 4.4,
+      "seconds": 2.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Artisan.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "efb525a64f5c1d0d430747b75d0119d578058b72",
+  "sourceCommit": "49ae3f52f1a044c09c786eaf7c532c74cf09deba",
   "publishedSource": true,
   "dependencyPatches": 3
 }

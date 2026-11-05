@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Craftimizer",
+  "fork": true,
+  "default_branch": "main",
+  "description": "The best FFXIV crafting solver via hardware accelerated Genetic MCTS.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:12:53Z",
+  "parent": {
+    "full_name": "WorkingRobot/Craftimizer",
+    "default_branch": "main",
+    "clone_url": "https://github.com/WorkingRobot/Craftimizer.git"
+  },
+  "source": {
+    "full_name": "WorkingRobot/Craftimizer",
+    "default_branch": "main",
+    "clone_url": "https://github.com/WorkingRobot/Craftimizer.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "WorkingRobot/Craftimizer",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "1d4a2c67ea47a25d68701e8e69c8744dbbd56d86",
+  "apiMarkerPath": "Craftimizer/Craftimizer.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "a788c9745695d3437677416ceaca2d568b964abf",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "106f5017f60f1798c73f89fdc52f93b3c8c76d57",
+  "api14Date": "2026-05-04T17:28:50Z",
+  "api14Message": "Update Craftimizer.csproj",
+  "api14Url": "https://github.com/WorkingRobot/Craftimizer/commit/106f5017f60f1798c73f89fdc52f93b3c8c76d57"
+}

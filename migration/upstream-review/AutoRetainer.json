@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/AutoRetainer",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+  "homepage": "https://puni.sh/plugin/AutoRetainer",
+  "pushed_at": "2026-11-05T16:55:30Z",
+  "parent": {
+    "full_name": "PunishXIV/AutoRetainer",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/AutoRetainer.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/AutoRetainer",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/AutoRetainer.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/AutoRetainer",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "cc020df0efee3ea65a45117e2b89999108c702e8",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "AutoRetainer/AutoRetainer.json",
+  "headApiLevel": 15,
+  "manualReviewVersion": 1,
+  "api14Commit": "6dde427e6056ee0a69270f2653dd6311c627bcc3",
+  "api14Date": "2026-04-28T22:23:44Z",
+  "api14Url": "https://github.com/PunishXIV/AutoRetainer/commit/6dde427e6056ee0a69270f2653dd6311c627bcc3"
+}

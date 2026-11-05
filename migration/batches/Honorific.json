@@ -7,14 +7,14 @@
       "project": "Honorific.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.9,
+      "seconds": 2.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Honorific.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
+  "sourceCommit": "8883e05916168b79fc7976ddedcfeff5002516b1",
   "publishedSource": true,
   "dependencyPatches": 0
 }

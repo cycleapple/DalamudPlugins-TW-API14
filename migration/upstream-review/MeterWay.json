@@ -1,0 +1,40 @@
+{
+  "full_name": "cycleapple/MeterWay",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud-based FFXIV addon that display and help you analyze combat data.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:16:25Z",
+  "parent": {
+    "full_name": "CondeSaheki/MeterWay",
+    "default_branch": "main",
+    "clone_url": "https://github.com/CondeSaheki/MeterWay.git"
+  },
+  "source": {
+    "full_name": "CondeSaheki/MeterWay",
+    "default_branch": "main",
+    "clone_url": "https://github.com/CondeSaheki/MeterWay.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "CondeSaheki/MeterWay",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "670360511a6fc4b77cd27ae8e84f519b4ac141df",
+  "apiMarkerPath": "MeterWay/MeterWay.csproj",
+  "headApiLevel": 12,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "670360511a6fc4b77cd27ae8e84f519b4ac141df",
+  "candidateDate": "2025-04-12T23:28:50Z",
+  "upstreamCreatedAt": "2024-02-12T08:48:04Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "670360511a6fc4b77cd27ae8e84f519b4ac141df"
+    },
+    {
+      "name": "update/7.2",
+      "commit": "22167052f08c007a3a652c9a42c5b00522fabb41"
+    }
+  ]
+}

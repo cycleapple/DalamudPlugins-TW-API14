@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/GaugeOMatic",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:19Z",
+  "parent": {
+    "full_name": "ItsBexy/GaugeOMatic",
+    "default_branch": "main",
+    "clone_url": "https://github.com/ItsBexy/GaugeOMatic.git"
+  },
+  "source": {
+    "full_name": "ItsBexy/GaugeOMatic",
+    "default_branch": "main",
+    "clone_url": "https://github.com/ItsBexy/GaugeOMatic.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "ItsBexy/GaugeOMatic",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "f5a1c1bfe5b1b5576843de7543243ace159aeaad",
+  "apiMarkerPath": "GaugeOMatic/GaugeOMatic.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "f5a1c1bfe5b1b5576843de7543243ace159aeaad",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec",
+  "api14Date": "2026-01-02T06:44:21Z",
+  "api14Message": "0.8.3.3",
+  "api14Url": "https://github.com/ItsBexy/GaugeOMatic/commit/f34061a9d58d761fbfafa3fe0877ac51dfdf87ec"
+}

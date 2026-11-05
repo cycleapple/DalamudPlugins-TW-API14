@@ -7,14 +7,16 @@
       "project": "Splatoon/Splatoon.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.9,
+      "seconds": 8.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Splatoon.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
+  "sourceCommit": "5f8249f6251a12a03539d99ddc7d93c3d61a8041",
   "publishedSource": true,
   "dependencyPatches": 5
 }

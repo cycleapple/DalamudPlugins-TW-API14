@@ -7,14 +7,14 @@
       "project": "RezPls/RezPls.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.9,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\RezPls.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "4b59027736755d1eb0139cb93f37e804ae3df8fb",
+  "sourceCommit": "e394602c8daf3b2ba68827979dc3c81444014d38",
   "publishedSource": true,
   "dependencyPatches": 0
 }

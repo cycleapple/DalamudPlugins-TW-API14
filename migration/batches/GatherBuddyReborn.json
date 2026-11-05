@@ -7,14 +7,16 @@
       "project": "GatherBuddy/GatherBuddy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 5.7,
+      "seconds": 10.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\GatherBuddyReborn.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
+  "sourceCommit": "fb06c1225db0c90653e3a7bd4a5bd50bb2b50229",
   "publishedSource": true,
   "dependencyPatches": 3
 }

@@ -1,0 +1,40 @@
+{
+  "full_name": "cycleapple/EnemyListDebuffs",
+  "fork": true,
+  "default_branch": "main",
+  "description": "WIP Dalamud plugin for debuffs on the enemy list",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:07Z",
+  "parent": {
+    "full_name": "Felys1998/EnemyListDebuffs",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Felys1998/EnemyListDebuffs.git"
+  },
+  "source": {
+    "full_name": "aers/EnemyListDebuffs",
+    "default_branch": "main",
+    "clone_url": "https://github.com/aers/EnemyListDebuffs.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Felys1998/EnemyListDebuffs",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "3de258de9fa428cb643c3629061ff99cdfbc9a3c",
+  "apiMarkerPath": "EnemyListDebuffs.csproj",
+  "headApiLevel": 13,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "3de258de9fa428cb643c3629061ff99cdfbc9a3c",
+  "candidateDate": "2025-08-10T02:53:46Z",
+  "upstreamCreatedAt": "2021-12-26T05:53:09Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "3de258de9fa428cb643c3629061ff99cdfbc9a3c"
+    },
+    {
+      "name": "net7",
+      "commit": "47d132e71043cfa29bb3ee54590b01e4fb8b06c0"
+    }
+  ]
+}

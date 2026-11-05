@@ -7,14 +7,14 @@
       "project": "Raphael.Dalamud/Raphael.Dalamud.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Raphael.Dalamud.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
+  "sourceCommit": "2d718c5c15abf36c060575873fe7d96e6543eb07",
   "publishedSource": true,
   "dependencyPatches": 0
 }

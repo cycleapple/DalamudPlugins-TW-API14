@@ -7,14 +7,14 @@
       "project": "ReMakePlacePlugin/ReMakePlacePlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 1.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ReMakePlacePlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "bbeee9ae78c427d3b853c01d462687fc8c0a8ee0",
+  "sourceCommit": "5c7d2f9fe798a264fff95835b46a9916c91f7012",
   "publishedSource": true,
   "dependencyPatches": 0
 }

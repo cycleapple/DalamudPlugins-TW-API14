@@ -7,14 +7,16 @@
       "project": "PandorasBox/PandorasBox.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.7,
+      "seconds": 6.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PandorasBox.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
+  "sourceCommit": "243c1f908c3e04fde392375c4eec5a38a38f8d91",
   "publishedSource": true,
   "dependencyPatches": 2
 }

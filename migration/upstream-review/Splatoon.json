@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/Splatoon",
+  "fork": true,
+  "default_branch": "main",
+  "description": "An accessibility tool to assist in gameplay and compensate for human imperfections.",
+  "homepage": "https://puni.sh/plugin/Splatoon",
+  "pushed_at": "2026-11-05T16:55:44Z",
+  "parent": {
+    "full_name": "PunishXIV/Splatoon",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/Splatoon.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Splatoon",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/Splatoon.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Splatoon",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "6ceb6b5bf56da942541a7f36a3f6e8dd77157e76",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "Splatoon/Splatoon.json",
+  "headApiLevel": 13,
+  "manualReviewVersion": 1,
+  "api14Commit": "98e1a26d977bd0d52faec215c53d3ff69c569135",
+  "api14Date": "2026-04-26T01:16:58Z",
+  "api14Url": "https://github.com/PunishXIV/Splatoon/commit/98e1a26d977bd0d52faec215c53d3ff69c569135"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/BetterMountRoulette",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:12:32Z",
+  "parent": {
+    "full_name": "CMDRNuffin/BetterMountRoulette",
+    "default_branch": "main",
+    "clone_url": "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+  },
+  "source": {
+    "full_name": "CMDRNuffin/BetterMountRoulette",
+    "default_branch": "main",
+    "clone_url": "https://github.com/CMDRNuffin/BetterMountRoulette.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "CMDRNuffin/BetterMountRoulette",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "031fa2de35de4818d6e9b9a4554bc6c8e5f53971",
+  "apiMarkerPath": "BetterMountRoulette/BetterMountRoulette.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "ea8cacd4823653bb8b02e5db5664a836dc0f0e4a",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f04323fa9383d429130aab6abdf7ad5fcea5fbb9",
+  "api14Date": "2026-04-14T18:00:27Z",
+  "api14Message": "Update submodule: Ensure minimum window width is a valid number",
+  "api14Url": "https://github.com/CMDRNuffin/BetterMountRoulette/commit/f04323fa9383d429130aab6abdf7ad5fcea5fbb9"
+}

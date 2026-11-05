@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/WrathCombo",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:28Z",
+  "parent": {
+    "full_name": "MeowZWR/WrathCombo",
+    "default_branch": "main",
+    "clone_url": "https://github.com/MeowZWR/WrathCombo.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/WrathCombo",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/WrathCombo.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/WrathCombo",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "1e64c866c937d9c1d7d246824d80e9361fb626ce",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "apiMarkerPath": "WrathCombo/WrathCombo.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "3d84b3255d22c9c5647ae6a58f3b1459561e4d35",
+  "api14Commit": "bf5d4eb93b10196a5aa92bfc86411f9bb4a45646",
+  "api14Date": "2026-06-11T21:13:33Z",
+  "api14Message": "Refactor",
+  "api14Url": "https://github.com/PunishXIV/WrathCombo/commit/bf5d4eb93b10196a5aa92bfc86411f9bb4a45646"
+}

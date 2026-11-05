@@ -7,14 +7,14 @@
       "project": "Craftimizer/Craftimizer.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 4.4,
+      "seconds": 3.3,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Craftimizer.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
+  "sourceCommit": "3a5c83aa3625cfea4c0eea0612d38ecb22f21fe1",
   "publishedSource": true,
   "dependencyPatches": 0
 }

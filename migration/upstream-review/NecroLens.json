@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/NecroLens",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Explore a DeepDungeon with a tool like the HoloLens or GoogleGlass on",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:16Z",
+  "parent": {
+    "full_name": "Jukkales/NecroLens",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Jukkales/NecroLens.git"
+  },
+  "source": {
+    "full_name": "Jukkales/NecroLens",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Jukkales/NecroLens.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Jukkales/NecroLens",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "cc6276f168653d8a014a807690fb600189af959e",
+  "apiMarkerPath": "NecroLens/NecroLens.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "e00623eea812f85eb6b861de7c519d2bf62628f8",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "9e5e34731b831070c967c5236fba27a7b37f4be6",
+  "api14Date": "2025-12-22T16:51:38Z",
+  "api14Message": "build",
+  "api14Url": "https://github.com/Jukkales/NecroLens/commit/9e5e34731b831070c967c5236fba27a7b37f4be6"
+}

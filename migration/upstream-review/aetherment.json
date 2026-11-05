@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/aetherment",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Easy browsing, installing, and auto updating mods. Advanced automatic texture compositing. And cross platform and plugin mod creation tool for Final Fantasy XIV",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:03:03Z",
+  "parent": {
+    "full_name": "Sevii77/aetherment",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Sevii77/aetherment.git"
+  },
+  "source": {
+    "full_name": "Sevii77/aetherment",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Sevii77/aetherment.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Sevii77/aetherment",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "d43115c8e632a9595507ec7a3f68c8c10da6e234",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "plugin/plugin/Aetherment.json",
+  "headApiLevel": 2,
+  "manualReviewVersion": 1,
+  "api14Commit": "f3d4e89590f1da47652b5490885fa0e4a2381517",
+  "api14Date": "2026-03-18T20:14:42Z",
+  "api14Url": "https://github.com/Sevii77/aetherment/commit/f3d4e89590f1da47652b5490885fa0e4a2381517"
+}

@@ -7,14 +7,14 @@
       "project": "Pal.Client/Pal.Client.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.6,
+      "seconds": 4.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PalacePal.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3fbb22b94f90ff77b5f954a37d903a9328fb5955",
+  "sourceCommit": "bbe95deca4e40e4a7b8f20ef033979dfd34af477",
   "publishedSource": true,
   "dependencyPatches": 1
 }

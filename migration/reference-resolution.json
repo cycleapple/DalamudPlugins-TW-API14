@@ -1,0 +1,1589 @@
+[
+  {
+    "repository": "cycleapple/ActionTimelineReplacement",
+    "internalName": "ActionTimelineReplacement",
+    "project": "ActionTimelineReplacement.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/aetherment",
+    "internalName": "Aetherment",
+    "project": "plugin/plugin/Aetherment.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AllaganItemSearch",
+    "internalName": "AllaganItemSearch",
+    "project": "AllaganItemSearch/AllaganItemSearch.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AllaganMarket",
+    "internalName": "AllaganMarket",
+    "project": "AllaganMarket/AllaganMarket.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AntiAfkKick",
+    "internalName": "AntiAfkKick-Dalamud",
+    "project": "AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Artisan",
+    "internalName": "Artisan",
+    "project": "Artisan/Artisan.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AutoDuty",
+    "internalName": "AutoDuty",
+    "project": "AutoDuty/AutoDuty.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AutoHook",
+    "internalName": "AutoHook",
+    "project": "AutoHook/AutoHook.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AutoMinion",
+    "internalName": "AutoMinion",
+    "project": "AutoMinion/AutoMinion.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/AutoRetainer",
+    "internalName": "AutoRetainer",
+    "project": "AutoRetainer/AutoRetainer.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Avarice",
+    "internalName": "Avarice",
+    "project": "Avarice/Avarice.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/BDTHPlugin",
+    "internalName": "BDTHPlugin",
+    "project": "BDTHPlugin/BDTHPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/BetterMountRoulette",
+    "internalName": "BetterMountRoulette",
+    "project": "BetterMountRoulette.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/BigPlayerDebuffs",
+    "internalName": "BigPlayerDebuffs",
+    "project": "BigPlayerDebuffs.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/BOCCHI",
+    "internalName": "BOCCHI",
+    "project": "BOCCHI/BOCCHI.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/BossmodReborn",
+    "internalName": "BossModReborn",
+    "project": "BossMod/BossModReborn.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Brio",
+    "internalName": "Brio",
+    "project": "Brio/Brio.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Cammy",
+    "internalName": "Cammy",
+    "project": "Cammy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ChatTwo",
+    "internalName": "ChatTwo",
+    "project": "ChatTwo/ChatTwo.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ChilledLeves",
+    "internalName": "ChilledLeves",
+    "project": "ChilledLeves/ChilledLeves.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Craftimizer",
+    "internalName": "Craftimizer",
+    "project": "Craftimizer/Craftimizer.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/CrossUp",
+    "internalName": "CrossUp",
+    "project": "CrossUp.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/CustomizePlus",
+    "internalName": "CustomizePlus",
+    "project": "CustomizePlus/CustomizePlus.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/DailyDuty",
+    "internalName": "DailyDuty",
+    "project": "DailyDuty/DailyDuty.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/dalamud-chatcoordinates",
+    "internalName": "ChatCoordinates",
+    "project": "ChatCoordinates/ChatCoordinates.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Dalamud-FlashOnTellPlugin",
+    "internalName": "FlashOnTell",
+    "project": "FlashOnTell/FlashOnTell.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Dalamud-VFXEditor-API13",
+    "internalName": "VFXEditor",
+    "project": "VFXEditor/VFXEditor.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Deliveroo",
+    "internalName": "Deliveroo",
+    "project": "Deliveroo/Deliveroo.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Distance",
+    "internalName": "Distance",
+    "project": "Distance/Distance.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Doorbell",
+    "internalName": "Doorbell",
+    "project": "Doorbell.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/DozeAnywhere",
+    "internalName": "DozeAnywhere",
+    "project": "DozeAnywhere/DozeAnywhere.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/DP-CustomResolution",
+    "internalName": "CustomResolution2782",
+    "project": "CustomResolution2782/CustomResolution2782.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EasyEyes",
+    "internalName": "EasyEyes",
+    "project": "EasyEyes/EasyEyes.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EnemyListDebuffs",
+    "internalName": "EnemyListDebuffs",
+    "project": "EnemyListDebuffs.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EngageTimer",
+    "internalName": "EngageTimer",
+    "project": "Plugin/EngageTimer.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EnmityHp",
+    "internalName": "EnmityHp",
+    "project": "EnmityHp/EnmityHp.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EurekaTrackerAutoPopper",
+    "internalName": "EurekaTrackerAutoPopper",
+    "project": "EurekaTrackerAutoPopper/EurekaTrackerAutoPopper.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Explorers-Icebox",
+    "internalName": "ExplorersIcebox",
+    "project": "ExplorersIcebox/ExplorersIcebox.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/EzMiniCactpot",
+    "internalName": "MiniCactpotSolver",
+    "project": "MiniCactpotSolver/MiniCactpotSolver.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Facade",
+    "internalName": "Facade",
+    "project": "Facade.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/FFTriadBuddyDalamud",
+    "internalName": "TriadBuddy",
+    "project": "TriadBuddy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv-bundleoftweaks",
+    "internalName": "Automaton",
+    "project": "ffxiv_bundledtweaks/Automaton.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv-deathrecap",
+    "internalName": "DeathRecap",
+    "project": "DeathRecap.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv-priceinsight",
+    "internalName": "PriceInsight",
+    "project": "PriceInsight.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv_bossmod",
+    "internalName": "BossMod",
+    "project": "BossMod/BossMod.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv_navmesh",
+    "internalName": "vnavmesh",
+    "project": "vnavmesh/vnavmesh.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ffxiv_visland",
+    "internalName": "visland",
+    "project": "ffxiv_visland/visland.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/FlyTextFilter",
+    "internalName": "FlyTextFilter",
+    "project": "FlyTextFilter/FlyTextFilter.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/FPSPlugin",
+    "internalName": "FPSPlugin",
+    "project": "FPSPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Fungah-Totally-Safe-Spot",
+    "internalName": "Fungah",
+    "project": "Fungah/Fungah.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/GatherBuddyReborn",
+    "internalName": "GatherBuddyReborn",
+    "project": "GatherBuddy/GatherBuddy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/GaugeOMatic",
+    "internalName": "GaugeOMatic",
+    "project": "GaugeOMatic/GaugeOMatic.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Gearsetter",
+    "internalName": "Gearsetter",
+    "project": "Gearsetter/Gearsetter.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Glamourer",
+    "internalName": "Glamourer",
+    "project": "Glamourer/Glamourer.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Honorific",
+    "internalName": "Honorific",
+    "project": "Honorific.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Housemate",
+    "internalName": "Housemate",
+    "project": "Housemate/Housemate.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/HuntBuddy",
+    "internalName": "HuntBuddy",
+    "project": "HuntBuddy/HuntBuddy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Hyperborea",
+    "internalName": "Hyperborea",
+    "project": "Hyperborea/Hyperborea.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Ices-Cosmic-Exploration",
+    "internalName": "ICE",
+    "project": "ICE/ICE.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/IINACT",
+    "internalName": "IINACT",
+    "project": "IINACT/IINACT.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/InventoryTools",
+    "internalName": "InventoryTools",
+    "project": "InventoryTools/InventoryTools.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/JobBars",
+    "internalName": "JobBars",
+    "project": "JobBars/JobBars.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Ktisis",
+    "internalName": "Ktisis",
+    "project": "Ktisis/Ktisis.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/LazyLoot",
+    "internalName": "LazyLoot",
+    "project": "LazyLoot/LazyLoot.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Lifestream",
+    "internalName": "Lifestream",
+    "project": "Lifestream/Lifestream.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/LMeter_TC",
+    "internalName": "LMeter",
+    "project": "LMeter/LMeter.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/LopClient",
+    "internalName": "LoporritSync",
+    "project": "MareSynchronos/MareSynchronos.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MapLinker",
+    "internalName": "MapLinker",
+    "project": "MapLinker/MapLinker.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Mappy",
+    "internalName": "Mappy",
+    "project": "Mappy/Mappy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MarketBoardPlugin",
+    "internalName": "MarketBoardPlugin",
+    "project": "MarketBoardPlugin/MarketBoardPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Marketbuddy",
+    "internalName": "Marketbuddy",
+    "project": "Marketbuddy/Marketbuddy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/mask-of-kefka",
+    "internalName": "MaskOfKefka",
+    "project": "MaskOfKefka/MaskOfKefka.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MeterWay",
+    "internalName": "MeterWay",
+    "project": "MeterWay/MeterWay.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MidiBard2",
+    "internalName": "MidiBard2",
+    "project": "Midibard/MidiBard2.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MonsterDex",
+    "internalName": "DeepDungeonDex",
+    "project": "DeepDungeonDex/DeepDungeonDex.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MouseLock",
+    "internalName": "MouseLock",
+    "project": "MouseLock/MouseLock.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/MultiHit",
+    "internalName": "MultiHit",
+    "project": "MultiHit/MultiHit.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/NamingWay",
+    "internalName": "Namingway",
+    "project": "Namingway/Namingway.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/NecroLens",
+    "internalName": "NecroLens",
+    "project": "NecroLens/NecroLens.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/NoClippy",
+    "internalName": "NoClippy",
+    "project": "NoClippy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/NOTED",
+    "internalName": "NOTED",
+    "project": "NOTED/NOTED.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/NotificationMaster",
+    "internalName": "NotificationMaster",
+    "project": "NotificationMaster/NotificationMaster.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Orbwalker",
+    "internalName": "Orbwalker",
+    "project": "Orbwalker/Orbwalker.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/OrchestrionPlugin",
+    "internalName": "orchestrion",
+    "project": "Orchestrion/Orchestrion.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PalacePal",
+    "internalName": "PalacePal",
+    "project": "Pal.Client/Pal.Client.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PandorasBox",
+    "internalName": "PandorasBox",
+    "project": "PandorasBox/PandorasBox.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PeepingTom",
+    "internalName": "PeepingTom",
+    "project": "Peeping Tom/Peeping Tom.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PennyPincher",
+    "internalName": "PennyPincher",
+    "project": "PennyPincher.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Penumbra",
+    "internalName": "Penumbra",
+    "project": "Penumbra/Penumbra.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PingPlugin",
+    "internalName": "PingPlugin",
+    "project": "PingPlugin/PingPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PixelPerfect",
+    "internalName": "PixelPerfect",
+    "project": "PixelPerfect/PixelPerfect.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/PlayerWatchlist",
+    "internalName": "PlayerWatchlist",
+    "project": "PlayerWatchlist.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/QoLBar",
+    "internalName": "QoLBar",
+    "project": "QoLBar.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Questionable",
+    "internalName": "GatheringPathRenderer",
+    "project": "GatheringPathRenderer/GatheringPathRenderer.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Questionable",
+    "internalName": "Questionable",
+    "project": "Questionable/Questionable.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/RadarPlugin",
+    "internalName": "RadarPlugin",
+    "project": "RadarPlugin/RadarPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Raphael.Dalamud",
+    "internalName": "Raphael.Dalamud",
+    "project": "Raphael.Dalamud/Raphael.Dalamud.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ReAction",
+    "internalName": "ReAction",
+    "project": "ReAction.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ReMakePlacePlugin",
+    "internalName": "ReMakePlacePlugin",
+    "project": "ReMakePlacePlugin/ReMakePlacePlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/RezPls",
+    "internalName": "RezPls",
+    "project": "RezPls/RezPls.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/RotationSolverReborn",
+    "internalName": "RotationSolver",
+    "project": "RotationSolver/RotationSolver.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Saucy",
+    "internalName": "Saucy",
+    "project": "Saucy/Saucy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SimpleHeels",
+    "internalName": "SimpleHeels",
+    "project": "SimpleHeels.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SimpleTweaksPlugin",
+    "internalName": "SimpleTweaksPlugin",
+    "project": "SimpleTweaksPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Skippy",
+    "internalName": "Skippy",
+    "project": "Skippy/Skippy/Skippy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SomethingNeedDoing",
+    "internalName": "SomethingNeedDoing",
+    "project": "SomethingNeedDoing/SomethingNeedDoing.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SonarDistrib",
+    "internalName": "SonarPlugin",
+    "project": "SonarPlugin/SonarPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SortaKinda",
+    "internalName": "SortaKinda",
+    "project": "SortaKinda/SortaKinda.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/Splatoon",
+    "internalName": "Splatoon",
+    "project": "Splatoon/Splatoon.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/SubmarineTracker",
+    "internalName": "SubmarineTracker",
+    "project": "SubmarineTracker/SubmarineTracker.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/TeleporterPlugin",
+    "internalName": "TeleporterPlugin",
+    "project": "TeleporterPlugin/TeleporterPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/TextAdvance",
+    "internalName": "TextAdvance",
+    "project": "TextAdvance/TextAdvance.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/TitleEdit",
+    "internalName": "TitleEdit",
+    "project": "TitleEdit/TitleEdit.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/umbra",
+    "internalName": "Umbra",
+    "project": "Umbra/Umbra.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/vfaux",
+    "internalName": "vfaux",
+    "project": "vfaux/vfaux.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/VisibilityPlugin",
+    "internalName": "Visibility",
+    "project": "Visibility/Visibility.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/WaymarkPresetPlugin",
+    "internalName": "WaymarkPresetPlugin",
+    "project": "WaymarkPresetPlugin/WaymarkPresetPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/WrathCombo",
+    "internalName": "WrathCombo",
+    "project": "WrathCombo/WrathCombo.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/xiv-party-treasure-helper",
+    "internalName": "XivTreasureParty",
+    "project": "XivTreasureParty/XivTreasureParty.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/xivlauncher_physics_plugin",
+    "internalName": "HighFpsPhysicsPlugin",
+    "project": "SamplePlugin/HighFpsPhysicsPlugin.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/xivPartyIcons",
+    "internalName": "PartyIcons",
+    "project": "PartyIcons/PartyIcons.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/YesAlready",
+    "internalName": "YesAlready",
+    "project": "YesAlready/YesAlready.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  },
+  {
+    "repository": "cycleapple/ZodiacBuddy",
+    "internalName": "ZodiacBuddy",
+    "project": "ZodiacBuddy/ZodiacBuddy.csproj",
+    "status": "passed",
+    "hostReferences": {
+      "Dalamud.Bindings.ImGui": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.Bindings.ImGui.dll",
+      "Dalamud": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Dalamud.dll",
+      "FFXIVClientStructs": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\FFXIVClientStructs.dll",
+      "Lumina": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.dll",
+      "Lumina.Excel": "E:\\FFXIV\\XIVLauncher\\api14-work\\references\\upstream-api14-final\\Lumina.Excel.dll"
+    }
+  }
+]

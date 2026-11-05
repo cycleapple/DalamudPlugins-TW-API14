@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/CrossUp",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:12:56Z",
+  "parent": {
+    "full_name": "ItsBexy/CrossUp",
+    "default_branch": "master",
+    "clone_url": "https://github.com/ItsBexy/CrossUp.git"
+  },
+  "source": {
+    "full_name": "ItsBexy/CrossUp",
+    "default_branch": "master",
+    "clone_url": "https://github.com/ItsBexy/CrossUp.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "ItsBexy/CrossUp",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "9cf775b587b6c185c03a9edbbf1f063fd5b32cc1",
+  "apiMarkerPath": "CrossUp.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "89ef4b2b9b304090e807ad114624dba2ea949b4e",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "99a7e8efdcc10be0aa7bf420c7455b84a556631f",
+  "api14Date": "2025-12-19T01:42:27Z",
+  "api14Message": "1.7.1.2 - Update for 7.4",
+  "api14Url": "https://github.com/ItsBexy/CrossUp/commit/99a7e8efdcc10be0aa7bf420c7455b84a556631f"
+}

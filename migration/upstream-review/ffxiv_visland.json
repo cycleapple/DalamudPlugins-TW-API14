@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ffxiv_visland",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Island sanctuary automation",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:50:01Z",
+  "parent": {
+    "full_name": "awgil/ffxiv_visland",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_visland.git"
+  },
+  "source": {
+    "full_name": "awgil/ffxiv_visland",
+    "default_branch": "master",
+    "clone_url": "https://github.com/awgil/ffxiv_visland.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "awgil/ffxiv_visland",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "fab9e6e9e30ebfb7ce557f5e0938016fef0df7be",
+  "apiMarkerPath": "ffxiv_visland/visland.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "975610e7811786ac3227bafd9338b1338ae92ca1",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "c5b705dd6d3e5058273bc3d5c7b6828c37773005",
+  "api14Date": "2026-04-18T21:20:42Z",
+  "api14Message": "Update FarmDebug.cs",
+  "api14Url": "https://github.com/awgil/ffxiv_visland/commit/c5b705dd6d3e5058273bc3d5c7b6828c37773005"
+}

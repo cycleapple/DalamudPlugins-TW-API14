@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/Deliveroo",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:13:51Z",
+  "parent": {
+    "full_name": "VeraNala/Deliveroo",
+    "default_branch": "master",
+    "clone_url": "https://github.com/VeraNala/Deliveroo.git"
+  },
+  "source": {
+    "full_name": "VeraNala/Deliveroo",
+    "default_branch": "master",
+    "clone_url": "https://github.com/VeraNala/Deliveroo.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "VeraNala/Deliveroo",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "521cb52e677df1b0c5d41438a16545e0b5480819",
+  "apiMarkerPath": "Deliveroo/Deliveroo.csproj",
+  "headApiLevel": 14,
+  "upstreamStatus": "api14-head-confirmed",
+  "api14Commit": "521cb52e677df1b0c5d41438a16545e0b5480819",
+  "api14Date": "2025-12-20T06:32:09Z",
+  "api14Message": "API 14",
+  "api14Url": "https://github.com/VeraNala/Deliveroo/commit/521cb52e677df1b0c5d41438a16545e0b5480819"
+}

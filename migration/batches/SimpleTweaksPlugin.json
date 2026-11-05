@@ -7,14 +7,14 @@
       "project": "SimpleTweaksPlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 2.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SimpleTweaksPlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
+  "sourceCommit": "5c5115048679b5cd6fca492a3eb3f5fbd6372e79",
   "publishedSource": true,
   "dependencyPatches": 0
 }

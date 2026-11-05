@@ -7,14 +7,14 @@
       "project": "VFXEditor/VFXEditor.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.0,
+      "seconds": 4.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\VFXEditor.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
+  "sourceCommit": "3aa17ed8b8df16f81a610af0e22cea757678baf5",
   "publishedSource": true,
   "dependencyPatches": 1
 }

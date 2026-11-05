@@ -1,0 +1,51 @@
+{
+  "full_name": "cycleapple/FFXIVClientStructs",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Resources for reverse-engineering the FFXIV client's native classes.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T14:09:43Z",
+  "parent": {
+    "full_name": "aers/FFXIVClientStructs",
+    "default_branch": "main",
+    "clone_url": "https://github.com/aers/FFXIVClientStructs.git"
+  },
+  "source": {
+    "full_name": "aers/FFXIVClientStructs",
+    "default_branch": "main",
+    "clone_url": "https://github.com/aers/FFXIVClientStructs.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "aers/FFXIVClientStructs",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "aad0de66f0a6b49f257d224499dd685ceba567da",
+  "upstreamStatus": "manual-reference-project-needs-review",
+  "upstreamCreatedAt": "2020-10-17T12:45:10Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "8.0-work",
+      "commit": "da4a1d1cdb1a89afdda326d9954edf0f9b1441b1"
+    },
+    {
+      "name": "assemblyver",
+      "commit": "2504e3cd80baee0530aff0ce196904a1ada9eff6"
+    },
+    {
+      "name": "data-explicit-vtable-size",
+      "commit": "77484835b564452d776af85d4bea8c583083bf5c"
+    },
+    {
+      "name": "excel-gen",
+      "commit": "1259f311f793f07b53e8df078a72d59eda3cb7fe"
+    },
+    {
+      "name": "generic-generator",
+      "commit": "a80f341912c49f74b1f28627a1b4a841b4da3fb2"
+    },
+    {
+      "name": "main",
+      "commit": "aad0de66f0a6b49f257d224499dd685ceba567da"
+    }
+  ]
+}

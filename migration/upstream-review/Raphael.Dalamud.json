@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Raphael.Dalamud",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:17:30Z",
+  "parent": {
+    "full_name": "Dalamud-DailyRoutines/Raphael.Dalamud",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud.git"
+  },
+  "source": {
+    "full_name": "Dalamud-DailyRoutines/Raphael.Dalamud",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Dalamud-DailyRoutines/Raphael.Dalamud",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "34839f814d906c2978f0c0d3b3409ff79919b3d0",
+  "apiMarkerPath": "Raphael.Dalamud/Raphael.Dalamud.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "6fbc2d12b321e01011ae6b99b1bbd013326aff93",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "1541b18a9087b7719a8eccfe362b92cdfb189af1",
+  "api14Date": "2025-12-17T08:02:10Z",
+  "api14Message": "0.0.6.0",
+  "api14Url": "https://github.com/Dalamud-DailyRoutines/Raphael.Dalamud/commit/1541b18a9087b7719a8eccfe362b92cdfb189af1"
+}

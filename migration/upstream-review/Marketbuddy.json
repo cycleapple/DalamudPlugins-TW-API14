@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Marketbuddy",
+  "fork": true,
+  "default_branch": "main",
+  "description": " Plugin for XivLauncher/Dalamud to help with your day-to-day market operations. ",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:20Z",
+  "parent": {
+    "full_name": "PunishXIV/Marketbuddy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/Marketbuddy.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Marketbuddy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/Marketbuddy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Marketbuddy",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "7cc07f57df005b6b113564fb7853d6a05837df1b",
+  "apiMarkerPath": "Marketbuddy/Marketbuddy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "49d6bbb9e95da77f44cabbde5daba27c0f6f7888",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "7b2a6a7fa815297ae0dd082f4c2c88cd7229c3cb",
+  "api14Date": "2026-04-30T08:52:42Z",
+  "api14Message": "Update Metadata",
+  "api14Url": "https://github.com/PunishXIV/Marketbuddy/commit/7b2a6a7fa815297ae0dd082f4c2c88cd7229c3cb"
+}

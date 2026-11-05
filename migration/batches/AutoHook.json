@@ -7,14 +7,14 @@
       "project": "AutoHook/AutoHook.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 4.3,
+      "seconds": 4.1,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoHook.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
+  "sourceCommit": "dd6b0e28fe0e4892e155ef6d5a15aea8f32532d2",
   "publishedSource": true,
   "dependencyPatches": 1
 }

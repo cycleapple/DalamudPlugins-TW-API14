@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/MarketBoardPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Market board information plugin for XIVLauncher / Dalamud",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:17Z",
+  "parent": {
+    "full_name": "fmauNeko/MarketBoardPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/fmauNeko/MarketBoardPlugin.git"
+  },
+  "source": {
+    "full_name": "fmauNeko/MarketBoardPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/fmauNeko/MarketBoardPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "fmauNeko/MarketBoardPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "45dd411da5f0e5e63299a398d82c45e80839e693",
+  "apiMarkerPath": "MarketBoardPlugin/MarketBoardPlugin.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "46d3f49fca27c78fb410ba196a3e4feaa28de871",
+  "api14Date": "2025-12-18T23:32:47Z",
+  "api14Message": "🔖 bump version to 1.12.0",
+  "api14Url": "https://github.com/fmauNeko/MarketBoardPlugin/commit/46d3f49fca27c78fb410ba196a3e4feaa28de871"
+}

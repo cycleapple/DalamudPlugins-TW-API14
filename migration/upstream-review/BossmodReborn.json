@@ -1,0 +1,64 @@
+{
+  "full_name": "cycleapple/BossmodReborn",
+  "fork": false,
+  "default_branch": "api13-tw",
+  "description": "Taiwan Dalamud API13 compatibility mirror of FFXIV-CombatReborn/BossmodReborn",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:49:47Z",
+  "parent": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "source": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "FFXIV-CombatReborn/BossmodReborn",
+  "upstreamStatus": "api14-cutoff-source-confirmed",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+  "candidateDate": "2026-04-23T15:46:53Z",
+  "upstreamCreatedAt": "2024-03-28T03:03:08Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "27be422560eb801893b093d9157323585eeae0eb"
+    },
+    {
+      "name": "merge",
+      "commit": "d3d26e491d7e6e1dc0217092e35aefdee2565eeb"
+    },
+    {
+      "name": "merge2",
+      "commit": "40b0abdd35e81517409bdc81446910f943a75a49"
+    },
+    {
+      "name": "merge3",
+      "commit": "fff7f6e98541fcd6b23d7c2ccbac88e1fa4c9c75"
+    },
+    {
+      "name": "merge4",
+      "commit": "c5d710b658a18b073b511577e31fba98eab2f321"
+    },
+    {
+      "name": "merge5",
+      "commit": "93b96ac6c0f75dfc97ee0148c5c5141c785a3ec9"
+    },
+    {
+      "name": "minorUIFix",
+      "commit": "79031c1acf828847443fde7772e2758eccc254d9"
+    },
+    {
+      "name": "whats-that-smell",
+      "commit": "a53d4bbf596aa91f961330856997c5da8b0dcc04"
+    }
+  ],
+  "api14Commit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+  "api14Date": "2026-04-23T15:46:53Z",
+  "api14Url": "https://github.com/FFXIV-CombatReborn/BossmodReborn/commit/e563820e90fad4b7281eb838e66c2fbe4421cb56",
+  "apiMarkerPath": "BossMod/BossMod.csproj"
+}

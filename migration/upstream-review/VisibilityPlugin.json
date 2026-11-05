@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/VisibilityPlugin",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Dalamud plugin to allow for quality of life changes for player and pet visibility.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:22Z",
+  "parent": {
+    "full_name": "SheepGoMeh/VisibilityPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/SheepGoMeh/VisibilityPlugin.git"
+  },
+  "source": {
+    "full_name": "SheepGoMeh/VisibilityPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/SheepGoMeh/VisibilityPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "SheepGoMeh/VisibilityPlugin",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "0ca77cb99a08bc448f55b1cc5d7896f7416a4b8b",
+  "apiMarkerPath": "Visibility/Visibility.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "d4cd0408b09fb6c1a967d08e8804049fc51f7678",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "6fa9126183b1b59bd528f41c0da688ca7bbc3f3e",
+  "api14Date": "2026-02-14T21:05:38Z",
+  "api14Message": "[PR] Merge pull request #121 from SheepGoMeh/fix/friend-list",
+  "api14Url": "https://github.com/SheepGoMeh/VisibilityPlugin/commit/6fa9126183b1b59bd528f41c0da688ca7bbc3f3e"
+}

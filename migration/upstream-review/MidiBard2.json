@@ -1,0 +1,61 @@
+{
+  "full_name": "cycleapple/MidiBard2",
+  "fork": true,
+  "default_branch": "v3-api13-stable",
+  "description": "MidiBard is a popular music player used by solo bards and up to octet bands in the game Final Fantasy XIV, featuring zero input latency which ensures perfect sync between bards. MidiBard is capable of playing all file types used by other music players such as Bard Music Player, LightAmp, and MogAmp.",
+  "homepage": "https://midibard.org",
+  "pushed_at": "2026-11-05T16:16:28Z",
+  "parent": {
+    "full_name": "reckhou/MidiBard2",
+    "default_branch": "v3-api13-stable",
+    "clone_url": "https://github.com/reckhou/MidiBard2.git"
+  },
+  "source": {
+    "full_name": "akira0245/MidiBard",
+    "default_branch": "master",
+    "clone_url": "https://github.com/akira0245/MidiBard.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "reckhou/MidiBard2",
+  "upstreamDefaultBranch": "v3-api13-stable",
+  "upstreamHead": "60d066d0812b3b79c0213880f57e5de05e561d96",
+  "apiMarkerPath": "Midibard/MidiBard2.csproj",
+  "headApiLevel": 12,
+  "upstreamStatus": "explicit-api14-branch",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "60d066d0812b3b79c0213880f57e5de05e561d96",
+  "candidateDate": "2025-12-01T19:51:17Z",
+  "upstreamCreatedAt": "2021-09-10T15:13:18Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "v2-api10-stable",
+      "commit": "ec462c04b2ae46e17732cf365e4345e39074c568"
+    },
+    {
+      "name": "v2-api12-stable",
+      "commit": "1d9f4e3b97074f959d95f39d53c4ed7f91abe974"
+    },
+    {
+      "name": "v3-api12-stable",
+      "commit": "7281e316bcaf3b1eeef39b3c17bcfe818bb11eff"
+    },
+    {
+      "name": "v3-api13-stable",
+      "commit": "60d066d0812b3b79c0213880f57e5de05e561d96"
+    },
+    {
+      "name": "v3-api14-stable",
+      "commit": "39adf979ff5c2dd5980b226239a11d5cbd56cbde"
+    },
+    {
+      "name": "v3-api15-stable",
+      "commit": "6632a89c3dc161a24be6b573a574950183feff31"
+    }
+  ],
+  "api14Commit": "39adf979ff5c2dd5980b226239a11d5cbd56cbde",
+  "api14Date": "2025-12-18T14:05:27Z",
+  "api14Url": "https://github.com/reckhou/MidiBard2/commit/39adf979ff5c2dd5980b226239a11d5cbd56cbde",
+  "api14Branch": "v3-api14-stable",
+  "api14MajorFeatureVersion": 3
+}

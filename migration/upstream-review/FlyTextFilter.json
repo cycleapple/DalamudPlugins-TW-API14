@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/FlyTextFilter",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:55Z",
+  "parent": {
+    "full_name": "Aireil/FlyTextFilter",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Aireil/FlyTextFilter.git"
+  },
+  "source": {
+    "full_name": "Aireil/FlyTextFilter",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Aireil/FlyTextFilter.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Aireil/FlyTextFilter",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "2434f20b170aa22be561393e5aa4f2a7d82c22ce",
+  "apiMarkerPath": "FlyTextFilter/FlyTextFilter.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "1fcdb043d10bd71bd62e143242e81ca249e8fbbd",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "0ed194165256f32a4f773d730a6c2ae5d177d13c",
+  "api14Date": "2025-12-18T21:52:50Z",
+  "api14Message": "build: 4.4.1.0",
+  "api14Url": "https://github.com/Aireil/FlyTextFilter/commit/0ed194165256f32a4f773d730a6c2ae5d177d13c"
+}

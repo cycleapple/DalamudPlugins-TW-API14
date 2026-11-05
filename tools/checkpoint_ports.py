@@ -46,6 +46,11 @@ try {
             if ($LASTEXITCODE -ne 0) { throw "Dependency differs from its pinned API14 patch: $($dependency.path)" }
         }
     }
+    $prebuild = Join-Path $PSScriptRoot 'prebuild.ps1'
+    if ((Test-Path -LiteralPath $prebuild) -and !$ManagedOnly) {
+        & $prebuild
+        if ($LASTEXITCODE -ne 0) { throw 'Native prerequisite build failed.' }
+    }
     $projects = Get-Content -LiteralPath (Join-Path $PSScriptRoot 'projects.json') -Raw | ConvertFrom-Json
     foreach ($project in $projects) {
         $extra = @()
@@ -115,9 +120,9 @@ def main():
             "# API14 port\n\n" + status + " TC API14 build and in-game verification are pending.\n\n"
             "Requires .NET SDK 10.0.101 or newer. Use `.api14/build.ps1 -DalamudHome <isolated-api14-directory>`. "
             "The script rejects non-14 Dalamud assemblies and applies versioned patches to pinned submodules.\n\n"
-            "Reference baseline: upstream Dalamud 14.0.4.3, distribution commit "
-            "`261f5b0cd1f5746533d3d13cf01d9aa62853a746`, archive SHA-256 "
-            "`81704d31a1690801f87c8fdb3c2c7956afcf7e7f56dd04fa37f9b1d3813082ca`.\n\n"
+            "Reference baseline: upstream Dalamud 14.0.5.1, distribution commit "
+            "`6fb2b12018922bddeef009edd26082f068f8c602`, archive SHA-256 "
+            "`6a9f9aee19af4280f2d61680bbff960ae48e5dcaad70707baad857da2f9d8e48`.\n\n"
             "Traditional Chinese resources and TC fixes remain in this branch. "
             "Shared dependencies are kept at their existing commits; patch identities are recorded in `.api14/dependencies.json`. "
             "This branch is not a verified TC release.\n", encoding="utf-8")

@@ -7,14 +7,16 @@
       "project": "LazyLoot/LazyLoot.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.1,
+      "seconds": 6.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\LazyLoot.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
+  "sourceCommit": "968c90f2ad42623e890eda2f38a122d169ffbf76",
   "publishedSource": true,
   "dependencyPatches": 2
 }

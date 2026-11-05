@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Explorers-Icebox",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:18Z",
+  "parent": {
+    "full_name": "LeontopodiumNivale14/Explorers-Icebox",
+    "default_branch": "master",
+    "clone_url": "https://github.com/LeontopodiumNivale14/Explorers-Icebox.git"
+  },
+  "source": {
+    "full_name": "LeontopodiumNivale14/Explorers-Icebox",
+    "default_branch": "master",
+    "clone_url": "https://github.com/LeontopodiumNivale14/Explorers-Icebox.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "LeontopodiumNivale14/Explorers-Icebox",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "a71380ec2660125bff9ab6c0df3465dcef56bef7",
+  "apiMarkerPath": "ExplorersIcebox/ExplorersIcebox.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "ad8732e266d55cf8d2c908711dfabc7daeabd3a8",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "a1732715e50d3cb30c8af99b19a3b8d74ead579a",
+  "api14Date": "2026-05-03T02:33:52Z",
+  "api14Message": "Update ExplorersIcebox.csproj",
+  "api14Url": "https://github.com/LeontopodiumNivale14/Explorers-Icebox/commit/a1732715e50d3cb30c8af99b19a3b8d74ead579a"
+}

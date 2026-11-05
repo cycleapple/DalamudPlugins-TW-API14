@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/PandorasBox",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": "https://puni.sh",
+  "pushed_at": "2026-11-05T16:17:01Z",
+  "parent": {
+    "full_name": "PunishXIV/PandorasBox",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/PandorasBox.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/PandorasBox",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/PandorasBox.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/PandorasBox",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "3a35634f7bd95b7b590e1be66227bba0b4f18144",
+  "apiMarkerPath": "PandorasBox/PandorasBox.json",
+  "headApiLevel": 15,
+  "upstreamStatus": "api14-manifest-confirmed",
+  "manualReviewVersion": 1,
+  "api14Commit": "814bb212bb13a93768f2bc8c532ec619f75aa1b1",
+  "api14Date": "2026-04-11T17:12:51Z",
+  "api14Url": "https://github.com/PunishXIV/PandorasBox/commit/814bb212bb13a93768f2bc8c532ec619f75aa1b1"
+}

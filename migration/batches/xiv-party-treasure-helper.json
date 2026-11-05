@@ -7,14 +7,14 @@
       "project": "XivTreasureParty/XivTreasureParty.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.7,
+      "seconds": 2.0,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\XivTreasureParty.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
+  "sourceCommit": "d1a4928f9bd01bf5e0e4d5ee37cd1d986d40e097",
   "publishedSource": true,
   "dependencyPatches": 0
 }

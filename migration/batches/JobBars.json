@@ -7,14 +7,14 @@
       "project": "JobBars/JobBars.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.9,
+      "seconds": 2.5,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\JobBars.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
+  "sourceCommit": "42fdff89ad2847b92a954a51dba2e06dafe7f78a",
   "publishedSource": true,
   "dependencyPatches": 1
 }

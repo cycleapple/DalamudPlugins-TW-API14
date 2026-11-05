@@ -7,14 +7,14 @@
       "project": "Marketbuddy/Marketbuddy.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.2,
+      "seconds": 2.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Marketbuddy.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "f6df96f538884670df062ca1c257b9a8217c5196",
+  "sourceCommit": "218ff3c7f3db51b1580c561bc62a0e16d03198b9",
   "publishedSource": true,
   "dependencyPatches": 0
 }

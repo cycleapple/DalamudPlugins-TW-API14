@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/SortaKinda",
+  "fork": true,
+  "default_branch": "master",
+  "description": "SortaKinda is a XivLauncher/Dalamud plugin.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:17:58Z",
+  "parent": {
+    "full_name": "MidoriKami/SortaKinda",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/SortaKinda.git"
+  },
+  "source": {
+    "full_name": "MidoriKami/SortaKinda",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/SortaKinda.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "MidoriKami/SortaKinda",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "95a1bf9161f4bc595c21094eeaae9fda556f4b4b",
+  "apiMarkerPath": "SortaKinda/SortaKinda.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "9308150d37523e8e2c209f531ccbbb3987c463fe",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "d2e99fde7fd4a101ecb7e6372fd26c8dd5fe43b6",
+  "api14Date": "2026-04-10T16:27:24Z",
+  "api14Message": "Create UpdatePluginRepo.yml",
+  "api14Url": "https://github.com/MidoriKami/SortaKinda/commit/d2e99fde7fd4a101ecb7e6372fd26c8dd5fe43b6"
+}

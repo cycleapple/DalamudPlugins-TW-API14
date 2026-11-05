@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ChatTwo",
+  "fork": true,
+  "default_branch": "main",
+  "description": "A simple chat replacement for FFXIV",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:49:48Z",
+  "parent": {
+    "full_name": "Infiziert90/ChatTwo",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Infiziert90/ChatTwo.git"
+  },
+  "source": {
+    "full_name": "Infiziert90/ChatTwo",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Infiziert90/ChatTwo.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Infiziert90/ChatTwo",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "ca9aa992da06846c081e44841fa3145d5d401566",
+  "apiMarkerPath": "ChatTwo/ChatTwo.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "b4cb8b25ecf0f526b8e88395f13434b49fe94c52",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "68810e23c16b135acb84aa60c7501c53dddda696",
+  "api14Date": "2026-04-21T12:58:11Z",
+  "api14Message": "- Export required files with json",
+  "api14Url": "https://github.com/Infiziert90/ChatTwo/commit/68810e23c16b135acb84aa60c7501c53dddda696"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/TitleEdit",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Plugin that replaces ffxiv's character select background level",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:15Z",
+  "parent": {
+    "full_name": "RokasKil/TitleEdit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/RokasKil/TitleEdit.git"
+  },
+  "source": {
+    "full_name": "RokasKil/TitleEdit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/RokasKil/TitleEdit.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "RokasKil/TitleEdit",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "2cf9063c80626223918b89c45e3201c1b1b35f54",
+  "apiMarkerPath": "TitleEdit/TitleEdit.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "5c03a6530184d7872ea20c2232ff46e0be9597f8",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "ebe574ceb676438e66596db6a7fe49d2e19dcdaf",
+  "api14Date": "2026-03-22T23:02:27Z",
+  "api14Message": "v3.0.6.6 - Removed CS Obsoletes, cleaned up some Camera code",
+  "api14Url": "https://github.com/RokasKil/TitleEdit/commit/ebe574ceb676438e66596db6a7fe49d2e19dcdaf"
+}

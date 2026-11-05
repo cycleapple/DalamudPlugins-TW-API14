@@ -7,14 +7,14 @@
       "project": "Namingway/Namingway.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.9,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Namingway.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "2130a6cff286dfc378d800aee619c042e4830b91",
+  "sourceCommit": "7a77c9147e4ae0b83d110c3975e8347d1f70471b",
   "publishedSource": true,
   "dependencyPatches": 0
 }

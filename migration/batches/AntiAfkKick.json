@@ -7,14 +7,14 @@
       "project": "AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.7,
+      "seconds": 1.6,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AntiAfkKick-Dalamud.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
+  "sourceCommit": "86b0f7331c50f73c209db5fe9b92f5dc8d632153",
   "publishedSource": true,
   "dependencyPatches": 0
 }

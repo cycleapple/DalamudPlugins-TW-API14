@@ -1,0 +1,25 @@
+{
+  "full_name": "cycleapple/DP-CustomResolution",
+  "fork": false,
+  "default_branch": "api13-tw",
+  "description": "Dalamud CustomResolution plugin API13 compatibility source",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:02Z",
+  "parent": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "source": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": null,
+  "upstreamStatus": "self-maintained-or-unresolved",
+  "manualReviewVersion": 1,
+  "manualReviewError": "Command '['gh', 'api', 'repos/0x0ade/DalamudPlugins']' returned non-zero exit status 1.",
+  "upstreamCreatedAt": "2026-07-30T22:44:28Z",
+  "upstreamArchived": false
+}

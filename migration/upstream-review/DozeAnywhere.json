@@ -1,0 +1,34 @@
+{
+  "full_name": "cycleapple/DozeAnywhere",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A plugin for FFXIV that allows you to sit or doze anywhere.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:13:59Z",
+  "parent": {
+    "full_name": "Warpholomey/DozeAnywhere",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Warpholomey/DozeAnywhere.git"
+  },
+  "source": {
+    "full_name": "Warpholomey/DozeAnywhere",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Warpholomey/DozeAnywhere.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Warpholomey/DozeAnywhere",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "5f19cdd8551894b9b3a0e05c31b709438171d359",
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "eff22d451f192d17725504cf13ef607d2f93d133",
+  "candidateDate": "2025-12-18T13:21:31Z",
+  "upstreamCreatedAt": "2023-10-05T17:12:03Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "master",
+      "commit": "5f19cdd8551894b9b3a0e05c31b709438171d359"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Gearsetter",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:22Z",
+  "parent": {
+    "full_name": "VeraNala/Gearsetter",
+    "default_branch": "main",
+    "clone_url": "https://github.com/VeraNala/Gearsetter.git"
+  },
+  "source": {
+    "full_name": "VeraNala/Gearsetter",
+    "default_branch": "main",
+    "clone_url": "https://github.com/VeraNala/Gearsetter.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "VeraNala/Gearsetter",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "c48f7021ca9cfbf45f7ab49c563629684a5f0c06",
+  "apiMarkerPath": "Gearsetter/Gearsetter.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "c48f7021ca9cfbf45f7ab49c563629684a5f0c06",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "19db7afe669e510e6b4fafec2721deb69f244e96",
+  "api14Date": "2025-12-20T06:30:49Z",
+  "api14Message": "API 14",
+  "api14Url": "https://github.com/VeraNala/Gearsetter/commit/19db7afe669e510e6b4fafec2721deb69f244e96"
+}

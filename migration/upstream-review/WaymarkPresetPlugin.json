@@ -1,0 +1,36 @@
+{
+  "full_name": "cycleapple/WaymarkPresetPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud/XIVLauncher plugin to manage waymark presets.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:18:25Z",
+  "parent": {
+    "full_name": "Infiziert90/WaymarkPresetPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Infiziert90/WaymarkPresetPlugin.git"
+  },
+  "source": {
+    "full_name": "PunishedPineapple/WaymarkPresetPlugin",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishedPineapple/WaymarkPresetPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Infiziert90/WaymarkPresetPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "bb2277a7edb1f07425add745db1aa324c885b985",
+  "apiMarkerPath": "WaymarkPresetPlugin/WaymarkPresetPlugin.csproj",
+  "headApiLevel": 13,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "bb2277a7edb1f07425add745db1aa324c885b985",
+  "candidateDate": "2025-08-07T00:24:11Z",
+  "upstreamCreatedAt": "2023-07-19T05:24:50Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "bb2277a7edb1f07425add745db1aa324c885b985"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "cycleapple/aetherment",
+    "sourceCommit": "99b98ed3a31435eff33157927e3f0e23bfbe1b22",
+    "clone": "GitHub single-branch; no local alternates",
+    "build": "passed",
+    "nativeBuild": "cargo locked release passed",
+    "sdk": "14.0.5.1",
+    "tcRuntime": "pending"
+  },
+  {
+    "repository": "cycleapple/AutoRetainer",
+    "sourceCommit": "67da354db681f50583de3eb494823d866d9d12be",
+    "clone": "GitHub single-branch; no local alternates",
+    "build": "passed",
+    "nativeBuild": "not-required",
+    "sdk": "14.0.5.1",
+    "tcRuntime": "pending",
+    "note": "Verified pinned predecessor; final follow-up only removes an unused SharpDX.Mathematics reference."
+  },
+  {
+    "repository": "cycleapple/SimpleTweaksPlugin",
+    "sourceCommit": "5c5115048679b5cd6fca492a3eb3f5fbd6372e79",
+    "clone": "GitHub single-branch; no local alternates",
+    "build": "passed",
+    "nativeBuild": "not-required",
+    "sdk": "14.0.5.1",
+    "tcRuntime": "pending"
+  }
+]

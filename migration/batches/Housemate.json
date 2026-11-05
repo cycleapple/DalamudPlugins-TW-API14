@@ -7,14 +7,14 @@
       "project": "Housemate/Housemate.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.6,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Housemate.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
+  "sourceCommit": "febd3d9be159e747eb36a9538fe07f5b35c2e1f9",
   "publishedSource": true,
   "dependencyPatches": 0
 }

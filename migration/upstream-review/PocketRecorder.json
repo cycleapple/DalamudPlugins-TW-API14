@@ -1,0 +1,57 @@
+{
+  "full_name": "cycleapple/PocketRecorder",
+  "fork": true,
+  "default_branch": "api13-zh-tw",
+  "description": "Pocket Recorder is a lightweight FFXIV/Dalamud recording plugin with one-click capture, countdown-based auto recording, configurable audio/FPS/bitrate, GPU-native MP4 encoding for NVIDIA/AMD/Intel, and FFmpeg fallback.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:50:00Z",
+  "parent": {
+    "full_name": "kanyeishere/PocketRecorder",
+    "default_branch": "master",
+    "clone_url": "https://github.com/kanyeishere/PocketRecorder.git"
+  },
+  "source": {
+    "full_name": "kanyeishere/PocketRecorder",
+    "default_branch": "master",
+    "clone_url": "https://github.com/kanyeishere/PocketRecorder.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "kanyeishere/PocketRecorder",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "1ab8a5ca08a9c3daff841c6f68d0c63ee8c51f02",
+  "upstreamStatus": "manual-reference-project-needs-review",
+  "manualReviewVersion": 1,
+  "manualReviewError": "No pre-API15 history",
+  "upstreamCreatedAt": "2026-06-30T13:20:58Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "codex/fix-luid-ffmpeg-compat",
+      "commit": "658527691a65b2e8fc2fc832d16b2def7da376fb"
+    },
+    {
+      "name": "codex/fix-native-crt-crash",
+      "commit": "1422f72ca30b5a13621c611a58ee64547710678f"
+    },
+    {
+      "name": "codex/reshade-overlay-toggle-api13",
+      "commit": "cc5907b8664915d42d6c0337be7a5808b7046bb8"
+    },
+    {
+      "name": "codex/reshade-present-hook-compat",
+      "commit": "3b6442ce08b6e927a6fbc9f480f56e241cf1571b"
+    },
+    {
+      "name": "master",
+      "commit": "1ab8a5ca08a9c3daff841c6f68d0c63ee8c51f02"
+    },
+    {
+      "name": "master2",
+      "commit": "d2b4a5826a8496cf49c39eac8b6982d155e5f51a"
+    },
+    {
+      "name": "native-recorder-release",
+      "commit": "c74cb3e86989f8f4c631e4496b390d7de317484b"
+    }
+  ]
+}

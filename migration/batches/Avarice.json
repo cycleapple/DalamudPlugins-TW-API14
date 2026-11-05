@@ -7,14 +7,16 @@
       "project": "Avarice/Avarice.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.9,
+      "seconds": 7.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Avarice.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "99c0a592a63e8d58082b991b445a9fd774219b41",
+  "sourceCommit": "5243a15131872bdd32ca89ead6c525c60e64be00",
   "publishedSource": true,
   "dependencyPatches": 2
 }

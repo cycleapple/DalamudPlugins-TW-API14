@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/KamiToolKit",
+  "fork": true,
+  "default_branch": "master",
+  "description": "C# Wrapper for FFXIV's Native UI AddonToolKit",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:33:34Z",
+  "parent": {
+    "full_name": "MidoriKami/KamiToolKit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/KamiToolKit.git"
+  },
+  "source": {
+    "full_name": "MidoriKami/KamiToolKit",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/KamiToolKit.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "MidoriKami/KamiToolKit",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "b4b7cab18e3b60abb49391272acb421e35b52bad",
+  "apiMarkerPath": "KamiToolKit.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "a40db3168c2fef974dc60a150f039ecda694cc9a",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "09ec5462025d1039278fb0cfae72a10deccf0b2f",
+  "api14Date": "2026-04-26T21:48:59Z",
+  "api14Message": "Disallow Nameplate in addon search by default",
+  "api14Url": "https://github.com/MidoriKami/KamiToolKit/commit/09ec5462025d1039278fb0cfae72a10deccf0b2f"
+}

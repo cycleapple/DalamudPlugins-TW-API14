@@ -7,14 +7,14 @@
       "project": "Umbra/Umbra.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.9,
+      "seconds": 4.4,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Umbra.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "145c11985cfef117c943761a198422c40cc07ef1",
+  "sourceCommit": "d713e0021a2d27e17abe6f6a28d53584d6ef5385",
   "publishedSource": true,
   "dependencyPatches": 1
 }

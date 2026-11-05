@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/NoClippy",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A XIVLauncher plugin.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:43Z",
+  "parent": {
+    "full_name": "UnknownX7/NoClippy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/NoClippy.git"
+  },
+  "source": {
+    "full_name": "UnknownX7/NoClippy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/UnknownX7/NoClippy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "UnknownX7/NoClippy",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "3f4b37739bbdccd1833b042018b01be84a7d382b",
+  "apiMarkerPath": "NoClippy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "b421428e48e73910729a34a1648007a9deba9852",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "d93eb66bb197115dbd58876c4cc2a041af3be8c2",
+  "api14Date": "2026-01-28T15:41:25Z",
+  "api14Message": "Bump version",
+  "api14Url": "https://github.com/UnknownX7/NoClippy/commit/d93eb66bb197115dbd58876c4cc2a041af3be8c2"
+}

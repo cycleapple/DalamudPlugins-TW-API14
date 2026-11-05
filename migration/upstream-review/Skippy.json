@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Skippy",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Skip all of the Cutscenes that bother you (MSQ Roulette for example) so you can actually play the game!",
+  "homepage": "https://ko-fi.com/boxu_chan",
+  "pushed_at": "2026-11-05T16:17:49Z",
+  "parent": {
+    "full_name": "BoxuChan/Skippy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/BoxuChan/Skippy.git"
+  },
+  "source": {
+    "full_name": "BoxuChan/Skippy",
+    "default_branch": "main",
+    "clone_url": "https://github.com/BoxuChan/Skippy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "BoxuChan/Skippy",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "78ccac434e62ab75c10b526c667fb10ede6cb83f",
+  "apiMarkerPath": "Skippy/Skippy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "e8693ed81c7c29ed0ba543efaad028835ac334cf",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "e8bc94e165f6360d6bb4ea0d34bdb07e49104329",
+  "api14Date": "2026-04-23T14:33:47Z",
+  "api14Message": "Secondary Repository",
+  "api14Url": "https://github.com/BoxuChan/Skippy/commit/e8bc94e165f6360d6bb4ea0d34bdb07e49104329"
+}

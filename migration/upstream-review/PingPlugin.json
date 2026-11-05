@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/PingPlugin",
+  "fork": true,
+  "default_branch": "main",
+  "description": "A ping display plugin for Dalamud.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:13Z",
+  "parent": {
+    "full_name": "karashiiro/PingPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/karashiiro/PingPlugin.git"
+  },
+  "source": {
+    "full_name": "karashiiro/PingPlugin",
+    "default_branch": "main",
+    "clone_url": "https://github.com/karashiiro/PingPlugin.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "karashiiro/PingPlugin",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "b3d60aa91a691405d10679297e47afe6dc18efba",
+  "apiMarkerPath": "PingPlugin/PingPlugin.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "6bf71a3cfc84c80d721ae776c5055bc9ce9fa028",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "e9a7848fd3a803a13d112660acc771c164d50a17",
+  "api14Date": "2026-01-29T02:54:45Z",
+  "api14Message": "Remove debug bit",
+  "api14Url": "https://github.com/karashiiro/PingPlugin/commit/e9a7848fd3a803a13d112660acc771c164d50a17"
+}

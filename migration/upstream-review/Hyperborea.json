@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/Hyperborea",
+  "fork": true,
+  "default_branch": "main",
+  "description": "What if we GPosed in the Mordion Gaol?",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:15:39Z",
+  "parent": {
+    "full_name": "kawaii/Hyperborea",
+    "default_branch": "main",
+    "clone_url": "https://github.com/kawaii/Hyperborea.git"
+  },
+  "source": {
+    "full_name": "kawaii/Hyperborea",
+    "default_branch": "main",
+    "clone_url": "https://github.com/kawaii/Hyperborea.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "kawaii/Hyperborea",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "898243be5e70d2517c1e6221b7db0c950abc1563",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "Hyperborea/Hyperborea.json",
+  "headApiLevel": 2,
+  "manualReviewVersion": 1,
+  "api14Commit": "e6307fe95c32603aa538e7e10fd3566c1435b286",
+  "api14Date": "2026-03-24T16:09:56Z",
+  "api14Url": "https://github.com/kawaii/Hyperborea/commit/e6307fe95c32603aa538e7e10fd3566c1435b286"
+}

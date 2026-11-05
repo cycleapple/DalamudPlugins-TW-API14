@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Ices-Cosmic-Exploration",
+  "fork": true,
+  "default_branch": "Main-Branch",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:42Z",
+  "parent": {
+    "full_name": "LeontopodiumNivale14/Ices-Cosmic-Exploration",
+    "default_branch": "Main-Branch",
+    "clone_url": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration.git"
+  },
+  "source": {
+    "full_name": "LeontopodiumNivale14/Ices-Cosmic-Exploration",
+    "default_branch": "Main-Branch",
+    "clone_url": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "LeontopodiumNivale14/Ices-Cosmic-Exploration",
+  "upstreamDefaultBranch": "Main-Branch",
+  "upstreamHead": "452e3a721a63297e1644e0ce6da4f07f2e96a46a",
+  "apiMarkerPath": "ICE/ICE.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "9da75c3865a7f6e987ee3c5c4d5680455b0b7fa5",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "fab3c606267088278eeb5344fbe513abce1d5dd8",
+  "api14Date": "2026-06-03T12:00:36Z",
+  "api14Message": "78.2",
+  "api14Url": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration/commit/fab3c606267088278eeb5344fbe513abce1d5dd8"
+}

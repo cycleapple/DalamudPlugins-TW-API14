@@ -1,0 +1,48 @@
+{
+  "full_name": "cycleapple/AutoDuty",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Dalamud Plugin for FFXIV - AutoDuty",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:04:12Z",
+  "parent": {
+    "full_name": "erdelf/AutoDuty",
+    "default_branch": "master",
+    "clone_url": "https://github.com/ffxivcode/AutoDuty.git"
+  },
+  "source": {
+    "full_name": "ffxivcode/AutoDuty",
+    "default_branch": "master",
+    "clone_url": "https://github.com/ffxivcode/AutoDuty.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "erdelf/AutoDuty",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "52023216e7f5108221885d296ddd5f326ad23dbf",
+  "apiMarkerPath": "AutoDuty/AutoDuty.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "manualReviewVersion": 0,
+  "upstreamCreatedAt": "2024-02-23T07:12:49Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "Herculezz55-patch-1",
+      "commit": "8df847992dccd0585b183656e6517b52cc506fb3"
+    },
+    {
+      "name": "master",
+      "commit": "53f4e7400f9791f4534f803a2ec2d2ff709375ba"
+    }
+  ],
+  "parentBeforeMigration": {
+    "full_name": "erdelf/AutoDuty",
+    "default_branch": "master",
+    "clone_url": "https://github.com/ffxivcode/AutoDuty.git"
+  },
+  "nextApiCommit": "7793a88c7c80e4db7443ac8cbadaa31f5c720080",
+  "api14Commit": "058468a17611ad3d538359cccf9cded4fbbcb277",
+  "api14Date": "2026-04-27T22:10:44Z",
+  "api14Message": "Logic Conditions",
+  "api14Url": "https://github.com/erdelf/AutoDuty/commit/058468a17611ad3d538359cccf9cded4fbbcb277"
+}

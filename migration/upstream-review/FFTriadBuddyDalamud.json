@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/FFTriadBuddyDalamud",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Dalamud plugin for TriadBuddy",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:14:27Z",
+  "parent": {
+    "full_name": "MgAl2O4/FFTriadBuddyDalamud",
+    "default_branch": "main",
+    "clone_url": "https://github.com/MgAl2O4/FFTriadBuddyDalamud.git"
+  },
+  "source": {
+    "full_name": "MgAl2O4/FFTriadBuddyDalamud",
+    "default_branch": "main",
+    "clone_url": "https://github.com/MgAl2O4/FFTriadBuddyDalamud.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "MgAl2O4/FFTriadBuddyDalamud",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "1bffa57921d3eedbb201c227b6ea05f35a0ee75e",
+  "apiMarkerPath": "TriadBuddy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "f6a143f0ab5589007e0372a94acf86dd8fa4d3a7",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "0734c65abb2662b5a2aa010b8eb396dc60e55964",
+  "api14Date": "2025-12-21T18:42:09Z",
+  "api14Message": "api14 / 7.4",
+  "api14Url": "https://github.com/MgAl2O4/FFTriadBuddyDalamud/commit/0734c65abb2662b5a2aa010b8eb396dc60e55964"
+}

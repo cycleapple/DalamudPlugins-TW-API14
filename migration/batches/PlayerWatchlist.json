@@ -7,14 +7,14 @@
       "project": "PlayerWatchlist.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.2,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PlayerWatchlist.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "483ae3d8fc58d5b8251193720e682d633362efdc",
+  "sourceCommit": "f0e9340cd743d7bed4de39804376ec5f82cf9820",
   "publishedSource": true,
   "dependencyPatches": 0
 }

@@ -1,0 +1,23 @@
+{
+  "full_name": "cycleapple/AutoMinion",
+  "fork": false,
+  "default_branch": "api13-tw",
+  "description": "Taiwan Dalamud API13 compatibility fork of AutoMinion",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:08:43Z",
+  "parent": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "source": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": null,
+  "upstreamStatus": "self-maintained-or-unresolved",
+  "upstreamCreatedAt": "2026-07-29T02:38:27Z",
+  "upstreamArchived": false
+}

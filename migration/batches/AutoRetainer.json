@@ -7,14 +7,16 @@
       "project": "AutoRetainer/AutoRetainer.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.0,
+      "seconds": 9.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoRetainer.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
+  "sourceCommit": "6b85bf3574832d3d08b4885fef4befa2a9660c2b",
   "publishedSource": true,
   "dependencyPatches": 10
 }

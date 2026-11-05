@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/MonsterDex",
+  "fork": true,
+  "default_branch": "master",
+  "description": "A Dalamud plugin to display live bestiary data and advice during Deep Dungeon runs in FFXIV.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:16:31Z",
+  "parent": {
+    "full_name": "wolfcomp/MonsterDex",
+    "default_branch": "master",
+    "clone_url": "https://github.com/wolfcomp/MonsterDex.git"
+  },
+  "source": {
+    "full_name": "wolfcomp/MonsterDex",
+    "default_branch": "master",
+    "clone_url": "https://github.com/wolfcomp/MonsterDex.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "wolfcomp/MonsterDex",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "7e0bc25c8a67b08f6d243e7a4c2a770bcadd96da",
+  "apiMarkerPath": "DeepDungeonDex/DeepDungeonDex.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "01562f8fe0d579ac129d4d75b76ba15f34bc0c74",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "2da08dad012af855d49069200b1de9ccc18f6e53",
+  "api14Date": "2026-04-30T07:56:13Z",
+  "api14Message": "chore: some cleanup of old code and add todo",
+  "api14Url": "https://github.com/wolfcomp/MonsterDex/commit/2da08dad012af855d49069200b1de9ccc18f6e53"
+}

@@ -1,0 +1,40 @@
+{
+  "full_name": "cycleapple/NamingWay",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:38Z",
+  "parent": {
+    "full_name": "reiichi001/NamingWay",
+    "default_branch": "main",
+    "clone_url": "https://github.com/reiichi001/NamingWay.git"
+  },
+  "source": {
+    "full_name": "reiichi001/NamingWay",
+    "default_branch": "main",
+    "clone_url": "https://github.com/reiichi001/NamingWay.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "reiichi001/NamingWay",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "f7987e32570d45f523650e068d62717862f60767",
+  "apiMarkerPath": "Namingway/Namingway.csproj",
+  "headApiLevel": 12,
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "f7987e32570d45f523650e068d62717862f60767",
+  "candidateDate": "2025-03-29T21:16:13Z",
+  "upstreamCreatedAt": "2025-01-03T22:59:11Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "api11",
+      "commit": "57598872ad62724b43785943681248c3e3776ec2"
+    },
+    {
+      "name": "main",
+      "commit": "f7987e32570d45f523650e068d62717862f60767"
+    }
+  ]
+}

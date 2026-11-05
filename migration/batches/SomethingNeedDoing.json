@@ -7,14 +7,14 @@
       "project": "SomethingNeedDoing/SomethingNeedDoing.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 2.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SomethingNeedDoing.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
+  "sourceCommit": "163e20e66ed8889382deac6fa8a0d2cfabf7f10b",
   "publishedSource": true,
   "dependencyPatches": 1
 }

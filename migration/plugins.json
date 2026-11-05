@@ -14,9 +14,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "377da77eba5ae7b6c4e3514079d98b99d557f7e9",
+    "sourceCommit": "33a6fb803c75bdfa1b24c4992c673ce5c22fd344",
     "buildEvidence": "migration/batches/ActionTimelineReplacement.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "48ceaee8f61ba53509bd60869d6341774a0def2e",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Aetherment",
@@ -33,9 +36,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "a2ea539da6a4c0cd41f8699b96b15ddf6a305c6f",
+    "sourceCommit": "99b98ed3a31435eff33157927e3f0e23bfbe1b22",
     "buildEvidence": "migration/batches/aetherment.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f3d4e89590f1da47652b5490885fa0e4a2381517",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AllaganItemSearch",
@@ -52,9 +58,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "eed19f659ed32de0a3f3ab336fed5dae9399c6f2",
+    "sourceCommit": "0045233c6e8cfe7c141e5a2a47695ca1ee8e4d2b",
     "buildEvidence": "migration/batches/AllaganItemSearch.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "09a2331d922754923950684d72604de73a4cbc16",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AllaganMarket",
@@ -71,9 +80,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9dcc9ec9cc16401854bb0177b359ebad9252ef94",
+    "sourceCommit": "5a786786477f47b348d523e3c2d61439a605e4b2",
     "buildEvidence": "migration/batches/AllaganMarket.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "2a190e565019cc63bf2b0bed19b25b83d831899a",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AntiAfkKick-Dalamud",
@@ -90,9 +102,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
+    "sourceCommit": "86b0f7331c50f73c209db5fe9b92f5dc8d632153",
     "buildEvidence": "migration/batches/AntiAfkKick.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f1c17eeb7c88910312458abb96a0b8f7c95866c1",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Artisan",
@@ -109,9 +124,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "efb525a64f5c1d0d430747b75d0119d578058b72",
+    "sourceCommit": "49ae3f52f1a044c09c786eaf7c532c74cf09deba",
     "buildEvidence": "migration/batches/Artisan.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "d49905965f304c285a6f042538706e5c148955e7",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AutoDuty",
@@ -128,9 +146,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
+    "sourceCommit": "82ad4cdd8b8fb79e9b7eeac1c3dd4289bd7ff467",
     "buildEvidence": "migration/batches/AutoDuty.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "058468a17611ad3d538359cccf9cded4fbbcb277",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AutoHook",
@@ -147,9 +168,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
+    "sourceCommit": "dd6b0e28fe0e4892e155ef6d5a15aea8f32532d2",
     "buildEvidence": "migration/batches/AutoHook.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "b99c2952e6baf2094430bbbf8ed5816639e6212c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AutoMinion",
@@ -166,9 +190,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "ada328192e8a67d822253b0456d4bc311e330a42",
+    "sourceCommit": "02c8ff8be0a1a6e9e5f62bfd4b122a469c736fb6",
     "buildEvidence": "migration/batches/AutoMinion.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "self-maintained-or-unresolved",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "AutoRetainer",
@@ -185,9 +212,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
+    "sourceCommit": "6b85bf3574832d3d08b4885fef4befa2a9660c2b",
     "buildEvidence": "migration/batches/AutoRetainer.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "6dde427e6056ee0a69270f2653dd6311c627bcc3",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Automaton",
@@ -204,9 +234,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "ae600e5af80a91741127d52f69e48194ba486b16",
+    "sourceCommit": "e1ed602d34a53a73aa05c465a28ef1f32eb568db",
     "buildEvidence": "migration/batches/ffxiv-bundleoftweaks.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "41a6f46a6bdd102f3a9db6302e60b1a57ec94e79",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Avarice",
@@ -223,9 +256,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "99c0a592a63e8d58082b991b445a9fd774219b41",
+    "sourceCommit": "5243a15131872bdd32ca89ead6c525c60e64be00",
     "buildEvidence": "migration/batches/Avarice.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "8e47baf10258c683ad093ef3147141e4b7d9e9d6",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BDTHPlugin",
@@ -242,9 +278,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9cd4b64fb1e6dc0caf6eebba73e7ebd1d2112ebf",
+    "sourceCommit": "c1963797ee614fc01b5e061a2fc78cd58eed0317",
     "buildEvidence": "migration/batches/BDTHPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "4b3c734d20a27f56b0fa1a908c3871c8c45ed32f",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BOCCHI",
@@ -261,9 +300,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
+    "sourceCommit": "037a5025b00db5ef2c40aebda054544eb793c748",
     "buildEvidence": "migration/batches/BOCCHI.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "4dcc519286823519b7105288627590e589911f21",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BetterMountRoulette",
@@ -280,9 +322,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b1ce50644c224916684dbf561eff0d20484b44dc",
+    "sourceCommit": "85ae41dbddbab7a7babc3aa86570f696676680f0",
     "buildEvidence": "migration/batches/BetterMountRoulette.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f04323fa9383d429130aab6abdf7ad5fcea5fbb9",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BigPlayerDebuffs",
@@ -299,9 +344,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "87d86516fdfe9a1815b78c80ab2862eb88b7d4c6",
+    "sourceCommit": "edc2eea4549bdf5e586f1a8ba691935537ae631c",
     "buildEvidence": "migration/batches/BigPlayerDebuffs.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "3c597e008234dff3a2a6a2d6e40085963df04692",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BossMod",
@@ -318,9 +366,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
+    "sourceCommit": "7c58cab05532bd906a7c49fc668b327fc966dfdd",
     "buildEvidence": "migration/batches/ffxiv_bossmod.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+    "upstreamReviewStatus": "api14-cutoff-source-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "BossModReborn",
@@ -337,9 +388,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "76e5afcc2da9fac68091fc3e865406e461f100d4",
+    "sourceCommit": "c964159d7377d514c10644506f201c485ebc56b7",
     "buildEvidence": "migration/batches/BossmodReborn.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e563820e90fad4b7281eb838e66c2fbe4421cb56",
+    "upstreamReviewStatus": "api14-cutoff-source-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Brio",
@@ -360,9 +414,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4fbf3bc603022c2e2416b53f13bff212a0ee7e02",
+    "sourceCommit": "b7abba94f2c27fb755a462d95e59f84ee32ab1eb",
     "buildEvidence": "migration/batches/Brio.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "8697df4724d52fdddae78bece4a1c2fa8b2baf78",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Cammy",
@@ -379,9 +436,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "464638fa648547141aac9bdc5a1fcc611f5784a5",
+    "sourceCommit": "d0053aefc8ce59ce4e9aaac3d981991b72629126",
     "buildEvidence": "migration/batches/Cammy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "42259f106d8ef95d7e43d45b4e26e59769be1bdd",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ChatCoordinates",
@@ -398,9 +458,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
+    "sourceCommit": "cd50baae9d8c5d8c387cf92dff7a5e558b9d2001",
     "buildEvidence": "migration/batches/dalamud-chatcoordinates.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "133e69168cbf89ff0aac1bb8b015a8958f453e27",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ChatTwo",
@@ -417,9 +480,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
+    "sourceCommit": "1540e034545fe8b3eea7ac03ab2151b76c9006ef",
     "buildEvidence": "migration/batches/ChatTwo.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "68810e23c16b135acb84aa60c7501c53dddda696",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ChilledLeves",
@@ -436,9 +502,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "f42356b0b1e97d4595e5710176287245c44c09de",
+    "sourceCommit": "6abbd91d143238cc698fe915e33a086f57e17b83",
     "buildEvidence": "migration/batches/ChilledLeves.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "01bd8f5047479d2dc703732c2a31e4d6e9c24256",
+    "upstreamReviewStatus": "api14-head-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Craftimizer",
@@ -455,9 +524,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
+    "sourceCommit": "3a5c83aa3625cfea4c0eea0612d38ecb22f21fe1",
     "buildEvidence": "migration/batches/Craftimizer.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "106f5017f60f1798c73f89fdc52f93b3c8c76d57",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "CrossUp",
@@ -474,9 +546,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3415ef6f859115f22d2a4051a3cc58df49f10ab0",
+    "sourceCommit": "6771bbcf7e0440295ba28fb2fcf92adc860a08ef",
     "buildEvidence": "migration/batches/CrossUp.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "99a7e8efdcc10be0aa7bf420c7455b84a556631f",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "CustomResolution2782",
@@ -493,9 +568,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
+    "sourceCommit": "ec7dba2e98f0bd3bc96345d2ea898f78dafcbd5a",
     "buildEvidence": "migration/batches/DP-CustomResolution.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "self-maintained-or-unresolved",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "CustomizePlus",
@@ -512,9 +590,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
+    "sourceCommit": "d4a8921e51ab20a157f6df8d578a37e01bf345fd",
     "buildEvidence": "migration/batches/CustomizePlus.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "9fe6ffd04af26542db0f29c7df67606f399dd490",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "DailyDuty",
@@ -531,9 +612,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "1e166ded642acf8526e171210016edcb3e7dfb4e",
+    "sourceCommit": "987c25d5191cc615a3e102e203faf25c7a6cc18d",
     "buildEvidence": "migration/batches/DailyDuty.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "54dbd5daef37b1a482fa0446eb342adc7ced8810",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "DeathRecap",
@@ -550,9 +634,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
+    "sourceCommit": "080427e56615a09da53d6378b198a49ce177c725",
     "buildEvidence": "migration/batches/ffxiv-deathrecap.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "fbbefcab1e237b19be6f6681dfed4c4c1aec3fdc",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "DeepDungeonDex",
@@ -569,9 +656,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "38a2bc2728dea0ec74dddb741f628c4e83f47473",
+    "sourceCommit": "644a91244ed2ffed7b0799bdac9f14149a613a91",
     "buildEvidence": "migration/batches/MonsterDex.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "2da08dad012af855d49069200b1de9ccc18f6e53",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Deliveroo",
@@ -588,9 +678,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4050145a7771349eb3d143b136735bb7c2760b6e",
+    "sourceCommit": "8a9345407c9fd2d95079c7fe9c8f34fb502f9599",
     "buildEvidence": "migration/batches/Deliveroo.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "521cb52e677df1b0c5d41438a16545e0b5480819",
+    "upstreamReviewStatus": "api14-head-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Distance",
@@ -607,9 +700,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3401bcc1fcfa1f5ad26382f9ab82fd35300e64d0",
+    "sourceCommit": "47ce3d8cdec2325e53f76de5555ddc4d4485bdd2",
     "buildEvidence": "migration/batches/Distance.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "569a41b039ebc0b27432296271030fc50ae80d67",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Doorbell",
@@ -626,9 +722,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "35cdfc53cbb4d71564088680229aefd548aad753",
+    "sourceCommit": "ff2f526b6939e340240cc11da9b6026e6495e6be",
     "buildEvidence": "migration/batches/Doorbell.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "81224e03f23e4a31b7ae1aec3350a28c699cf2ff",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "DozeAnywhere",
@@ -645,9 +744,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "5ba51f2530865aac7d483be221529166dbb6938e",
+    "sourceCommit": "0dead812bb97d823eddff176475f7789a53360f9",
     "buildEvidence": "migration/batches/DozeAnywhere.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "EasyEyes",
@@ -664,9 +766,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "37fe1c153125f21d4d4eaa3774ad635efdc90478",
+    "sourceCommit": "fd6e60b8a5aac47e2c88bd805ae1f375a19c5668",
     "buildEvidence": "migration/batches/EasyEyes.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "2820a8718267febbf67a323401585dc8a268595e",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "EnemyListDebuffs",
@@ -683,9 +788,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4e2feeb7e7300b578a54072e34aeca53345b971b",
+    "sourceCommit": "0deb1c8fbd5c65cdab9d3a3c8a427b75f5aed117",
     "buildEvidence": "migration/batches/EnemyListDebuffs.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "EngageTimer",
@@ -702,9 +810,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "492804f08f6f83a7932acc4fa8631f87214460e0",
+    "sourceCommit": "eda741d957a1518387f15dbdb9c99586cb8c7c3c",
     "buildEvidence": "migration/batches/EngageTimer.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "1e73f25dda631df78569b837d4c5dfe7b192c0ec",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "EnmityHp",
@@ -721,9 +832,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "eef2bf5f730f3b9d4482f77a8bc9a07e697ab65c",
+    "sourceCommit": "844d80932bf420d9917643171d29f94161ce27d9",
     "buildEvidence": "migration/batches/EnmityHp.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "765bc30fe234dec1e5909f07ce23f7c95d423731",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "EurekaTrackerAutoPopper",
@@ -740,9 +854,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "cb602d028790b1aaf921ab41f3475b6e38cb5a68",
+    "sourceCommit": "b296b680f343c0e5d24da65f2e58b57f161babaa",
     "buildEvidence": "migration/batches/EurekaTrackerAutoPopper.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "726ed292e2ac6bdfba7226255d0134c9798eef59",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ExplorersIcebox",
@@ -759,9 +876,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3dc49c761ca34107fed63df39c8195bae767c615",
+    "sourceCommit": "fcb12a15593ec86a872ae3a43191c6b0fdc56355",
     "buildEvidence": "migration/batches/Explorers-Icebox.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "a1732715e50d3cb30c8af99b19a3b8d74ead579a",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "FPSPlugin",
@@ -778,9 +898,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
+    "sourceCommit": "b987235514ca20d248d34987fc07b9c7ad8d6b82",
     "buildEvidence": "migration/batches/FPSPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "7304a4534418c7fea4f075d414f034c29101f1d9",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Facade",
@@ -797,9 +920,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "95125c9a8a6de8726d22c404267ded5589341eae",
+    "sourceCommit": "30175d4ac44ab52defdb5823d67ce5d450ae2c4b",
     "buildEvidence": "migration/batches/Facade.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "99084c0689a06d6ea8cc54468ee2fa8d597566a6",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "FlashOnTell",
@@ -816,9 +942,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "1c09858a7f8a65d743d7a096137f5fce501d2230",
+    "sourceCommit": "4db1acb10ec9a6d5416bc4f58d7b4fe5132581e8",
     "buildEvidence": "migration/batches/Dalamud-FlashOnTellPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "3f8c68cde0f26b7734e3000e69e3a9bf56cfb2b7",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "FlyTextFilter",
@@ -835,9 +964,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "082aac6e98a655ff7753f44c8673c7331e176be9",
+    "sourceCommit": "709b9d860b35c6e8a980e1071132014a317e243e",
     "buildEvidence": "migration/batches/FlyTextFilter.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "0ed194165256f32a4f773d730a6c2ae5d177d13c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Fungah",
@@ -854,9 +986,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
+    "sourceCommit": "2f2501bde14ca35a6004c8cc8e5dade7a1f8bc04",
     "buildEvidence": "migration/batches/Fungah-Totally-Safe-Spot.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "ff69fa37a2286ffa2e6109cd8bc65d6e4c0fe368",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "GatherBuddyReborn",
@@ -873,9 +1008,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
+    "sourceCommit": "fb06c1225db0c90653e3a7bd4a5bd50bb2b50229",
     "buildEvidence": "migration/batches/GatherBuddyReborn.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "6934b92214647d89d96e2ed1a55b80b2171f4f25",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "GatheringPathRenderer",
@@ -892,9 +1030,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "sourceCommit": "5d294bd5b7423bc5d24f60697bb13b5b2d364ab2",
     "buildEvidence": "migration/batches/Questionable.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e9f684572fdf8ce4f4390f378dab565db8ebf92c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "GaugeOMatic",
@@ -911,9 +1052,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
+    "sourceCommit": "530557dc6db3cf660c61706ea3e012258f63cb00",
     "buildEvidence": "migration/batches/GaugeOMatic.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f34061a9d58d761fbfafa3fe0877ac51dfdf87ec",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Gearsetter",
@@ -930,9 +1074,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "019c292a8c96583f3891fa8d52c7a36368e2e9c8",
+    "sourceCommit": "62d49f3b123866d3f05afd210b202a143c74ec27",
     "buildEvidence": "migration/batches/Gearsetter.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "19db7afe669e510e6b4fafec2721deb69f244e96",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Glamourer",
@@ -953,9 +1100,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "50fa8b8248cd8335cb0ba68a08b600f8ad17ec01",
+    "sourceCommit": "488c3588384fdfdf60369d6cc2c3c7011d60a951",
     "buildEvidence": "migration/batches/Glamourer.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "0308a4bf6b90389ee4c9871f91fc0a03a7f32318",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "HighFpsPhysicsPlugin",
@@ -972,9 +1122,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "1432625f846b866438d287005f241f100da1b9b1",
+    "sourceCommit": "6906654e280d14a557ebc220fae706ccbad53031",
     "buildEvidence": "migration/batches/xivlauncher_physics_plugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "eaf7d79d6f5707c1349dbab3c3918b4a09b64483",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Honorific",
@@ -991,9 +1144,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
+    "sourceCommit": "8883e05916168b79fc7976ddedcfeff5002516b1",
     "buildEvidence": "migration/batches/Honorific.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "78081686085e31b150507b2bdd9a8a5e02805e4b",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Housemate",
@@ -1010,9 +1166,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
+    "sourceCommit": "febd3d9be159e747eb36a9538fe07f5b35c2e1f9",
     "buildEvidence": "migration/batches/Housemate.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "889ce7ae6d12f99b98e808335ed37dfb0d4890fa",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "HuntBuddy",
@@ -1029,9 +1188,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "28192e8d076316ac88118eb7b7eee69f78d87394",
+    "sourceCommit": "894182e513925474cfbf14f1c8065fdea115ac0d",
     "buildEvidence": "migration/batches/HuntBuddy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "baf609914c482dbcfd48262377a6f50cc7ad93c3",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Hyperborea",
@@ -1048,9 +1210,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "810015c058983111960788d6c00ded34c0565b25",
+    "sourceCommit": "e23d13f6b6a1d1cd81e0ac1aa8f97a3455ce0f3a",
     "buildEvidence": "migration/batches/Hyperborea.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e6307fe95c32603aa538e7e10fd3566c1435b286",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ICE",
@@ -1067,9 +1232,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
+    "sourceCommit": "557bf643b768e6c7130898aaba7bf0bc3f4600e9",
     "buildEvidence": "migration/batches/Ices-Cosmic-Exploration.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "fab3c606267088278eeb5344fbe513abce1d5dd8",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "IINACT",
@@ -1086,9 +1254,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "190a782dea3b89e15337905d0023b04d273967e0",
+    "sourceCommit": "d8bc17296a28fd4e1a37f6a629add623e18cfa37",
     "buildEvidence": "migration/batches/IINACT.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "7a0ea51f89acbde75c8af2e1d721431a32ee190a",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "InventoryTools",
@@ -1105,9 +1276,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
+    "sourceCommit": "46b31dc7b57c4d2f89f71eb95644d4a8a98a32a0",
     "buildEvidence": "migration/batches/InventoryTools.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "2043c0188760b2e050062cd9c6ffb666a16865da",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "JobBars",
@@ -1124,9 +1298,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
+    "sourceCommit": "42fdff89ad2847b92a954a51dba2e06dafe7f78a",
     "buildEvidence": "migration/batches/JobBars.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "366cbb79dea8604ada46dcce07943625c1514556",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Ktisis",
@@ -1143,9 +1320,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
+    "sourceCommit": "78a6973af418fd78f4a4520b8b7a0d87c2a9eee6",
     "buildEvidence": "migration/batches/Ktisis.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e97e166ec486f9c410a96d7a5801bd4f9a555cb9",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "LMeter",
@@ -1162,9 +1342,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
+    "sourceCommit": "cd02ad74989faef10c391e952428f43aace768b1",
     "buildEvidence": "migration/batches/LMeter_TC.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "32580572cd2c869f1f313123588e5bd0f16ae3c1",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "LazyLoot",
@@ -1181,9 +1364,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
+    "sourceCommit": "968c90f2ad42623e890eda2f38a122d169ffbf76",
     "buildEvidence": "migration/batches/LazyLoot.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "6613f821332a8d450841d895a934a257e708f95c",
+    "upstreamReviewStatus": "api14-head-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Lifestream",
@@ -1200,9 +1386,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
+    "sourceCommit": "c7093ca2cd7bd3cb157f1b8851daf79bb5acfc22",
     "buildEvidence": "migration/batches/Lifestream.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "d378f2913cee78bf95c7d6581f5e6eea83c16052",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "LoporritSync",
@@ -1219,9 +1408,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3f9eac99de80e78a94bf64a131f379df273b1f70",
+    "sourceCommit": "e803d9f811e264f835060af6f2f97baae24c9484",
     "buildEvidence": "migration/batches/LopClient.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "self-maintained-or-unresolved",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MapLinker",
@@ -1238,9 +1430,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
+    "sourceCommit": "2ab73930bbb386dc66907ae8eb1a2efb5cdded29",
     "buildEvidence": "migration/batches/MapLinker.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "672f8c487b7b7857a3f92630ac77bab999849d90",
+    "upstreamReviewStatus": "api14-cutoff-source-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Mappy",
@@ -1257,9 +1452,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "46a5792c62fff43dbc1704a16a92d4e4cab09925",
+    "sourceCommit": "12c4e952f3becada8f5f1e9088017cecfd202716",
     "buildEvidence": "migration/batches/Mappy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "0265ac3f8f0d46119723d9aa56d242b5c9c2c51d",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MarketBoardPlugin",
@@ -1276,9 +1474,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "343f09cfd342bc461dd2becb42b64b0c6cad5c19",
+    "sourceCommit": "47a63d5e8b1681ea0950da31500bb16939963454",
     "buildEvidence": "migration/batches/MarketBoardPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "46d3f49fca27c78fb410ba196a3e4feaa28de871",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Marketbuddy",
@@ -1295,9 +1496,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "f6df96f538884670df062ca1c257b9a8217c5196",
+    "sourceCommit": "218ff3c7f3db51b1580c561bc62a0e16d03198b9",
     "buildEvidence": "migration/batches/Marketbuddy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "7b2a6a7fa815297ae0dd082f4c2c88cd7229c3cb",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MaskOfKefka",
@@ -1314,9 +1518,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
+    "sourceCommit": "03d64b28f626189b67e359b1e638d40368a9e119",
     "buildEvidence": "migration/batches/mask-of-kefka.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "no-api14-project-history-found",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MeterWay",
@@ -1333,9 +1540,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
+    "sourceCommit": "5ef5ee0b0f7b9009165e6af6577a067b0cc501d5",
     "buildEvidence": "migration/batches/MeterWay.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MidiBard2",
@@ -1352,9 +1562,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "1f569c8105d426985a6f9a1c0458e1b3ba75ff74",
+    "sourceCommit": "0363c633072d0a1b098287b1ae2b0e57f1afbd1e",
     "buildEvidence": "migration/batches/MidiBard2.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "39adf979ff5c2dd5980b226239a11d5cbd56cbde",
+    "upstreamReviewStatus": "explicit-api14-branch",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MiniCactpotSolver",
@@ -1371,9 +1584,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "62eed63019dd99cbf4d82844f8a3630ab9820bd5",
+    "sourceCommit": "97e647f4873d09668650071225d21adf00ec967f",
     "buildEvidence": "migration/batches/EzMiniCactpot.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MissFisher",
@@ -1390,9 +1606,12 @@
     "status": "official-api14-localized",
     "build": "official-api14-localized",
     "runtime": "pending",
-    "sourceCommit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
+    "sourceCommit": "5248acd90377f160806e675e0a422fee07ccd2c2",
     "buildEvidence": "migration/batches/MissFisher.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "225828c5f5d980515d0e025ebcf962ff9a23fc25",
+    "upstreamReviewStatus": "official-api14-binary-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MouseLock",
@@ -1409,9 +1628,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
+    "sourceCommit": "fa2267f473a95f77da2e8103281c3182c061965b",
     "buildEvidence": "migration/batches/MouseLock.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "no-api14-project-history-found",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "MultiHit",
@@ -1428,9 +1650,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
+    "sourceCommit": "99416b33c8b286b4c7d67a3be3acf13a827995ee",
     "buildEvidence": "migration/batches/MultiHit.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "448c780dad3e407248055f447f8f0fe882512a77",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "NOTED",
@@ -1447,9 +1672,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9cbda54ffe7ced16f60735bb8cfcd23ea80d4a53",
+    "sourceCommit": "ba940b73412c61bb18ca0f701062897d261e3811",
     "buildEvidence": "migration/batches/NOTED.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "51ee34fa9f3c8a73596d69a4d1da2f01ace17fd0",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Namingway",
@@ -1466,9 +1694,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "2130a6cff286dfc378d800aee619c042e4830b91",
+    "sourceCommit": "7a77c9147e4ae0b83d110c3975e8347d1f70471b",
     "buildEvidence": "migration/batches/NamingWay.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "NecroLens",
@@ -1485,9 +1716,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e34694fbd0a3bb17e0f82fa76e8a4cc0f1e43270",
+    "sourceCommit": "3534939f81e6a8c062992544018861422ca7acf9",
     "buildEvidence": "migration/batches/NecroLens.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "9e5e34731b831070c967c5236fba27a7b37f4be6",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "NoClippy",
@@ -1504,9 +1738,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "73a73a9a69b19acd826fe9e514c5523a06eed35d",
+    "sourceCommit": "19a92847bbb9c1aca5b4a22fd20deae13a15b5ff",
     "buildEvidence": "migration/batches/NoClippy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "d93eb66bb197115dbd58876c4cc2a041af3be8c2",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "NotificationMaster",
@@ -1523,9 +1760,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "dba34891268d39ecea96117794caa97771f431af",
+    "sourceCommit": "d340d603d8e3d7300b78eb3787ac2fc6b75c5f25",
     "buildEvidence": "migration/batches/NotificationMaster.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "be830547f3dde05b1d0db8d3050945d78648628c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Orbwalker",
@@ -1542,9 +1782,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "2ff1b8141c54b05c065d55245f113a3400c715de",
+    "sourceCommit": "20932b5a675e1a5f4555828dae03d370c787b862",
     "buildEvidence": "migration/batches/Orbwalker.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "52ce71bba33bee1235dbf4536827ca273a3eea62",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PalacePal",
@@ -1561,9 +1804,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3fbb22b94f90ff77b5f954a37d903a9328fb5955",
+    "sourceCommit": "bbe95deca4e40e4a7b8f20ef033979dfd34af477",
     "buildEvidence": "migration/batches/PalacePal.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "b3dadf55c51afe1b8a6c20cf8d989c4074dcdf35",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PandorasBox",
@@ -1580,9 +1826,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
+    "sourceCommit": "243c1f908c3e04fde392375c4eec5a38a38f8d91",
     "buildEvidence": "migration/batches/PandorasBox.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "814bb212bb13a93768f2bc8c532ec619f75aa1b1",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PartyIcons",
@@ -1599,9 +1848,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "237fbbf6ecaaa5ffc63884b55b92d0e2d7f845ff",
+    "sourceCommit": "118566441f02983c426be1961eb15ebc652b5ed8",
     "buildEvidence": "migration/batches/xivPartyIcons.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f595d107d5ddd1a47c9be613ee45646086e1f31b",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PeepingTom",
@@ -1618,9 +1870,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "38a42e409919c282a647eb74501144f522196a62",
+    "sourceCommit": "41ee80e44fb89f6560f638173824e2f9bf1f6344",
     "buildEvidence": "migration/batches/PeepingTom.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PennyPincher",
@@ -1637,9 +1892,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4b078f61e886862a99346e8918a1a9d6ae2f17ba",
+    "sourceCommit": "23eaeac0994df40560e14a74de2518505a381394",
     "buildEvidence": "migration/batches/PennyPincher.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "4b0eb9599ee9a7fa457f0c0da00f030b10abffa8",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Penumbra",
@@ -1656,9 +1914,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
+    "sourceCommit": "44317c471a79372585ef7b3a244022c14cb95f45",
     "buildEvidence": "migration/batches/Penumbra.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "66bae79d1923c7077042337781a546c06cef6f9c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PingPlugin",
@@ -1675,9 +1936,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "c30ed86542bd50aa76a2df36d1383ffc94c685ef",
+    "sourceCommit": "8b75e7fbf456785cda89d3462ae9c0600fcc25a0",
     "buildEvidence": "migration/batches/PingPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e9a7848fd3a803a13d112660acc771c164d50a17",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PixelPerfect",
@@ -1694,9 +1958,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "36c28fcf179710d3157bcd3a5e61f975619190cd",
+    "sourceCommit": "de9386fa6ae968ab93e674efe5c5d19a37ce9e09",
     "buildEvidence": "migration/batches/PixelPerfect.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "ce246d2440133b624bf1129367e342fa19c28a78",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PlayerWatchlist",
@@ -1713,10 +1980,13 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "483ae3d8fc58d5b8251193720e682d633362efdc",
+    "sourceCommit": "f0e9340cd743d7bed4de39804376ec5f82cf9820",
     "evidence": "migration/evidence/PlayerWatchlist.json",
     "buildEvidence": "migration/batches/PlayerWatchlist.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "self-maintained-or-unresolved",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PocketRecorder",
@@ -1733,9 +2003,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "5253ef809dd6dd4b6d581275ce9c0da80863049d",
+    "sourceCommit": "876b1c2c8f10803eb494fe5fbb731a55283a63f4",
     "buildEvidence": "migration/batches/PocketRecorder.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "manual-reference-project-needs-review",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "PriceInsight",
@@ -1752,9 +2025,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "bfb5ad07728073e1155f29923e29d1147877867a",
+    "sourceCommit": "e2838ad43bf93a8659ead1c7d78eb49d92450131",
     "buildEvidence": "migration/batches/ffxiv-priceinsight.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "03de8e2ea3fd4e43530563241bede06a2691b70b",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "QoLBar",
@@ -1771,9 +2047,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "19c26872c0f14b61c1c2d0ec08efe3673d61f8b2",
+    "sourceCommit": "e3810d851ec5a28b866020e2f5881d08c91a33bc",
     "buildEvidence": "migration/batches/QoLBar.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "bd6f3c052c0f1fdabc9987804141ecfe065f2dc6",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Questionable",
@@ -1790,9 +2069,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "sourceCommit": "5d294bd5b7423bc5d24f60697bb13b5b2d364ab2",
     "buildEvidence": "migration/batches/Questionable.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e9f684572fdf8ce4f4390f378dab565db8ebf92c",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "RadarPlugin",
@@ -1809,9 +2091,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "6d46b18f3e7ed6869d19110c1d3152c8350b80e1",
+    "sourceCommit": "c71e06f1c384d4e3b2c01704ef6a453c975cb032",
     "buildEvidence": "migration/batches/RadarPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "3b43eb58776e8d8d1a23e2b0c1eee042139f396b",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Raphael.Dalamud",
@@ -1828,9 +2113,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
+    "sourceCommit": "2d718c5c15abf36c060575873fe7d96e6543eb07",
     "buildEvidence": "migration/batches/Raphael.Dalamud.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "1541b18a9087b7719a8eccfe362b92cdfb189af1",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ReAction",
@@ -1847,9 +2135,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9af44cbe2372e29e963a8f58237bd77306b7881b",
+    "sourceCommit": "26bb016711a53625f57811617c84392cb806d562",
     "buildEvidence": "migration/batches/ReAction.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "21b475e4abd8cdf221aa20c21e93f9a99491fc7f",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ReMakePlacePlugin",
@@ -1866,9 +2157,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "bbeee9ae78c427d3b853c01d462687fc8c0a8ee0",
+    "sourceCommit": "5c7d2f9fe798a264fff95835b46a9916c91f7012",
     "buildEvidence": "migration/batches/ReMakePlacePlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "375cf9dc365d10410141d0e5cd09c59aa11d1935",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "RezPls",
@@ -1885,9 +2179,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4b59027736755d1eb0139cb93f37e804ae3df8fb",
+    "sourceCommit": "e394602c8daf3b2ba68827979dc3c81444014d38",
     "buildEvidence": "migration/batches/RezPls.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "4f9004b1a724cf0be268e965a0c260643e55edeb",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "RotationSolver",
@@ -1904,9 +2201,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
+    "sourceCommit": "d89ead460f06347f110b5fcfa1a6ea567ce8ac1f",
     "buildEvidence": "migration/batches/RotationSolverReborn.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "4f4c029995c701e862e3f02f8d0c2b2ef658c4a7",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Saucy",
@@ -1923,9 +2223,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e1b857f5eae04713f02039a947a6e823f67034ac",
+    "sourceCommit": "28c6fd7bb2a4090d1a433c1a6b946ba42e95a1f3",
     "buildEvidence": "migration/batches/Saucy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "6ad3f56a0014a52bd0e11c2b104e01171dbea569",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SimpleHeels",
@@ -1942,9 +2245,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9e13a34b6aeed2019d7778b0e47ae089ef3dc134",
+    "sourceCommit": "b8e36e1fd6f010201248fc2e6ed9e1c3d852ffd4",
     "buildEvidence": "migration/batches/SimpleHeels.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f74ab6f0950a5fefdca32a77e9cbc8741e0eab81",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SimpleTweaksPlugin",
@@ -1961,9 +2267,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
+    "sourceCommit": "5c5115048679b5cd6fca492a3eb3f5fbd6372e79",
     "buildEvidence": "migration/batches/SimpleTweaksPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "b3cdea11a4b26d56b101be05997ea8c1b44b44e7",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Skippy",
@@ -1980,9 +2289,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "0e0f89a57d22d343388677fc2c0dbd49e2e4816a",
+    "sourceCommit": "54dc00c18b808234ff2eb2dc1d1fe57b4706d8df",
     "buildEvidence": "migration/batches/Skippy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "e8bc94e165f6360d6bb4ea0d34bdb07e49104329",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SomethingNeedDoing",
@@ -1999,9 +2311,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
+    "sourceCommit": "163e20e66ed8889382deac6fa8a0d2cfabf7f10b",
     "buildEvidence": "migration/batches/SomethingNeedDoing.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f1eeb19b2adabd7c7546e8bda532ecf9c7dc9513",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SonarPlugin",
@@ -2018,9 +2333,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
+    "sourceCommit": "b40cabe6e228025fdfb47f3161373a72024117fe",
     "buildEvidence": "migration/batches/SonarDistrib.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "5af03cf3788b2a817132c4658cdcbd7cd8e8d125",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SortaKinda",
@@ -2037,9 +2355,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
+    "sourceCommit": "e53328f8528dac3a76aacbedc28d2f3d6eecb21a",
     "buildEvidence": "migration/batches/SortaKinda.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "d2e99fde7fd4a101ecb7e6372fd26c8dd5fe43b6",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Splatoon",
@@ -2056,9 +2377,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
+    "sourceCommit": "5f8249f6251a12a03539d99ddc7d93c3d61a8041",
     "buildEvidence": "migration/batches/Splatoon.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "98e1a26d977bd0d52faec215c53d3ff69c569135",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "SubmarineTracker",
@@ -2075,9 +2399,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "9c7494714914cd07688be720a36451fe32bcb8ff",
+    "sourceCommit": "4882f194a0a25e9dab03698e86385767743c218e",
     "buildEvidence": "migration/batches/SubmarineTracker.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "0109da941009c7280d1aa0e3fcecf8ddcc7dfe54",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "TeleporterPlugin",
@@ -2094,9 +2421,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e4b2cb0c2bf0904603db0a9b199c11afa981ca3c",
+    "sourceCommit": "823f549c144b97e66f00c02dfb78d9d8d7a692d9",
     "buildEvidence": "migration/batches/TeleporterPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "427d431d8544870721b8b5f8c9be3f4d734cac7a",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "TextAdvance",
@@ -2113,9 +2443,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "518009fa0fcaa92fb892545911571735dabb6c78",
+    "sourceCommit": "611cd4b5754170245ec72b6ef37c29892618645c",
     "buildEvidence": "migration/batches/TextAdvance.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "2c18efea92233c5a0e70b751219b015a91c5d74e",
+    "upstreamReviewStatus": "api14-manifest-confirmed",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "TitleEdit",
@@ -2132,9 +2465,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "785a2cf61f2ffeee69fdc1d98f3fcb7569a4f661",
+    "sourceCommit": "4386959af4a52853e4b9216a3ced6f66c02fd6ec",
     "buildEvidence": "migration/batches/TitleEdit.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "ebe574ceb676438e66596db6a7fe49d2e19dcdaf",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "TriadBuddy",
@@ -2151,9 +2487,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "ef7605e196d6eb29e2d0f5ef2cf40639621a8be5",
+    "sourceCommit": "c473af8923c8d98473fe23e9cb8863880016a26e",
     "buildEvidence": "migration/batches/FFTriadBuddyDalamud.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "0734c65abb2662b5a2aa010b8eb396dc60e55964",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Umbra",
@@ -2170,9 +2509,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "145c11985cfef117c943761a198422c40cc07ef1",
+    "sourceCommit": "d713e0021a2d27e17abe6f6a28d53584d6ef5385",
     "buildEvidence": "migration/batches/umbra.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "f19f0208a3bd46c9869119b353498f6a1f546b3e",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "VFXEditor",
@@ -2189,9 +2531,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
+    "sourceCommit": "3aa17ed8b8df16f81a610af0e22cea757678baf5",
     "buildEvidence": "migration/batches/Dalamud-VFXEditor-API13.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "ff7ccc43a4b2bf12dd07e10f5a957a484f2583b0",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "Visibility",
@@ -2208,9 +2553,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
+    "sourceCommit": "b550fe422bba7a7fff008bdfbb08b1adb2ba758d",
     "buildEvidence": "migration/batches/VisibilityPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "6fa9126183b1b59bd528f41c0da688ca7bbc3f3e",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "WaymarkPresetPlugin",
@@ -2227,9 +2575,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "66e79d295b58938b9e93e6d5fdb12734455d0197",
+    "sourceCommit": "2d744cc5446ff3dffdb570ae072649b139d6438c",
     "buildEvidence": "migration/batches/WaymarkPresetPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "date-candidate-requires-api-evidence",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "WrathCombo",
@@ -2246,9 +2597,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "126b54451865c6df915df1b06fe14f1579cc3674",
+    "sourceCommit": "b9902effa2080902636bed7f20311408461c406b",
     "buildEvidence": "migration/batches/WrathCombo.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "bf5d4eb93b10196a5aa92bfc86411f9bb4a45646",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "XivTreasureParty",
@@ -2265,9 +2619,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
+    "sourceCommit": "d1a4928f9bd01bf5e0e4d5ee37cd1d986d40e097",
     "buildEvidence": "migration/batches/xiv-party-treasure-helper.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": null,
+    "upstreamReviewStatus": "self-maintained-or-unresolved",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "YesAlready",
@@ -2284,9 +2641,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e0c19a487483f89940eb296fa2b5b683406c6f81",
+    "sourceCommit": "1ee3195e092020b3e6b1ddaeefa21f1f0b0ab741",
     "buildEvidence": "migration/batches/YesAlready.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "35c21fec2e155d6aaca3815285b2675167e56f89",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "ZodiacBuddy",
@@ -2303,9 +2663,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "e8ef85d79b7b66ae6766effef701a9b658e729bc",
+    "sourceCommit": "073ee63d583f84dec4987cebb2122aa598106ce2",
     "buildEvidence": "migration/batches/ZodiacBuddy.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "1f46fb6281aaed4f9ad1d65697bb25f13283694f",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "orchestrion",
@@ -2322,9 +2685,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
+    "sourceCommit": "7c06ac02c6e474822a731b8b153991978a164322",
     "buildEvidence": "migration/batches/OrchestrionPlugin.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "314c0a61071233f9ce93b507f0a9d9e5446147dc",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "vfaux",
@@ -2341,9 +2707,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
+    "sourceCommit": "73d7c72acdd881b030ef8be4f14841cf077d8b3a",
     "buildEvidence": "migration/batches/vfaux.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "1a2b76f9ccdc147605f37accb0e32424cb553129",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "visland",
@@ -2360,9 +2729,12 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "4950bc40be9468ee94b6cd4be7a60d7968ddc89b",
+    "sourceCommit": "044a765e9cf71a59310f2cb275be9af66c43ec96",
     "buildEvidence": "migration/batches/ffxiv_visland.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "c5b705dd6d3e5058273bc3d5c7b6828c37773005",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   },
   {
     "internalName": "vnavmesh",
@@ -2379,8 +2751,11 @@
     "status": "build-passed",
     "build": "passed",
     "runtime": "pending",
-    "sourceCommit": "731be4ea3953ea235b7f590791764dae02939020",
+    "sourceCommit": "7235c17a489409e5c823a12790d3c1b8f195f135",
     "buildEvidence": "migration/batches/ffxiv_navmesh.json",
-    "assemblyEvidence": "migration/assembly-audit.json"
+    "assemblyEvidence": "migration/assembly-audit.json",
+    "upstreamApi14Commit": "a49e52fc84390cfecfd633e181653c7641110c0a",
+    "upstreamReviewStatus": "last-api14-before-project-upgrade",
+    "deepReviewEvidence": "UPSTREAM_REVIEW.md"
   }
 ]

@@ -7,14 +7,14 @@
       "project": "RadarPlugin/RadarPlugin.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.0,
+      "seconds": 2.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\RadarPlugin.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "6d46b18f3e7ed6869d19110c1d3152c8350b80e1",
+  "sourceCommit": "c71e06f1c384d4e3b2c01704ef6a453c975cb032",
   "publishedSource": true,
   "dependencyPatches": 0
 }

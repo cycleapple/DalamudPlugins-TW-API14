@@ -7,14 +7,16 @@
       "project": "RotationSolver/RotationSolver.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 6.5,
+      "seconds": 2.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\RotationSolver.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "RotationSolver/RotationSolver.yaml"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
+  "sourceCommit": "d89ead460f06347f110b5fcfa1a6ea567ce8ac1f",
   "publishedSource": true,
   "dependencyPatches": 0
 }

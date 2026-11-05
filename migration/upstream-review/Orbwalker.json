@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Orbwalker",
+  "fork": true,
+  "default_branch": "master",
+  "description": "S P A C E G L I D I N G",
+  "homepage": "https://puni.sh/plugin/Orbwalker",
+  "pushed_at": "2026-11-05T16:16:51Z",
+  "parent": {
+    "full_name": "PunishXIV/Orbwalker",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/Orbwalker.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/Orbwalker",
+    "default_branch": "master",
+    "clone_url": "https://github.com/PunishXIV/Orbwalker.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/Orbwalker",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "fcfdb56bcb520f1d6480b89ac9725d7ee70fc9aa",
+  "apiMarkerPath": "Orbwalker/Orbwalker.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "nextApiCommit": "72d5fe38d54bf775ad96ef084167875dfc045599",
+  "api14Commit": "52ce71bba33bee1235dbf4536827ca273a3eea62",
+  "api14Date": "2026-05-24T12:54:29Z",
+  "api14Message": "remove EC subm",
+  "api14Url": "https://github.com/PunishXIV/Orbwalker/commit/52ce71bba33bee1235dbf4536827ca273a3eea62"
+}

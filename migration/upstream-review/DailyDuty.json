@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/DailyDuty",
+  "fork": true,
+  "default_branch": "master",
+  "description": "DailyDuty is a XivLauncher/Dalamud Plugin for automatically tracking and managing the various daily and weekly tasks that are available for completion in Final Fantasy 14",
+  "homepage": "",
+  "pushed_at": "2026-11-05T14:09:08Z",
+  "parent": {
+    "full_name": "MidoriKami/DailyDuty",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/DailyDuty.git"
+  },
+  "source": {
+    "full_name": "MidoriKami/DailyDuty",
+    "default_branch": "master",
+    "clone_url": "https://github.com/MidoriKami/DailyDuty.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "MidoriKami/DailyDuty",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "51f5eaf5214ff5f6329982712f6240089334cefc",
+  "apiMarkerPath": "DailyDuty/DailyDuty.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "284a4224fa719e03694263322da5350b2f18be58",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "54dbd5daef37b1a482fa0446eb342adc7ced8810",
+  "api14Date": "2026-04-19T23:31:10Z",
+  "api14Message": "Version 6.0.1.9",
+  "api14Url": "https://github.com/MidoriKami/DailyDuty/commit/54dbd5daef37b1a482fa0446eb342adc7ced8810"
+}

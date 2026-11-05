@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/PixelPerfect",
+  "fork": true,
+  "default_branch": "master",
+  "description": "FFXIV Dalamud Plugin for showing hitbox",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:17:16Z",
+  "parent": {
+    "full_name": "Haplo064/PixelPerfect",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Haplo064/PixelPerfect.git"
+  },
+  "source": {
+    "full_name": "Haplo064/PixelPerfect",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Haplo064/PixelPerfect.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Haplo064/PixelPerfect",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "162c07cf7bc493bfe4be140e3b3f16920bd7e81c",
+  "apiMarkerPath": "PixelPerfect/PixelPerfect.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "a725cb9ac36bf8bd6ceae365adadf0dd367692a1",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "ce246d2440133b624bf1129367e342fa19c28a78",
+  "api14Date": "2025-12-24T06:36:18Z",
+  "api14Message": "Merge pull request #55 from Infiziert90/master",
+  "api14Url": "https://github.com/Haplo064/PixelPerfect/commit/ce246d2440133b624bf1129367e342fa19c28a78"
+}

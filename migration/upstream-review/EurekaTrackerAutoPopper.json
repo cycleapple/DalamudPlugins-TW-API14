@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/EurekaTrackerAutoPopper",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Automatically pop notorious monsters as they spawn",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:14:15Z",
+  "parent": {
+    "full_name": "Infiziert90/EurekaTrackerAutoPopper",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
+  },
+  "source": {
+    "full_name": "Infiziert90/EurekaTrackerAutoPopper",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Infiziert90/EurekaTrackerAutoPopper.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Infiziert90/EurekaTrackerAutoPopper",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "cf2609f2c6f5a8933d5b10073d5dd26e1d1ddab9",
+  "apiMarkerPath": "EurekaTrackerAutoPopper/EurekaTrackerAutoPopper.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "37d7f84f0abb9a27e0599bfebdb8147268513ce7",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "726ed292e2ac6bdfba7226255d0134c9798eef59",
+  "api14Date": "2026-04-26T15:17:33Z",
+  "api14Message": "- bump",
+  "api14Url": "https://github.com/Infiziert90/EurekaTrackerAutoPopper/commit/726ed292e2ac6bdfba7226255d0134c9798eef59"
+}

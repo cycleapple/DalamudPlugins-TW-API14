@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/AllaganItemSearch",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Search for items in style!",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:49:40Z",
+  "parent": {
+    "full_name": "Critical-Impact/AllaganItemSearch",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/AllaganItemSearch.git"
+  },
+  "source": {
+    "full_name": "Critical-Impact/AllaganItemSearch",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Critical-Impact/AllaganItemSearch.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Critical-Impact/AllaganItemSearch",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "e25d3a8b72372becd1d5ff678db03720ac0f129d",
+  "apiMarkerPath": "AllaganItemSearch/AllaganItemSearch.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "5e027a339daa19ea6ac7403f5b5c00821d496a3d",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "09a2331d922754923950684d72604de73a4cbc16",
+  "api14Date": "2026-03-15T11:15:59Z",
+  "api14Message": "2.0.2",
+  "api14Url": "https://github.com/Critical-Impact/AllaganItemSearch/commit/09a2331d922754923950684d72604de73a4cbc16"
+}

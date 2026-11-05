@@ -1,0 +1,29 @@
+{
+  "full_name": "cycleapple/AntiAfkKick",
+  "fork": true,
+  "default_branch": "master",
+  "description": "An application, Dalamud and ACT plugin for preventing being auto-kicked from FFXIV due to inactivity.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:03:27Z",
+  "parent": {
+    "full_name": "NightmareXIV/AntiAfkKick",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/AntiAfkKick.git"
+  },
+  "source": {
+    "full_name": "NightmareXIV/AntiAfkKick",
+    "default_branch": "master",
+    "clone_url": "https://github.com/NightmareXIV/AntiAfkKick.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "NightmareXIV/AntiAfkKick",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "92a196ebc4c9f478f0f46ada9da251e98f13d37b",
+  "upstreamStatus": "api14-manifest-confirmed",
+  "apiMarkerPath": "AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.json",
+  "headApiLevel": 13,
+  "manualReviewVersion": 1,
+  "api14Commit": "f1c17eeb7c88910312458abb96a0b8f7c95866c1",
+  "api14Date": "2026-04-21T04:49:27Z",
+  "api14Url": "https://github.com/NightmareXIV/AntiAfkKick/commit/f1c17eeb7c88910312458abb96a0b8f7c95866c1"
+}

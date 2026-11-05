@@ -7,14 +7,16 @@
       "project": "TextAdvance/TextAdvance.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 3.6,
+      "seconds": 5.1,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\TextAdvance.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "518009fa0fcaa92fb892545911571735dabb6c78",
+  "sourceCommit": "611cd4b5754170245ec72b6ef37c29892618645c",
   "publishedSource": true,
   "dependencyPatches": 3
 }

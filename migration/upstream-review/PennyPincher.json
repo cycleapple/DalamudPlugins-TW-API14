@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/PennyPincher",
+  "fork": true,
+  "default_branch": "master",
+  "description": "XIVLauncher plugin for undercutters",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:17:07Z",
+  "parent": {
+    "full_name": "tesu/PennyPincher",
+    "default_branch": "master",
+    "clone_url": "https://github.com/tesu/PennyPincher.git"
+  },
+  "source": {
+    "full_name": "tesu/PennyPincher",
+    "default_branch": "master",
+    "clone_url": "https://github.com/tesu/PennyPincher.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "tesu/PennyPincher",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "164e362962c65dec3f0ba6cba9f296777c300862",
+  "apiMarkerPath": "PennyPincher.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "164e362962c65dec3f0ba6cba9f296777c300862",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "4b0eb9599ee9a7fa457f0c0da00f030b10abffa8",
+  "api14Date": "2025-12-21T05:53:40Z",
+  "api14Message": "Update README.md",
+  "api14Url": "https://github.com/tesu/PennyPincher/commit/4b0eb9599ee9a7fa457f0c0da00f030b10abffa8"
+}

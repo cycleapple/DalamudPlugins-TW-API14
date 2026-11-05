@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/Penumbra.GameData",
+  "fork": true,
+  "default_branch": "main",
+  "description": "Game Data preparation for Penumbra.",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:55:52Z",
+  "parent": {
+    "full_name": "Ottermandias/Penumbra.GameData",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Ottermandias/Penumbra.GameData.git"
+  },
+  "source": {
+    "full_name": "Ottermandias/Penumbra.GameData",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Ottermandias/Penumbra.GameData.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Ottermandias/Penumbra.GameData",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "e93093ffa12e07f29f95b03018e089e4557cc825",
+  "apiMarkerPath": "Penumbra.GameData.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "c2f0ee4c7b386e8a3b415687c016c000fcc2a00e",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "f17acd5e13a9979739c59edc209760258df8dae3",
+  "api14Date": "2026-04-22T14:25:21Z",
+  "api14Message": "Fix line endings.",
+  "api14Url": "https://github.com/Ottermandias/Penumbra.GameData/commit/f17acd5e13a9979739c59edc209760258df8dae3"
+}

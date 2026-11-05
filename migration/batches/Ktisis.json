@@ -7,14 +7,16 @@
       "project": "Ktisis/Ktisis.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.1,
+      "seconds": 6.2,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Ktisis.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "Ktisis/Ktisis.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
+  "sourceCommit": "78a6973af418fd78f4a4520b8b7a0d87c2a9eee6",
   "publishedSource": true,
   "dependencyPatches": 1
 }

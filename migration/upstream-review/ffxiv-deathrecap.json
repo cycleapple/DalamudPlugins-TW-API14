@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ffxiv-deathrecap",
+  "fork": true,
+  "default_branch": "master",
+  "description": "FFXIV Plugin for showing death recaps",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:14:29Z",
+  "parent": {
+    "full_name": "Kouzukii/ffxiv-deathrecap",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Kouzukii/ffxiv-deathrecap.git"
+  },
+  "source": {
+    "full_name": "Kouzukii/ffxiv-deathrecap",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Kouzukii/ffxiv-deathrecap.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Kouzukii/ffxiv-deathrecap",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "658ec3a19614f225e354b207ebba87aaf64943c7",
+  "apiMarkerPath": "DeathRecap.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "658ec3a19614f225e354b207ebba87aaf64943c7",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "fbbefcab1e237b19be6f6681dfed4c4c1aec3fdc",
+  "api14Date": "2026-04-18T12:43:24Z",
+  "api14Message": "Merge pull request #50 from spide-r/patch-1",
+  "api14Url": "https://github.com/Kouzukii/ffxiv-deathrecap/commit/fbbefcab1e237b19be6f6681dfed4c4c1aec3fdc"
+}

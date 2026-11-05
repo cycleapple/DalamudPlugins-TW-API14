@@ -7,14 +7,14 @@
       "project": "AllaganMarket/AllaganMarket.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 1.7,
+      "seconds": 1.8,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AllaganMarket.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "9dcc9ec9cc16401854bb0177b359ebad9252ef94",
+  "sourceCommit": "5a786786477f47b348d523e3c2d61439a605e4b2",
   "publishedSource": true,
   "dependencyPatches": 0
 }

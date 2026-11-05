@@ -1,0 +1,36 @@
+{
+  "full_name": "cycleapple/MapLinker",
+  "fork": false,
+  "default_branch": "api13-tw",
+  "description": "Taiwan Dalamud API13 build of MapLinker",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:12Z",
+  "parent": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "source": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Bluefissure/MapLinker",
+  "upstreamStatus": "api14-cutoff-source-confirmed",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "672f8c487b7b7857a3f92630ac77bab999849d90",
+  "candidateDate": "2025-12-19T02:11:45Z",
+  "upstreamCreatedAt": "2020-08-07T00:50:36Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "master",
+      "commit": "c57a0c6942d06c84dfe0a8c303d584130d5e9dd6"
+    }
+  ],
+  "api14Commit": "672f8c487b7b7857a3f92630ac77bab999849d90",
+  "api14Date": "2025-12-19T02:11:45Z",
+  "api14Url": "https://github.com/Bluefissure/MapLinker/commit/672f8c487b7b7857a3f92630ac77bab999849d90",
+  "apiMarkerPath": "MapLinker/MapLinker.csproj"
+}

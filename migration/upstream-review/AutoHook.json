@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/AutoHook",
+  "fork": true,
+  "default_branch": "main",
+  "description": "FFXIV Dalamud Plugin - Makes fishing less/more boring for you.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:08:39Z",
+  "parent": {
+    "full_name": "PunishXIV/AutoHook",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/AutoHook.git"
+  },
+  "source": {
+    "full_name": "InitialDet/AutoHook",
+    "default_branch": "main",
+    "clone_url": "https://github.com/InitialDet/AutoHook.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/AutoHook",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "6f399460257270635c807701f92820d9a0e42f2e",
+  "apiMarkerPath": "AutoHook/AutoHook.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "6d69d6b7825da683c417814fef7ad862241cfda9",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "b99c2952e6baf2094430bbbf8ed5816639e6212c",
+  "api14Date": "2026-03-13T17:01:19Z",
+  "api14Message": "Update AutoCollectables.cs",
+  "api14Url": "https://github.com/PunishXIV/AutoHook/commit/b99c2952e6baf2094430bbbf8ed5816639e6212c"
+}

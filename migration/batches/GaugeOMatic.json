@@ -7,14 +7,16 @@
       "project": "GaugeOMatic/GaugeOMatic.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.7,
+      "seconds": 1.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\GaugeOMatic.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "GaugeOMatic/GaugeOMatic.yaml"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
+  "sourceCommit": "530557dc6db3cf660c61706ea3e012258f63cb00",
   "publishedSource": true,
   "dependencyPatches": 0
 }

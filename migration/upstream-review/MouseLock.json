@@ -1,0 +1,35 @@
+{
+  "full_name": "cycleapple/MouseLock",
+  "fork": true,
+  "default_branch": "api13",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:16:34Z",
+  "parent": {
+    "full_name": "Zeffuro/MouseLock",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Zeffuro/MouseLock.git"
+  },
+  "source": {
+    "full_name": "Zeffuro/MouseLock",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Zeffuro/MouseLock.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Zeffuro/MouseLock",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "3135c4af56ae28405dab1af3c7a4c9bd370dc6c7",
+  "apiMarkerPath": "MouseLock/MouseLock.csproj",
+  "headApiLevel": 15,
+  "upstreamStatus": "no-api14-project-history-found",
+  "manualReviewVersion": 1,
+  "manualReviewError": "No pre-API15 history",
+  "upstreamCreatedAt": "2026-07-13T06:48:03Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "master",
+      "commit": "3135c4af56ae28405dab1af3c7a4c9bd370dc6c7"
+    }
+  ]
+}

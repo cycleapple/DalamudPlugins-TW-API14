@@ -7,14 +7,16 @@
       "project": "Lifestream/Lifestream.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 2.6,
+      "seconds": 7.5,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Lifestream.log"
     }
   ],
-  "changed": [],
+  "changed": [
+    "ECommons/ECommons/ECommons.csproj"
+  ],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
+  "sourceCommit": "c7093ca2cd7bd3cb157f1b8851daf79bb5acfc22",
   "publishedSource": true,
   "dependencyPatches": 9
 }

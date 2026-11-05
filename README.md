@@ -4,7 +4,7 @@
 [DalamudPlugins-TW](https://github.com/cycleapple/DalamudPlugins-TW) 與
 [API13-Extended](https://github.com/cycleapple/DalamudPlugins-TW-API13-Extended)。
 
-125 個插件已完成上游 API14 的預備移植：124 個開源插件通過建置，
+125 個插件已納入 API14 預備移植與第二輪實質複查：124 個開源插件通過建置，
 MissFisher 使用找回的官方 API14 套件完成繁中資源移植與打包。
 125 個主 DLL 的實際參照均為 API14／.NET 10；868 個受檢受控輸出沒有非 API14 的 Dalamud 參照。
 六個共用依賴已完成建置；132 個相關 repo 均使用 `api14-tw` 分支。
@@ -20,6 +20,10 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API14/main/repo.j
 ```
 
 只有完成 API14 編譯與台服遊戲內驗證的套件才會加入清單。目前加入此網址不會提供插件。
+
+本輪查出並修正原生 Hook ABI、結構與資料表偏移、ImGui bindings、遺漏的原生核心及安裝包宣告。
+完整上游來源、例外、檢查結果與實機限制見 [125 個插件實質複查](UPSTREAM_REVIEW.md)。
+固定建置基線已更新至最後的官方穩定 API14：Dalamud 14.0.5.1。
 
 ## 移植資料
 

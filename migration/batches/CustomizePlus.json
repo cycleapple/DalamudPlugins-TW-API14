@@ -7,14 +7,14 @@
       "project": "CustomizePlus/CustomizePlus.csproj",
       "status": "build-passed",
       "errors": [],
-      "seconds": 7.3,
+      "seconds": 7.7,
       "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\CustomizePlus.log"
     }
   ],
   "changed": [],
   "unresolved": [],
   "status": "processed",
-  "sourceCommit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
+  "sourceCommit": "d4a8921e51ab20a157f6df8d578a37e01bf345fd",
   "publishedSource": true,
   "dependencyPatches": 6
 }

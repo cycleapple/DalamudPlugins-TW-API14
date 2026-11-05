@@ -6,7 +6,7 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-AutoRetainerAPI.log",
     "publishedSource": true,
-    "targetCommit": "567c0eb41ea95dfb293302ff5e855f51ad3065b2"
+    "targetCommit": "f205cb5af47eafa07f1beccaa7714c33e8b8d8b1"
   },
   {
     "repository": "cycleapple/CriticalCommonLib",
@@ -15,7 +15,7 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-CriticalCommonLib.log",
     "publishedSource": true,
-    "targetCommit": "6dbc4d9967ae435c7e08fc4125bf7879973fd7b7"
+    "targetCommit": "47bde15180037dc0f16f737d3bb75ffca424d462"
   },
   {
     "repository": "cycleapple/ECommons",
@@ -24,7 +24,7 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-ECommons.log",
     "publishedSource": true,
-    "targetCommit": "f240a746d439321e637ebccf579e219b77d82229"
+    "targetCommit": "71a1aef2adb474b4d26dd4dd8cf5f711f403cf78"
   },
   {
     "repository": "cycleapple/KamiToolKit",
@@ -33,7 +33,7 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-KamiToolKit.log",
     "publishedSource": true,
-    "targetCommit": "55e18c9d51264ace165201e9f97f8bd5ad5d3f7a"
+    "targetCommit": "2c7a78715074e2254662e54f3c5716dd4293bbf7"
   },
   {
     "repository": "cycleapple/OtterGui",
@@ -42,7 +42,7 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-OtterGui.log",
     "publishedSource": true,
-    "targetCommit": "ca8f1790560e3137401912bf8d1685280a4ed4a4"
+    "targetCommit": "ce3008e4f8a182a17b505527603e905560b843e1"
   },
   {
     "repository": "cycleapple/Penumbra.GameData",
@@ -51,6 +51,6 @@
     "status": "build-passed",
     "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-Penumbra.GameData.log",
     "publishedSource": true,
-    "targetCommit": "feb6b3e9f23fb800f8104bc502cac3a504d18dcc"
+    "targetCommit": "2664a5dc584827a29d1d4fa144841064a3ac3dbf"
   }
 ]

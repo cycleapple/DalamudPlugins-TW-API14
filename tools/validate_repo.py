@@ -50,6 +50,16 @@ def main():
             ref = refs[project['repository']]
             require(ref['matchesLocal'] and ref['commit'] == project['targetCommit'], "Remote source head mismatch")
     catalog = read("repo.json")
+    if (ROOT / 'UPSTREAM_REVIEW.md').exists():
+        require(len(list((ROOT / 'migration/upstream-review').glob('*.json'))) == len(projects), 'Upstream review coverage mismatch')
+        packages = read('migration/package-review.json')
+        require({x['internalName'] for x in packages} == set(names), 'Package review coverage mismatch')
+        require(all(x['status'] in ['passed', 'no-local-zip'] and x['manifest'] == 'passed' for x in packages), 'Failed package review')
+        resolution = read('migration/reference-resolution.json')
+        require(len(resolution) == 123 and all(x['status'] == 'passed' for x in resolution), 'SDK reference resolution failed')
+        native = read('migration/evidence/native-contracts.json')
+        require(native['status'] == 'passed' and native['count'] == len(read('migration/native-contract-expectations.json')), 'Compiled native contract evidence mismatch')
+        require(all(x.get('resolution') for x in read('migration/native-contract-review.json')), 'Unresolved same-symbol native contract difference')
     ids = [p["InternalName"] for p in catalog]
     require(len(ids) == len(set(ids)), "Duplicate feed InternalName")
     by_name = {p["internalName"]: p for p in plugins}

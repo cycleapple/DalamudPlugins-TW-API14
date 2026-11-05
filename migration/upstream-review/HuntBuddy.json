@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/HuntBuddy",
+  "fork": true,
+  "default_branch": "master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:15:35Z",
+  "parent": {
+    "full_name": "SheepGoMeh/HuntBuddy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/SheepGoMeh/HuntBuddy.git"
+  },
+  "source": {
+    "full_name": "SheepGoMeh/HuntBuddy",
+    "default_branch": "master",
+    "clone_url": "https://github.com/SheepGoMeh/HuntBuddy.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "SheepGoMeh/HuntBuddy",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "1de61e25b99b6473f4d2c75b4023e588016f0aa4",
+  "apiMarkerPath": "HuntBuddy/HuntBuddy.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "d882521b52cec73cb775ce897120c1e141a01d73",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "baf609914c482dbcfd48262377a6f50cc7ad93c3",
+  "api14Date": "2026-01-04T18:12:55Z",
+  "api14Message": "[PR] Merge pull request #64 from SheepGoMeh/feature/api14",
+  "api14Url": "https://github.com/SheepGoMeh/HuntBuddy/commit/baf609914c482dbcfd48262377a6f50cc7ad93c3"
+}

@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ActionTimelineReplacement",
+  "fork": true,
+  "default_branch": "Global",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:01:47Z",
+  "parent": {
+    "full_name": "papapachin/ActionTimelineReplacement",
+    "default_branch": "Global",
+    "clone_url": "https://github.com/papapachin/ActionTimelineReplacement.git"
+  },
+  "source": {
+    "full_name": "Loskh/ActionTimelineReplacement",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Loskh/ActionTimelineReplacement.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "papapachin/ActionTimelineReplacement",
+  "upstreamDefaultBranch": "Global",
+  "upstreamHead": "332223f2a7e230dae75bbb4bd224b0c05383d674",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "apiMarkerPath": "ActionTimelineReplacement.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "b7b15da5e35c6b74d38c80c297177da6e7af83ae",
+  "api14Commit": "48ceaee8f61ba53509bd60869d6341774a0def2e",
+  "api14Date": "2026-05-01T10:05:17Z",
+  "api14Message": "refactor: simple refact.",
+  "api14Url": "https://github.com/papapachin/ActionTimelineReplacement/commit/48ceaee8f61ba53509bd60869d6341774a0def2e"
+}

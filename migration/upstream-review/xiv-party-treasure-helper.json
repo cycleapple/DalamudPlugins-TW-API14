@@ -1,0 +1,23 @@
+{
+  "full_name": "cycleapple/xiv-party-treasure-helper",
+  "fork": false,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:31Z",
+  "parent": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "source": {
+    "full_name": null,
+    "default_branch": null,
+    "clone_url": null
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": null,
+  "upstreamStatus": "self-maintained-or-unresolved",
+  "upstreamCreatedAt": "2026-04-23T03:01:17Z",
+  "upstreamArchived": false
+}

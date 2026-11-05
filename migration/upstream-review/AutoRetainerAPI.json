@@ -1,0 +1,42 @@
+{
+  "full_name": "cycleapple/AutoRetainerAPI",
+  "fork": true,
+  "default_branch": "main",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:33:15Z",
+  "parent": {
+    "full_name": "PunishXIV/AutoRetainerAPI",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/AutoRetainerAPI.git"
+  },
+  "source": {
+    "full_name": "PunishXIV/AutoRetainerAPI",
+    "default_branch": "main",
+    "clone_url": "https://github.com/PunishXIV/AutoRetainerAPI.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "PunishXIV/AutoRetainerAPI",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "7ccf0f6b4c7923821a43ed1e92456c9d5d7132f2",
+  "upstreamStatus": "date-candidate-requires-api-evidence",
+  "manualReviewVersion": 1,
+  "api14CandidateCommit": "66907dd3fe785aa0bd2286c126738596e7f15c4a",
+  "candidateDate": "2026-04-22T23:46:36Z",
+  "upstreamCreatedAt": "2023-10-19T12:38:40Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "TW",
+      "commit": "2eeb9b7e443b02daaed14e34028b169f40ff22d3"
+    },
+    {
+      "name": "main",
+      "commit": "7ccf0f6b4c7923821a43ed1e92456c9d5d7132f2"
+    },
+    {
+      "name": "tw13",
+      "commit": "22f89ad993253a287d95bad11cc441ebc765abf8"
+    }
+  ]
+}

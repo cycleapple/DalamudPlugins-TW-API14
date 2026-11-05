@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ffxiv-bundleoftweaks",
+  "fork": true,
+  "default_branch": "Master",
+  "description": null,
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:49:57Z",
+  "parent": {
+    "full_name": "Jaksuhn/ffxiv-bundleoftweaks",
+    "default_branch": "Master",
+    "clone_url": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks.git"
+  },
+  "source": {
+    "full_name": "Jaksuhn/ffxiv-bundleoftweaks",
+    "default_branch": "Master",
+    "clone_url": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Jaksuhn/ffxiv-bundleoftweaks",
+  "upstreamDefaultBranch": "Master",
+  "upstreamHead": "53d69408753ace3a8055d0cd4f3f7d92d2115de1",
+  "apiMarkerPath": "ffxiv_bundledtweaks/Automaton.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "8e86c0b75a35f65b8360eecb29dcf7c2d5934233",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "41a6f46a6bdd102f3a9db6302e60b1a57ec94e79",
+  "api14Date": "2026-04-27T20:32:00Z",
+  "api14Message": "add bad fates to blacklist to prevent re-generation",
+  "api14Url": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks/commit/41a6f46a6bdd102f3a9db6302e60b1a57ec94e79"
+}

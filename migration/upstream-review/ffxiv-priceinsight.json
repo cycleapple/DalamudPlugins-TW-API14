@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/ffxiv-priceinsight",
+  "fork": true,
+  "default_branch": "main",
+  "description": "A FFXIV Plugin to display marketboard prices on item tooltips",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:14:31Z",
+  "parent": {
+    "full_name": "Kouzukii/ffxiv-priceinsight",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Kouzukii/ffxiv-priceinsight.git"
+  },
+  "source": {
+    "full_name": "Kouzukii/ffxiv-priceinsight",
+    "default_branch": "main",
+    "clone_url": "https://github.com/Kouzukii/ffxiv-priceinsight.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Kouzukii/ffxiv-priceinsight",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "481392ff74aff10bec87d7ff4c4f2f670f5974a0",
+  "apiMarkerPath": "PriceInsight.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "731eb08de5b1c61558b7e8c06853d7364b353fc5",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "03de8e2ea3fd4e43530563241bede06a2691b70b",
+  "api14Date": "2025-12-20T02:57:12Z",
+  "api14Message": "Update to Dalamud 14 and FFXIV 7.4",
+  "api14Url": "https://github.com/Kouzukii/ffxiv-priceinsight/commit/03de8e2ea3fd4e43530563241bede06a2691b70b"
+}

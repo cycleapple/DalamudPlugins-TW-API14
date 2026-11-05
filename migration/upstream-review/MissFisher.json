@@ -1,0 +1,35 @@
+{
+  "full_name": "cycleapple/MissFisher",
+  "fork": true,
+  "default_branch": "main",
+  "description": "FF14 钓鱼插件（旧称：空天姬）/ MissFisher, A FFXIV fishing plugin.",
+  "homepage": "",
+  "pushed_at": "2026-11-05T16:43:05Z",
+  "parent": {
+    "full_name": "BlackCleaverLoli/MissFisher",
+    "default_branch": "main",
+    "clone_url": "https://github.com/BlackCleaverLoli/MissFisher.git"
+  },
+  "source": {
+    "full_name": "BlackCleaverLoli/MissFisher",
+    "default_branch": "main",
+    "clone_url": "https://github.com/BlackCleaverLoli/MissFisher.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "BlackCleaverLoli/MissFisher",
+  "upstreamDefaultBranch": "main",
+  "upstreamHead": "2acfc0fad52ea000bed640284dee70e84d2ff8f5",
+  "upstreamStatus": "official-api14-binary-confirmed",
+  "upstreamCreatedAt": "2024-06-24T23:11:30Z",
+  "upstreamArchived": false,
+  "upstreamBranches": [
+    {
+      "name": "main",
+      "commit": "2acfc0fad52ea000bed640284dee70e84d2ff8f5"
+    }
+  ],
+  "api14Commit": "225828c5f5d980515d0e025ebcf962ff9a23fc25",
+  "api14Date": "2026-04-10",
+  "api14Url": "https://github.com/QianChangUwU/MissFisher/commit/225828c5f5d980515d0e025ebcf962ff9a23fc25",
+  "provenance": "Official author release preserved by mirror; actual DLL reference and archive hash checked."
+}

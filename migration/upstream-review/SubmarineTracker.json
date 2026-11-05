@@ -1,0 +1,30 @@
+{
+  "full_name": "cycleapple/SubmarineTracker",
+  "fork": true,
+  "default_branch": "master",
+  "description": "Track and Build",
+  "homepage": null,
+  "pushed_at": "2026-11-05T16:18:05Z",
+  "parent": {
+    "full_name": "Infiziert90/SubmarineTracker",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Infiziert90/SubmarineTracker.git"
+  },
+  "source": {
+    "full_name": "Infiziert90/SubmarineTracker",
+    "default_branch": "master",
+    "clone_url": "https://github.com/Infiziert90/SubmarineTracker.git"
+  },
+  "reviewVersion": 1,
+  "upstreamRepository": "Infiziert90/SubmarineTracker",
+  "upstreamDefaultBranch": "master",
+  "upstreamHead": "04c54d770f815cd416bbade1ac5b178b551a32b5",
+  "apiMarkerPath": "SubmarineTracker/SubmarineTracker.csproj",
+  "headApiLevel": 15,
+  "nextApiCommit": "cdd8fb1bcb3139d6de77d646e8837016673aed6b",
+  "upstreamStatus": "last-api14-before-project-upgrade",
+  "api14Commit": "0109da941009c7280d1aa0e3fcecf8ddcc7dfe54",
+  "api14Date": "2026-01-17T14:59:38Z",
+  "api14Message": "- Change link from spreadsheet to website",
+  "api14Url": "https://github.com/Infiziert90/SubmarineTracker/commit/0109da941009c7280d1aa0e3fcecf8ddcc7dfe54"
+}
