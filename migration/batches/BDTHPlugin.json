@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/BDTHPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BDTHPlugin",
+  "results": [
+    {
+      "internalName": "BDTHPlugin",
+      "project": "BDTHPlugin/BDTHPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BDTHPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9cd4b64fb1e6dc0caf6eebba73e7ebd1d2112ebf",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/WrathCombo",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\WrathCombo",
+  "results": [
+    {
+      "internalName": "WrathCombo",
+      "project": "WrathCombo/WrathCombo.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\WrathCombo.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "126b54451865c6df915df1b06fe14f1579cc3674",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

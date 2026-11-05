@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/TeleporterPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\TeleporterPlugin",
+  "results": [
+    {
+      "internalName": "TeleporterPlugin",
+      "project": "TeleporterPlugin/TeleporterPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\TeleporterPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e4b2cb0c2bf0904603db0a9b199c11afa981ca3c",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

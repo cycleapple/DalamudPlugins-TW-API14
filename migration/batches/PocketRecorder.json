@@ -1,0 +1,17 @@
+{
+  "repository": "cycleapple/PocketRecorder",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PocketRecorder",
+  "results": [
+    {
+      "internalName": "PocketRecorder",
+      "status": "build-passed",
+      "evidence": "migration/evidence/PocketRecorder.json"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "5253ef809dd6dd4b6d581275ce9c0da80863049d",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

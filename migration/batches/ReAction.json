@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ReAction",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ReAction",
+  "results": [
+    {
+      "internalName": "ReAction",
+      "project": "ReAction.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ReAction.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9af44cbe2372e29e963a8f58237bd77306b7881b",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

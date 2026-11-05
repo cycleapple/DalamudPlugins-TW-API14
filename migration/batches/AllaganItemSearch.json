@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AllaganItemSearch",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AllaganItemSearch",
+  "results": [
+    {
+      "internalName": "AllaganItemSearch",
+      "project": "AllaganItemSearch/AllaganItemSearch.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AllaganItemSearch.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "eed19f659ed32de0a3f3ab336fed5dae9399c6f2",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

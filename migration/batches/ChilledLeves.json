@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ChilledLeves",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ChilledLeves",
+  "results": [
+    {
+      "internalName": "ChilledLeves",
+      "project": "ChilledLeves/ChilledLeves.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ChilledLeves.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "f42356b0b1e97d4595e5710176287245c44c09de",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

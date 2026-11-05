@@ -1,0 +1,18 @@
+{
+  "apiLevel": 14,
+  "runtimeMajor": 10,
+  "version": "1.9.17.2",
+  "translatedKeys": 991,
+  "totalKeys": 991,
+  "originalCodeHash": "9B70BE6133DCEFB97C90A204A2B325CAA1A4E00F399B2EC9EFBBBCE48783A123",
+  "localizedCodeHash": "9B70BE6133DCEFB97C90A204A2B325CAA1A4E00F399B2EC9EFBBBCE48783A123",
+  "unchangedResources": 8,
+  "officialVersion": "1.9.17.1",
+  "officialCommit": "b7686d625a2835e0caeaa6df6eceb6d1d2f4f799",
+  "officialArchiveSha256": "fe9a8cec811818a4aff8b9a167459a0025ea4f458811e36a74b435437a12903b",
+  "sourceCommit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
+  "build": "official-api14-localized",
+  "tcRuntime": "pending",
+  "negativeCheckApi13": "passed",
+  "packagePath": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MissFisher\\.api14\\artifacts\\MissFisher-1.9.17.2.zip"
+}

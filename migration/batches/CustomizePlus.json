@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/CustomizePlus",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\CustomizePlus",
+  "results": [
+    {
+      "internalName": "CustomizePlus",
+      "project": "CustomizePlus/CustomizePlus.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 7.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\CustomizePlus.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
+  "publishedSource": true,
+  "dependencyPatches": 6
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MultiHit",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MultiHit",
+  "results": [
+    {
+      "internalName": "MultiHit",
+      "project": "MultiHit/MultiHit.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MultiHit.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

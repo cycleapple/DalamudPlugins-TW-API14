@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/RotationSolverReborn",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\RotationSolverReborn",
+  "results": [
+    {
+      "internalName": "RotationSolver",
+      "project": "RotationSolver/RotationSolver.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 6.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\RotationSolver.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

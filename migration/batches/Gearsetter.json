@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Gearsetter",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Gearsetter",
+  "results": [
+    {
+      "internalName": "Gearsetter",
+      "project": "Gearsetter/Gearsetter.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Gearsetter.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "019c292a8c96583f3891fa8d52c7a36368e2e9c8",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

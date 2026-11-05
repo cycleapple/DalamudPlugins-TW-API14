@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MarketBoardPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MarketBoardPlugin",
+  "results": [
+    {
+      "internalName": "MarketBoardPlugin",
+      "project": "MarketBoardPlugin/MarketBoardPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 4.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MarketBoardPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "343f09cfd342bc461dd2becb42b64b0c6cad5c19",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

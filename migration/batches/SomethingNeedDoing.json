@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/SomethingNeedDoing",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SomethingNeedDoing",
+  "results": [
+    {
+      "internalName": "SomethingNeedDoing",
+      "project": "SomethingNeedDoing/SomethingNeedDoing.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SomethingNeedDoing.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

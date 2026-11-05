@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/NecroLens",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NecroLens",
+  "results": [
+    {
+      "internalName": "NecroLens",
+      "project": "NecroLens/NecroLens.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\NecroLens.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e34694fbd0a3bb17e0f82fa76e8a4cc0f1e43270",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

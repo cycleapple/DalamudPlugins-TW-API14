@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv_navmesh",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_navmesh",
+  "results": [
+    {
+      "internalName": "vnavmesh",
+      "project": "vnavmesh/vnavmesh.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\vnavmesh.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "731be4ea3953ea235b7f590791764dae02939020",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

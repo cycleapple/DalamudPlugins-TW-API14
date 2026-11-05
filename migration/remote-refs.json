@@ -1,0 +1,794 @@
+[
+  {
+    "repository": "cycleapple/ActionTimelineReplacement",
+    "branch": "api14-tw",
+    "commit": "377da77eba5ae7b6c4e3514079d98b99d557f7e9",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/aetherment",
+    "branch": "api14-tw",
+    "commit": "a2ea539da6a4c0cd41f8699b96b15ddf6a305c6f",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AllaganItemSearch",
+    "branch": "api14-tw",
+    "commit": "eed19f659ed32de0a3f3ab336fed5dae9399c6f2",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AllaganMarket",
+    "branch": "api14-tw",
+    "commit": "9dcc9ec9cc16401854bb0177b359ebad9252ef94",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AntiAfkKick",
+    "branch": "api14-tw",
+    "commit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Artisan",
+    "branch": "api14-tw",
+    "commit": "efb525a64f5c1d0d430747b75d0119d578058b72",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AutoDuty",
+    "branch": "api14-tw",
+    "commit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AutoHook",
+    "branch": "api14-tw",
+    "commit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AutoMinion",
+    "branch": "api14-tw",
+    "commit": "ada328192e8a67d822253b0456d4bc311e330a42",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AutoRetainer",
+    "branch": "api14-tw",
+    "commit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/AutoRetainerAPI",
+    "branch": "api14-tw",
+    "commit": "567c0eb41ea95dfb293302ff5e855f51ad3065b2",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Avarice",
+    "branch": "api14-tw",
+    "commit": "99c0a592a63e8d58082b991b445a9fd774219b41",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/BDTHPlugin",
+    "branch": "api14-tw",
+    "commit": "9cd4b64fb1e6dc0caf6eebba73e7ebd1d2112ebf",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/BetterMountRoulette",
+    "branch": "api14-tw",
+    "commit": "b1ce50644c224916684dbf561eff0d20484b44dc",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/BigPlayerDebuffs",
+    "branch": "api14-tw",
+    "commit": "87d86516fdfe9a1815b78c80ab2862eb88b7d4c6",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/BOCCHI",
+    "branch": "api14-tw",
+    "commit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/BossmodReborn",
+    "branch": "api14-tw",
+    "commit": "76e5afcc2da9fac68091fc3e865406e461f100d4",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Brio",
+    "branch": "api14-tw",
+    "commit": "4fbf3bc603022c2e2416b53f13bff212a0ee7e02",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Cammy",
+    "branch": "api14-tw",
+    "commit": "464638fa648547141aac9bdc5a1fcc611f5784a5",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ChatTwo",
+    "branch": "api14-tw",
+    "commit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ChilledLeves",
+    "branch": "api14-tw",
+    "commit": "f42356b0b1e97d4595e5710176287245c44c09de",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Craftimizer",
+    "branch": "api14-tw",
+    "commit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/CriticalCommonLib",
+    "branch": "api14-tw",
+    "commit": "6dbc4d9967ae435c7e08fc4125bf7879973fd7b7",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/CrossUp",
+    "branch": "api14-tw",
+    "commit": "3415ef6f859115f22d2a4051a3cc58df49f10ab0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/CustomizePlus",
+    "branch": "api14-tw",
+    "commit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/DailyDuty",
+    "branch": "api14-tw",
+    "commit": "1e166ded642acf8526e171210016edcb3e7dfb4e",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Dalamud",
+    "branch": "api14-tw",
+    "commit": "128847497eb255fc4c6b8121a0211587cb825c5d",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/dalamud-chatcoordinates",
+    "branch": "api14-tw",
+    "commit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Dalamud-FlashOnTellPlugin",
+    "branch": "api14-tw",
+    "commit": "1c09858a7f8a65d743d7a096137f5fce501d2230",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Dalamud-VFXEditor-API13",
+    "branch": "api14-tw",
+    "commit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Deliveroo",
+    "branch": "api14-tw",
+    "commit": "4050145a7771349eb3d143b136735bb7c2760b6e",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Distance",
+    "branch": "api14-tw",
+    "commit": "3401bcc1fcfa1f5ad26382f9ab82fd35300e64d0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Doorbell",
+    "branch": "api14-tw",
+    "commit": "35cdfc53cbb4d71564088680229aefd548aad753",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/DozeAnywhere",
+    "branch": "api14-tw",
+    "commit": "5ba51f2530865aac7d483be221529166dbb6938e",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/DP-CustomResolution",
+    "branch": "api14-tw",
+    "commit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EasyEyes",
+    "branch": "api14-tw",
+    "commit": "37fe1c153125f21d4d4eaa3774ad635efdc90478",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ECommons",
+    "branch": "api14-tw",
+    "commit": "f240a746d439321e637ebccf579e219b77d82229",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EnemyListDebuffs",
+    "branch": "api14-tw",
+    "commit": "4e2feeb7e7300b578a54072e34aeca53345b971b",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EngageTimer",
+    "branch": "api14-tw",
+    "commit": "492804f08f6f83a7932acc4fa8631f87214460e0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EnmityHp",
+    "branch": "api14-tw",
+    "commit": "eef2bf5f730f3b9d4482f77a8bc9a07e697ab65c",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EurekaTrackerAutoPopper",
+    "branch": "api14-tw",
+    "commit": "cb602d028790b1aaf921ab41f3475b6e38cb5a68",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Explorers-Icebox",
+    "branch": "api14-tw",
+    "commit": "3dc49c761ca34107fed63df39c8195bae767c615",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/EzMiniCactpot",
+    "branch": "api14-tw",
+    "commit": "62eed63019dd99cbf4d82844f8a3630ab9820bd5",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Facade",
+    "branch": "api14-tw",
+    "commit": "95125c9a8a6de8726d22c404267ded5589341eae",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/FFTriadBuddyDalamud",
+    "branch": "api14-tw",
+    "commit": "ef7605e196d6eb29e2d0f5ef2cf40639621a8be5",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv-bundleoftweaks",
+    "branch": "api14-tw",
+    "commit": "ae600e5af80a91741127d52f69e48194ba486b16",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv-deathrecap",
+    "branch": "api14-tw",
+    "commit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv-priceinsight",
+    "branch": "api14-tw",
+    "commit": "bfb5ad07728073e1155f29923e29d1147877867a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv_bossmod",
+    "branch": "api14-tw",
+    "commit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv_navmesh",
+    "branch": "api14-tw",
+    "commit": "731be4ea3953ea235b7f590791764dae02939020",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ffxiv_visland",
+    "branch": "api14-tw",
+    "commit": "4950bc40be9468ee94b6cd4be7a60d7968ddc89b",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/FFXIVClientStructs",
+    "branch": "api14-tw",
+    "commit": "a4b467e1363666116300baafe630d5312bef2265",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/FlyTextFilter",
+    "branch": "api14-tw",
+    "commit": "082aac6e98a655ff7753f44c8673c7331e176be9",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/FPSPlugin",
+    "branch": "api14-tw",
+    "commit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Fungah-Totally-Safe-Spot",
+    "branch": "api14-tw",
+    "commit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/GatherBuddyReborn",
+    "branch": "api14-tw",
+    "commit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/GaugeOMatic",
+    "branch": "api14-tw",
+    "commit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Gearsetter",
+    "branch": "api14-tw",
+    "commit": "019c292a8c96583f3891fa8d52c7a36368e2e9c8",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Glamourer",
+    "branch": "api14-tw",
+    "commit": "50fa8b8248cd8335cb0ba68a08b600f8ad17ec01",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Honorific",
+    "branch": "api14-tw",
+    "commit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Housemate",
+    "branch": "api14-tw",
+    "commit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/HuntBuddy",
+    "branch": "api14-tw",
+    "commit": "28192e8d076316ac88118eb7b7eee69f78d87394",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Hyperborea",
+    "branch": "api14-tw",
+    "commit": "810015c058983111960788d6c00ded34c0565b25",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Ices-Cosmic-Exploration",
+    "branch": "api14-tw",
+    "commit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/IINACT",
+    "branch": "api14-tw",
+    "commit": "190a782dea3b89e15337905d0023b04d273967e0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/InventoryTools",
+    "branch": "api14-tw",
+    "commit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/JobBars",
+    "branch": "api14-tw",
+    "commit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/KamiToolKit",
+    "branch": "api14-tw",
+    "commit": "55e18c9d51264ace165201e9f97f8bd5ad5d3f7a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Ktisis",
+    "branch": "api14-tw",
+    "commit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/LazyLoot",
+    "branch": "api14-tw",
+    "commit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Lifestream",
+    "branch": "api14-tw",
+    "commit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/LMeter_TC",
+    "branch": "api14-tw",
+    "commit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/LopClient",
+    "branch": "api14-tw",
+    "commit": "3f9eac99de80e78a94bf64a131f379df273b1f70",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MapLinker",
+    "branch": "api14-tw",
+    "commit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Mappy",
+    "branch": "api14-tw",
+    "commit": "46a5792c62fff43dbc1704a16a92d4e4cab09925",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MarketBoardPlugin",
+    "branch": "api14-tw",
+    "commit": "343f09cfd342bc461dd2becb42b64b0c6cad5c19",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Marketbuddy",
+    "branch": "api14-tw",
+    "commit": "f6df96f538884670df062ca1c257b9a8217c5196",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/mask-of-kefka",
+    "branch": "api14-tw",
+    "commit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MeterWay",
+    "branch": "api14-tw",
+    "commit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MidiBard2",
+    "branch": "api14-tw",
+    "commit": "1f569c8105d426985a6f9a1c0458e1b3ba75ff74",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MissFisher",
+    "branch": "api14-tw",
+    "commit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MonsterDex",
+    "branch": "api14-tw",
+    "commit": "38a2bc2728dea0ec74dddb741f628c4e83f47473",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MouseLock",
+    "branch": "api14-tw",
+    "commit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/MultiHit",
+    "branch": "api14-tw",
+    "commit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/NamingWay",
+    "branch": "api14-tw",
+    "commit": "2130a6cff286dfc378d800aee619c042e4830b91",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/NecroLens",
+    "branch": "api14-tw",
+    "commit": "e34694fbd0a3bb17e0f82fa76e8a4cc0f1e43270",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/NoClippy",
+    "branch": "api14-tw",
+    "commit": "73a73a9a69b19acd826fe9e514c5523a06eed35d",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/NOTED",
+    "branch": "api14-tw",
+    "commit": "9cbda54ffe7ced16f60735bb8cfcd23ea80d4a53",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/NotificationMaster",
+    "branch": "api14-tw",
+    "commit": "dba34891268d39ecea96117794caa97771f431af",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Orbwalker",
+    "branch": "api14-tw",
+    "commit": "2ff1b8141c54b05c065d55245f113a3400c715de",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/OrchestrionPlugin",
+    "branch": "api14-tw",
+    "commit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/OtterGui",
+    "branch": "api14-tw",
+    "commit": "ca8f1790560e3137401912bf8d1685280a4ed4a4",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PalacePal",
+    "branch": "api14-tw",
+    "commit": "3fbb22b94f90ff77b5f954a37d903a9328fb5955",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PandorasBox",
+    "branch": "api14-tw",
+    "commit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PeepingTom",
+    "branch": "api14-tw",
+    "commit": "38a42e409919c282a647eb74501144f522196a62",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PennyPincher",
+    "branch": "api14-tw",
+    "commit": "4b078f61e886862a99346e8918a1a9d6ae2f17ba",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Penumbra",
+    "branch": "api14-tw",
+    "commit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Penumbra.GameData",
+    "branch": "api14-tw",
+    "commit": "feb6b3e9f23fb800f8104bc502cac3a504d18dcc",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PingPlugin",
+    "branch": "api14-tw",
+    "commit": "c30ed86542bd50aa76a2df36d1383ffc94c685ef",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PixelPerfect",
+    "branch": "api14-tw",
+    "commit": "36c28fcf179710d3157bcd3a5e61f975619190cd",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PlayerWatchlist",
+    "branch": "api14-tw",
+    "commit": "483ae3d8fc58d5b8251193720e682d633362efdc",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/PocketRecorder",
+    "branch": "api14-tw",
+    "commit": "5253ef809dd6dd4b6d581275ce9c0da80863049d",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/QoLBar",
+    "branch": "api14-tw",
+    "commit": "19c26872c0f14b61c1c2d0ec08efe3673d61f8b2",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Questionable",
+    "branch": "api14-tw",
+    "commit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/RadarPlugin",
+    "branch": "api14-tw",
+    "commit": "6d46b18f3e7ed6869d19110c1d3152c8350b80e1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Raphael.Dalamud",
+    "branch": "api14-tw",
+    "commit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ReAction",
+    "branch": "api14-tw",
+    "commit": "9af44cbe2372e29e963a8f58237bd77306b7881b",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ReMakePlacePlugin",
+    "branch": "api14-tw",
+    "commit": "bbeee9ae78c427d3b853c01d462687fc8c0a8ee0",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/RezPls",
+    "branch": "api14-tw",
+    "commit": "4b59027736755d1eb0139cb93f37e804ae3df8fb",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/RotationSolverReborn",
+    "branch": "api14-tw",
+    "commit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Saucy",
+    "branch": "api14-tw",
+    "commit": "e1b857f5eae04713f02039a947a6e823f67034ac",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SimpleHeels",
+    "branch": "api14-tw",
+    "commit": "9e13a34b6aeed2019d7778b0e47ae089ef3dc134",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SimpleTweaksPlugin",
+    "branch": "api14-tw",
+    "commit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Skippy",
+    "branch": "api14-tw",
+    "commit": "0e0f89a57d22d343388677fc2c0dbd49e2e4816a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SomethingNeedDoing",
+    "branch": "api14-tw",
+    "commit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SonarDistrib",
+    "branch": "api14-tw",
+    "commit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SortaKinda",
+    "branch": "api14-tw",
+    "commit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/Splatoon",
+    "branch": "api14-tw",
+    "commit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/SubmarineTracker",
+    "branch": "api14-tw",
+    "commit": "9c7494714914cd07688be720a36451fe32bcb8ff",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/TeleporterPlugin",
+    "branch": "api14-tw",
+    "commit": "e4b2cb0c2bf0904603db0a9b199c11afa981ca3c",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/TextAdvance",
+    "branch": "api14-tw",
+    "commit": "518009fa0fcaa92fb892545911571735dabb6c78",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/TitleEdit",
+    "branch": "api14-tw",
+    "commit": "785a2cf61f2ffeee69fdc1d98f3fcb7569a4f661",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/umbra",
+    "branch": "api14-tw",
+    "commit": "145c11985cfef117c943761a198422c40cc07ef1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/vfaux",
+    "branch": "api14-tw",
+    "commit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/VisibilityPlugin",
+    "branch": "api14-tw",
+    "commit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/WaymarkPresetPlugin",
+    "branch": "api14-tw",
+    "commit": "66e79d295b58938b9e93e6d5fdb12734455d0197",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/WrathCombo",
+    "branch": "api14-tw",
+    "commit": "126b54451865c6df915df1b06fe14f1579cc3674",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/xiv-party-treasure-helper",
+    "branch": "api14-tw",
+    "commit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/xivlauncher_physics_plugin",
+    "branch": "api14-tw",
+    "commit": "1432625f846b866438d287005f241f100da1b9b1",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/xivPartyIcons",
+    "branch": "api14-tw",
+    "commit": "237fbbf6ecaaa5ffc63884b55b92d0e2d7f845ff",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/YesAlready",
+    "branch": "api14-tw",
+    "commit": "e0c19a487483f89940eb296fa2b5b683406c6f81",
+    "matchesLocal": true
+  },
+  {
+    "repository": "cycleapple/ZodiacBuddy",
+    "branch": "api14-tw",
+    "commit": "e8ef85d79b7b66ae6766effef701a9b658e729bc",
+    "matchesLocal": true
+  }
+]

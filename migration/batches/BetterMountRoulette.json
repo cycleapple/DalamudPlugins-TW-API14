@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/BetterMountRoulette",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BetterMountRoulette",
+  "results": [
+    {
+      "internalName": "BetterMountRoulette",
+      "project": "BetterMountRoulette.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BetterMountRoulette.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b1ce50644c224916684dbf561eff0d20484b44dc",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

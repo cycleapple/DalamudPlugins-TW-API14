@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/LazyLoot",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LazyLoot",
+  "results": [
+    {
+      "internalName": "LazyLoot",
+      "project": "LazyLoot/LazyLoot.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\LazyLoot.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Splatoon",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Splatoon",
+  "results": [
+    {
+      "internalName": "Splatoon",
+      "project": "Splatoon/Splatoon.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Splatoon.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
+  "publishedSource": true,
+  "dependencyPatches": 5
+}

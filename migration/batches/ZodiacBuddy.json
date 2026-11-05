@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ZodiacBuddy",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ZodiacBuddy",
+  "results": [
+    {
+      "internalName": "ZodiacBuddy",
+      "project": "ZodiacBuddy/ZodiacBuddy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ZodiacBuddy.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e8ef85d79b7b66ae6766effef701a9b658e729bc",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/FPSPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\FPSPlugin",
+  "results": [
+    {
+      "internalName": "FPSPlugin",
+      "project": "FPSPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\FPSPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

@@ -3,3 +3,6 @@ __pycache__/
 packages/
 logs/
 .tools/
+**/bin/
+**/obj/
+tools/AssemblyVerifier/audit-paths.txt

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/NamingWay",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NamingWay",
+  "results": [
+    {
+      "internalName": "Namingway",
+      "project": "Namingway/Namingway.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Namingway.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "2130a6cff286dfc378d800aee619c042e4830b91",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

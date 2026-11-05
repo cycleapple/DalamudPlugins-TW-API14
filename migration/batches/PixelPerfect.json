@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/PixelPerfect",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PixelPerfect",
+  "results": [
+    {
+      "internalName": "PixelPerfect",
+      "project": "PixelPerfect/PixelPerfect.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PixelPerfect.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "36c28fcf179710d3157bcd3a5e61f975619190cd",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

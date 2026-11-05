@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv_visland",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_visland",
+  "results": [
+    {
+      "internalName": "visland",
+      "project": "ffxiv_visland/visland.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\visland.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "4950bc40be9468ee94b6cd4be7a60d7968ddc89b",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

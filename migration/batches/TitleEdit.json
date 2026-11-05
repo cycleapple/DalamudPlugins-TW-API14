@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/TitleEdit",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\TitleEdit",
+  "results": [
+    {
+      "internalName": "TitleEdit",
+      "project": "TitleEdit/TitleEdit.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\TitleEdit.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "785a2cf61f2ffeee69fdc1d98f3fcb7569a4f661",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

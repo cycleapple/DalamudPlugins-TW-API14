@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/YesAlready",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\YesAlready",
+  "results": [
+    {
+      "internalName": "YesAlready",
+      "project": "YesAlready/YesAlready.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\YesAlready.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e0c19a487483f89940eb296fa2b5b683406c6f81",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

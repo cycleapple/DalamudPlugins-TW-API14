@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/FFTriadBuddyDalamud",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\FFTriadBuddyDalamud",
+  "results": [
+    {
+      "internalName": "TriadBuddy",
+      "project": "TriadBuddy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\TriadBuddy.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "ef7605e196d6eb29e2d0f5ef2cf40639621a8be5",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

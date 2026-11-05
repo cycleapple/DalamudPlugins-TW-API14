@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/BossmodReborn",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BossmodReborn",
+  "results": [
+    {
+      "internalName": "BossModReborn",
+      "project": "BossMod/BossModReborn.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BossModReborn.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "76e5afcc2da9fac68091fc3e865406e461f100d4",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

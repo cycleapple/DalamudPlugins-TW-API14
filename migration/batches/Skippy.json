@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Skippy",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Skippy",
+  "results": [
+    {
+      "internalName": "Skippy",
+      "project": "Skippy/Skippy/Skippy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Skippy.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "0e0f89a57d22d343388677fc2c0dbd49e2e4816a",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

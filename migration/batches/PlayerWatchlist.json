@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/PlayerWatchlist",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PlayerWatchlist",
+  "results": [
+    {
+      "internalName": "PlayerWatchlist",
+      "project": "PlayerWatchlist.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PlayerWatchlist.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "483ae3d8fc58d5b8251193720e682d633362efdc",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

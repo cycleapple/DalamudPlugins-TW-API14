@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/aetherment",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\aetherment",
+  "results": [
+    {
+      "internalName": "Aetherment",
+      "project": "plugin/plugin/Aetherment.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Aetherment.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "a2ea539da6a4c0cd41f8699b96b15ddf6a305c6f",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

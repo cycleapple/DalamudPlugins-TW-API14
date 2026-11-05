@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Distance",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Distance",
+  "results": [
+    {
+      "internalName": "Distance",
+      "project": "Distance/Distance.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Distance.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3401bcc1fcfa1f5ad26382f9ab82fd35300e64d0",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

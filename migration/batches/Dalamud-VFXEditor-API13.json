@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Dalamud-VFXEditor-API13",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Dalamud-VFXEditor-API13",
+  "results": [
+    {
+      "internalName": "VFXEditor",
+      "project": "VFXEditor/VFXEditor.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\VFXEditor.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

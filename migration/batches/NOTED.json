@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/NOTED",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NOTED",
+  "results": [
+    {
+      "internalName": "NOTED",
+      "project": "NOTED/NOTED.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\NOTED.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9cbda54ffe7ced16f60735bb8cfcd23ea80d4a53",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

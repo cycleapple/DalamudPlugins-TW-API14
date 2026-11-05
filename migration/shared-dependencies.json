@@ -1,0 +1,56 @@
+[
+  {
+    "repository": "cycleapple/AutoRetainerAPI",
+    "sourceCommit": "c3689ae02cc27ea028265f4a369bba82a30756dd",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_visland\\AutoRetainerAPI",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-AutoRetainerAPI.log",
+    "publishedSource": true,
+    "targetCommit": "567c0eb41ea95dfb293302ff5e855f51ad3065b2"
+  },
+  {
+    "repository": "cycleapple/CriticalCommonLib",
+    "sourceCommit": "de2e3984ccb7a81c7e1eae6cc6dff34ef37f85a2",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\InventoryTools\\CriticalCommonLib",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-CriticalCommonLib.log",
+    "publishedSource": true,
+    "targetCommit": "6dbc4d9967ae435c7e08fc4125bf7879973fd7b7"
+  },
+  {
+    "repository": "cycleapple/ECommons",
+    "sourceCommit": "fdf444c1f8c793fd882b654923ddf451f01e74c2",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Ices-Cosmic-Exploration\\ECommons",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-ECommons.log",
+    "publishedSource": true,
+    "targetCommit": "f240a746d439321e637ebccf579e219b77d82229"
+  },
+  {
+    "repository": "cycleapple/KamiToolKit",
+    "sourceCommit": "76dacbcf4c499007db2f62b63ef9fbbd62f8eb06",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SortaKinda\\KamiToolKit",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-KamiToolKit.log",
+    "publishedSource": true,
+    "targetCommit": "55e18c9d51264ace165201e9f97f8bd5ad5d3f7a"
+  },
+  {
+    "repository": "cycleapple/OtterGui",
+    "sourceCommit": "cf29d2dc04b93e067230192d783f3e97fb2fafd0",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Glamourer\\OtterGui",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-OtterGui.log",
+    "publishedSource": true,
+    "targetCommit": "ca8f1790560e3137401912bf8d1685280a4ed4a4"
+  },
+  {
+    "repository": "cycleapple/Penumbra.GameData",
+    "sourceCommit": "34382a2145de854f307abc08a6e54e35ef322dd6",
+    "consumer": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Penumbra\\Penumbra.GameData",
+    "status": "build-passed",
+    "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\dependency-Penumbra.GameData.log",
+    "publishedSource": true,
+    "targetCommit": "feb6b3e9f23fb800f8104bc502cac3a504d18dcc"
+  }
+]

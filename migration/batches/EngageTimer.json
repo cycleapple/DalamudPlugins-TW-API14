@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/EngageTimer",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EngageTimer",
+  "results": [
+    {
+      "internalName": "EngageTimer",
+      "project": "Plugin/EngageTimer.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\EngageTimer.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "492804f08f6f83a7932acc4fa8631f87214460e0",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

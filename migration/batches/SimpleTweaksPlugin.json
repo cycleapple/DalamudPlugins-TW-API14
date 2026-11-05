@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/SimpleTweaksPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SimpleTweaksPlugin",
+  "results": [
+    {
+      "internalName": "SimpleTweaksPlugin",
+      "project": "SimpleTweaksPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SimpleTweaksPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

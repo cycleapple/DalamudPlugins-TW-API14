@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MidiBard2",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MidiBard2",
+  "results": [
+    {
+      "internalName": "MidiBard2",
+      "project": "Midibard/MidiBard2.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 5.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MidiBard2.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "1f569c8105d426985a6f9a1c0458e1b3ba75ff74",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

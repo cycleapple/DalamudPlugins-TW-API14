@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/VisibilityPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\VisibilityPlugin",
+  "results": [
+    {
+      "internalName": "Visibility",
+      "project": "Visibility/Visibility.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Visibility.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

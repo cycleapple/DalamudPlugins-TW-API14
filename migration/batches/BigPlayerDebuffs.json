@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/BigPlayerDebuffs",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BigPlayerDebuffs",
+  "results": [
+    {
+      "internalName": "BigPlayerDebuffs",
+      "project": "BigPlayerDebuffs.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BigPlayerDebuffs.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "87d86516fdfe9a1815b78c80ab2862eb88b7d4c6",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

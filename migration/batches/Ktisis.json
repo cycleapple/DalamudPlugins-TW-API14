@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Ktisis",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Ktisis",
+  "results": [
+    {
+      "internalName": "Ktisis",
+      "project": "Ktisis/Ktisis.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Ktisis.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv-bundleoftweaks",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-bundleoftweaks",
+  "results": [
+    {
+      "internalName": "Automaton",
+      "project": "ffxiv_bundledtweaks/Automaton.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Automaton.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "ae600e5af80a91741127d52f69e48194ba486b16",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

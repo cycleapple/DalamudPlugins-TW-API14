@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/NotificationMaster",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\NotificationMaster",
+  "results": [
+    {
+      "internalName": "NotificationMaster",
+      "project": "NotificationMaster/NotificationMaster.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\NotificationMaster.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "dba34891268d39ecea96117794caa97771f431af",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/BOCCHI",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\BOCCHI",
+  "results": [
+    {
+      "internalName": "BOCCHI",
+      "project": "BOCCHI/BOCCHI.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BOCCHI.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

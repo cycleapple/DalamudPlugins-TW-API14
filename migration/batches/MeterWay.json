@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MeterWay",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MeterWay",
+  "results": [
+    {
+      "internalName": "MeterWay",
+      "project": "MeterWay/MeterWay.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MeterWay.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

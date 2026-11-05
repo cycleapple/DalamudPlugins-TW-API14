@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Saucy",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Saucy",
+  "results": [
+    {
+      "internalName": "Saucy",
+      "project": "Saucy/Saucy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Saucy.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e1b857f5eae04713f02039a947a6e823f67034ac",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

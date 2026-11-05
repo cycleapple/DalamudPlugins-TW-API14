@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Artisan",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Artisan",
+  "results": [
+    {
+      "internalName": "Artisan",
+      "project": "Artisan/Artisan.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 4.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Artisan.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "efb525a64f5c1d0d430747b75d0119d578058b72",
+  "publishedSource": true,
+  "dependencyPatches": 3
+}

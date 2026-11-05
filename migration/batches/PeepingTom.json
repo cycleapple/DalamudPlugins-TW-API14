@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/PeepingTom",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PeepingTom",
+  "results": [
+    {
+      "internalName": "PeepingTom",
+      "project": "Peeping Tom/Peeping Tom.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PeepingTom.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "38a42e409919c282a647eb74501144f522196a62",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

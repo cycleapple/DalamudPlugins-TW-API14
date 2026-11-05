@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/LMeter_TC",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LMeter_TC",
+  "results": [
+    {
+      "internalName": "LMeter",
+      "project": "LMeter/LMeter.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\LMeter.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

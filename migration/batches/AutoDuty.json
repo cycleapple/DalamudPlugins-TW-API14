@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AutoDuty",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoDuty",
+  "results": [
+    {
+      "internalName": "AutoDuty",
+      "project": "AutoDuty/AutoDuty.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 4.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoDuty.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

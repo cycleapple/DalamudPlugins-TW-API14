@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Facade",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Facade",
+  "results": [
+    {
+      "internalName": "Facade",
+      "project": "Facade.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Facade.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "95125c9a8a6de8726d22c404267ded5589341eae",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

@@ -11,9 +11,12 @@
         "version": "1.0.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "377da77eba5ae7b6c4e3514079d98b99d557f7e9",
+    "buildEvidence": "migration/batches/ActionTimelineReplacement.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Aetherment",
@@ -27,9 +30,12 @@
         "version": "0.4.0.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "a2ea539da6a4c0cd41f8699b96b15ddf6a305c6f",
+    "buildEvidence": "migration/batches/aetherment.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AllaganItemSearch",
@@ -43,9 +49,12 @@
         "version": "1.0.0.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "eed19f659ed32de0a3f3ab336fed5dae9399c6f2",
+    "buildEvidence": "migration/batches/AllaganItemSearch.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AllaganMarket",
@@ -59,9 +68,12 @@
         "version": "1.2.0.9"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9dcc9ec9cc16401854bb0177b359ebad9252ef94",
+    "buildEvidence": "migration/batches/AllaganMarket.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AntiAfkKick-Dalamud",
@@ -75,9 +87,12 @@
         "version": "2.1.0.10"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
+    "buildEvidence": "migration/batches/AntiAfkKick.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Artisan",
@@ -91,9 +106,12 @@
         "version": "4.0.4.26"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "efb525a64f5c1d0d430747b75d0119d578058b72",
+    "buildEvidence": "migration/batches/Artisan.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AutoDuty",
@@ -107,9 +125,12 @@
         "version": "0.0.0.9"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
+    "buildEvidence": "migration/batches/AutoDuty.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AutoHook",
@@ -123,9 +144,12 @@
         "version": "5.0.0.15"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
+    "buildEvidence": "migration/batches/AutoHook.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AutoMinion",
@@ -139,9 +163,12 @@
         "version": "1.0.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "ada328192e8a67d822253b0456d4bc311e330a42",
+    "buildEvidence": "migration/batches/AutoMinion.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "AutoRetainer",
@@ -155,9 +182,12 @@
         "version": "4.5.1.30"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
+    "buildEvidence": "migration/batches/AutoRetainer.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Automaton",
@@ -171,9 +201,12 @@
         "version": "69.103.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "ae600e5af80a91741127d52f69e48194ba486b16",
+    "buildEvidence": "migration/batches/ffxiv-bundleoftweaks.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Avarice",
@@ -187,9 +220,12 @@
         "version": "2.1.1.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "99c0a592a63e8d58082b991b445a9fd774219b41",
+    "buildEvidence": "migration/batches/Avarice.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BDTHPlugin",
@@ -203,9 +239,12 @@
         "version": "1.7.1.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9cd4b64fb1e6dc0caf6eebba73e7ebd1d2112ebf",
+    "buildEvidence": "migration/batches/BDTHPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BOCCHI",
@@ -219,9 +258,12 @@
         "version": "1.0.1.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
+    "buildEvidence": "migration/batches/BOCCHI.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BetterMountRoulette",
@@ -235,9 +277,12 @@
         "version": "1.0.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b1ce50644c224916684dbf561eff0d20484b44dc",
+    "buildEvidence": "migration/batches/BetterMountRoulette.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BigPlayerDebuffs",
@@ -251,9 +296,12 @@
         "version": "1.1.0.14"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "87d86516fdfe9a1815b78c80ab2862eb88b7d4c6",
+    "buildEvidence": "migration/batches/BigPlayerDebuffs.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BossMod",
@@ -267,9 +315,12 @@
         "version": "0.1.4.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
+    "buildEvidence": "migration/batches/ffxiv_bossmod.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "BossModReborn",
@@ -283,9 +334,12 @@
         "version": "7.3.8.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "76e5afcc2da9fac68091fc3e865406e461f100d4",
+    "buildEvidence": "migration/batches/BossmodReborn.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Brio",
@@ -303,9 +357,12 @@
         "version": "0.5.2.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4fbf3bc603022c2e2416b53f13bff212a0ee7e02",
+    "buildEvidence": "migration/batches/Brio.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Cammy",
@@ -319,9 +376,12 @@
         "version": "2.1.0.14"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "464638fa648547141aac9bdc5a1fcc611f5784a5",
+    "buildEvidence": "migration/batches/Cammy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ChatCoordinates",
@@ -335,9 +395,12 @@
         "version": "2.1.2.10"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
+    "buildEvidence": "migration/batches/dalamud-chatcoordinates.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ChatTwo",
@@ -351,9 +414,12 @@
         "version": "1.32.0.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
+    "buildEvidence": "migration/batches/ChatTwo.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ChilledLeves",
@@ -367,9 +433,12 @@
         "version": "1.0.1.22"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "f42356b0b1e97d4595e5710176287245c44c09de",
+    "buildEvidence": "migration/batches/ChilledLeves.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Craftimizer",
@@ -383,9 +452,12 @@
         "version": "2.8.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
+    "buildEvidence": "migration/batches/Craftimizer.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "CrossUp",
@@ -399,9 +471,12 @@
         "version": "1.7.1.14"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3415ef6f859115f22d2a4051a3cc58df49f10ab0",
+    "buildEvidence": "migration/batches/CrossUp.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "CustomResolution2782",
@@ -415,9 +490,12 @@
         "version": "1.0.1.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
+    "buildEvidence": "migration/batches/DP-CustomResolution.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "CustomizePlus",
@@ -431,9 +509,12 @@
         "version": "2.0.7.31"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
+    "buildEvidence": "migration/batches/CustomizePlus.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "DailyDuty",
@@ -447,9 +528,12 @@
         "version": "5.3.2.14"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "1e166ded642acf8526e171210016edcb3e7dfb4e",
+    "buildEvidence": "migration/batches/DailyDuty.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "DeathRecap",
@@ -463,9 +547,12 @@
         "version": "1.13.2.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
+    "buildEvidence": "migration/batches/ffxiv-deathrecap.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "DeepDungeonDex",
@@ -479,9 +566,12 @@
         "version": "2.13.6.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "38a2bc2728dea0ec74dddb741f628c4e83f47473",
+    "buildEvidence": "migration/batches/MonsterDex.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Deliveroo",
@@ -495,9 +585,12 @@
         "version": "7.4.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4050145a7771349eb3d143b136735bb7c2760b6e",
+    "buildEvidence": "migration/batches/Deliveroo.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Distance",
@@ -511,9 +604,12 @@
         "version": "1.1.3.6"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3401bcc1fcfa1f5ad26382f9ab82fd35300e64d0",
+    "buildEvidence": "migration/batches/Distance.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Doorbell",
@@ -527,9 +623,12 @@
         "version": "1.0.4.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "35cdfc53cbb4d71564088680229aefd548aad753",
+    "buildEvidence": "migration/batches/Doorbell.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "DozeAnywhere",
@@ -543,9 +642,12 @@
         "version": "13.1.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "5ba51f2530865aac7d483be221529166dbb6938e",
+    "buildEvidence": "migration/batches/DozeAnywhere.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "EasyEyes",
@@ -559,9 +661,12 @@
         "version": "1.3.1.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "37fe1c153125f21d4d4eaa3774ad635efdc90478",
+    "buildEvidence": "migration/batches/EasyEyes.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "EnemyListDebuffs",
@@ -575,9 +680,12 @@
         "version": "1.13.0.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4e2feeb7e7300b578a54072e34aeca53345b971b",
+    "buildEvidence": "migration/batches/EnemyListDebuffs.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "EngageTimer",
@@ -591,9 +699,12 @@
         "version": "2.4.4.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "492804f08f6f83a7932acc4fa8631f87214460e0",
+    "buildEvidence": "migration/batches/EngageTimer.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "EnmityHp",
@@ -607,9 +718,12 @@
         "version": "2.0.1.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "eef2bf5f730f3b9d4482f77a8bc9a07e697ab65c",
+    "buildEvidence": "migration/batches/EnmityHp.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "EurekaTrackerAutoPopper",
@@ -623,9 +737,12 @@
         "version": "1.5.9.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "cb602d028790b1aaf921ab41f3475b6e38cb5a68",
+    "buildEvidence": "migration/batches/EurekaTrackerAutoPopper.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ExplorersIcebox",
@@ -639,9 +756,12 @@
         "version": "1.0.4.6"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3dc49c761ca34107fed63df39c8195bae767c615",
+    "buildEvidence": "migration/batches/Explorers-Icebox.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "FPSPlugin",
@@ -655,9 +775,12 @@
         "version": "1.7.0.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
+    "buildEvidence": "migration/batches/FPSPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Facade",
@@ -671,9 +794,12 @@
         "version": "1.0.0.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "95125c9a8a6de8726d22c404267ded5589341eae",
+    "buildEvidence": "migration/batches/Facade.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "FlashOnTell",
@@ -687,9 +813,12 @@
         "version": "0.0.9.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "1c09858a7f8a65d743d7a096137f5fce501d2230",
+    "buildEvidence": "migration/batches/Dalamud-FlashOnTellPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "FlyTextFilter",
@@ -703,9 +832,12 @@
         "version": "4.4.0.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "082aac6e98a655ff7753f44c8673c7331e176be9",
+    "buildEvidence": "migration/batches/FlyTextFilter.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Fungah",
@@ -719,9 +851,12 @@
         "version": "1.0.0.7"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
+    "buildEvidence": "migration/batches/Fungah-Totally-Safe-Spot.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "GatherBuddyReborn",
@@ -735,9 +870,12 @@
         "version": "7.3.5.7"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
+    "buildEvidence": "migration/batches/GatherBuddyReborn.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "GatheringPathRenderer",
@@ -751,9 +889,12 @@
         "version": "0.10.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "buildEvidence": "migration/batches/Questionable.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "GaugeOMatic",
@@ -767,9 +908,12 @@
         "version": "0.8.2.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
+    "buildEvidence": "migration/batches/GaugeOMatic.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Gearsetter",
@@ -783,9 +927,12 @@
         "version": "4.0.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "019c292a8c96583f3891fa8d52c7a36368e2e9c8",
+    "buildEvidence": "migration/batches/Gearsetter.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Glamourer",
@@ -803,9 +950,12 @@
         "version": "1.5.0.16"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "50fa8b8248cd8335cb0ba68a08b600f8ad17ec01",
+    "buildEvidence": "migration/batches/Glamourer.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "HighFpsPhysicsPlugin",
@@ -819,9 +969,12 @@
         "version": "8.3.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "1432625f846b866438d287005f241f100da1b9b1",
+    "buildEvidence": "migration/batches/xivlauncher_physics_plugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Honorific",
@@ -835,9 +988,12 @@
         "version": "1.7.1.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
+    "buildEvidence": "migration/batches/Honorific.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Housemate",
@@ -851,9 +1007,12 @@
         "version": "1.0.3.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
+    "buildEvidence": "migration/batches/Housemate.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "HuntBuddy",
@@ -867,9 +1026,12 @@
         "version": "1.2.2.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "28192e8d076316ac88118eb7b7eee69f78d87394",
+    "buildEvidence": "migration/batches/HuntBuddy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Hyperborea",
@@ -883,9 +1045,12 @@
         "version": "1.0.0.33"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "810015c058983111960788d6c00ded34c0565b25",
+    "buildEvidence": "migration/batches/Hyperborea.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ICE",
@@ -899,9 +1064,12 @@
         "version": "0.0.73.52"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
+    "buildEvidence": "migration/batches/Ices-Cosmic-Exploration.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "IINACT",
@@ -915,9 +1083,12 @@
         "version": "1.13.9.7"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "190a782dea3b89e15337905d0023b04d273967e0",
+    "buildEvidence": "migration/batches/IINACT.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "InventoryTools",
@@ -931,9 +1102,12 @@
         "version": "1.13.1.14"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
+    "buildEvidence": "migration/batches/InventoryTools.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "JobBars",
@@ -947,9 +1121,12 @@
         "version": "1.3.2.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
+    "buildEvidence": "migration/batches/JobBars.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Ktisis",
@@ -963,9 +1140,12 @@
         "version": "0.3.14.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
+    "buildEvidence": "migration/batches/Ktisis.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "LMeter",
@@ -979,9 +1159,12 @@
         "version": "1.13.0.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
+    "buildEvidence": "migration/batches/LMeter_TC.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "LazyLoot",
@@ -995,9 +1178,12 @@
         "version": "5.3.2.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
+    "buildEvidence": "migration/batches/LazyLoot.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Lifestream",
@@ -1011,9 +1197,12 @@
         "version": "2.5.3.9"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
+    "buildEvidence": "migration/batches/Lifestream.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "LoporritSync",
@@ -1027,9 +1216,12 @@
         "version": "1.0.9.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3f9eac99de80e78a94bf64a131f379df273b1f70",
+    "buildEvidence": "migration/batches/LopClient.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MapLinker",
@@ -1043,9 +1235,12 @@
         "version": "1.1.11.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
+    "buildEvidence": "migration/batches/MapLinker.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Mappy",
@@ -1059,9 +1254,12 @@
         "version": "3.1.6.12"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "46a5792c62fff43dbc1704a16a92d4e4cab09925",
+    "buildEvidence": "migration/batches/Mappy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MarketBoardPlugin",
@@ -1075,9 +1273,12 @@
         "version": "1.11.0.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "343f09cfd342bc461dd2becb42b64b0c6cad5c19",
+    "buildEvidence": "migration/batches/MarketBoardPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Marketbuddy",
@@ -1091,9 +1292,12 @@
         "version": "0.2.4.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "f6df96f538884670df062ca1c257b9a8217c5196",
+    "buildEvidence": "migration/batches/Marketbuddy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MaskOfKefka",
@@ -1107,9 +1311,12 @@
         "version": "0.2.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
+    "buildEvidence": "migration/batches/mask-of-kefka.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MeterWay",
@@ -1123,9 +1330,12 @@
         "version": "1.0.17.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
+    "buildEvidence": "migration/batches/MeterWay.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MidiBard2",
@@ -1139,9 +1349,12 @@
         "version": "3.2.1.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "1f569c8105d426985a6f9a1c0458e1b3ba75ff74",
+    "buildEvidence": "migration/batches/MidiBard2.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MiniCactpotSolver",
@@ -1155,9 +1368,12 @@
         "version": "3.0.0.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "62eed63019dd99cbf4d82844f8a3630ab9820bd5",
+    "buildEvidence": "migration/batches/EzMiniCactpot.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MissFisher",
@@ -1171,9 +1387,12 @@
         "version": "1.6.5.13"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "official-api14-localized",
+    "build": "official-api14-localized",
+    "runtime": "pending",
+    "sourceCommit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
+    "buildEvidence": "migration/batches/MissFisher.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MouseLock",
@@ -1187,9 +1406,12 @@
         "version": "1.0.0.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
+    "buildEvidence": "migration/batches/MouseLock.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "MultiHit",
@@ -1203,9 +1425,12 @@
         "version": "0.0.4.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
+    "buildEvidence": "migration/batches/MultiHit.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "NOTED",
@@ -1219,9 +1444,12 @@
         "version": "1.6.0.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9cbda54ffe7ced16f60735bb8cfcd23ea80d4a53",
+    "buildEvidence": "migration/batches/NOTED.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Namingway",
@@ -1235,9 +1463,12 @@
         "version": "1.1.17.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "2130a6cff286dfc378d800aee619c042e4830b91",
+    "buildEvidence": "migration/batches/NamingWay.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "NecroLens",
@@ -1251,9 +1482,12 @@
         "version": "1.0.8.13"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e34694fbd0a3bb17e0f82fa76e8a4cc0f1e43270",
+    "buildEvidence": "migration/batches/NecroLens.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "NoClippy",
@@ -1267,9 +1501,12 @@
         "version": "0.5.0.20"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "73a73a9a69b19acd826fe9e514c5523a06eed35d",
+    "buildEvidence": "migration/batches/NoClippy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "NotificationMaster",
@@ -1283,9 +1520,12 @@
         "version": "2.1.1.13"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "dba34891268d39ecea96117794caa97771f431af",
+    "buildEvidence": "migration/batches/NotificationMaster.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Orbwalker",
@@ -1299,9 +1539,12 @@
         "version": "1.0.1.7"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "2ff1b8141c54b05c065d55245f113a3400c715de",
+    "buildEvidence": "migration/batches/Orbwalker.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PalacePal",
@@ -1315,9 +1558,12 @@
         "version": "4.14.0.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3fbb22b94f90ff77b5f954a37d903a9328fb5955",
+    "buildEvidence": "migration/batches/PalacePal.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PandorasBox",
@@ -1331,9 +1577,12 @@
         "version": "1.6.3.19"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
+    "buildEvidence": "migration/batches/PandorasBox.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PartyIcons",
@@ -1347,9 +1596,12 @@
         "version": "1.2.3.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "237fbbf6ecaaa5ffc63884b55b92d0e2d7f845ff",
+    "buildEvidence": "migration/batches/xivPartyIcons.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PeepingTom",
@@ -1363,9 +1615,12 @@
         "version": "1.7.13.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "38a42e409919c282a647eb74501144f522196a62",
+    "buildEvidence": "migration/batches/PeepingTom.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PennyPincher",
@@ -1379,9 +1634,12 @@
         "version": "1.8.0.6"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4b078f61e886862a99346e8918a1a9d6ae2f17ba",
+    "buildEvidence": "migration/batches/PennyPincher.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Penumbra",
@@ -1395,9 +1653,12 @@
         "version": "1.5.1.26"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
+    "buildEvidence": "migration/batches/Penumbra.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PingPlugin",
@@ -1411,9 +1672,12 @@
         "version": "2.9.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "c30ed86542bd50aa76a2df36d1383ffc94c685ef",
+    "buildEvidence": "migration/batches/PingPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PixelPerfect",
@@ -1427,9 +1691,12 @@
         "version": "3.3.2.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "36c28fcf179710d3157bcd3a5e61f975619190cd",
+    "buildEvidence": "migration/batches/PixelPerfect.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PlayerWatchlist",
@@ -1444,10 +1711,12 @@
       }
     ],
     "status": "build-passed",
-    "build": "upstream-api14-passed",
-    "runtime": "not-run",
-    "sourceCommit": "2d9c8049095c4305f30f51a5e3becea65e83ae5b",
-    "evidence": "migration/evidence/PlayerWatchlist.json"
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "483ae3d8fc58d5b8251193720e682d633362efdc",
+    "evidence": "migration/evidence/PlayerWatchlist.json",
+    "buildEvidence": "migration/batches/PlayerWatchlist.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PocketRecorder",
@@ -1461,9 +1730,12 @@
         "version": "1.0.5.23"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "5253ef809dd6dd4b6d581275ce9c0da80863049d",
+    "buildEvidence": "migration/batches/PocketRecorder.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "PriceInsight",
@@ -1477,9 +1749,12 @@
         "version": "2.11.3.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "bfb5ad07728073e1155f29923e29d1147877867a",
+    "buildEvidence": "migration/batches/ffxiv-priceinsight.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "QoLBar",
@@ -1493,9 +1768,12 @@
         "version": "2.3.3.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "19c26872c0f14b61c1c2d0ec08efe3673d61f8b2",
+    "buildEvidence": "migration/batches/QoLBar.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Questionable",
@@ -1509,9 +1787,12 @@
         "version": "13.68.129.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "buildEvidence": "migration/batches/Questionable.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "RadarPlugin",
@@ -1525,9 +1806,12 @@
         "version": "2.1.8.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "6d46b18f3e7ed6869d19110c1d3152c8350b80e1",
+    "buildEvidence": "migration/batches/RadarPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Raphael.Dalamud",
@@ -1541,9 +1825,12 @@
         "version": "0.0.5.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
+    "buildEvidence": "migration/batches/Raphael.Dalamud.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ReAction",
@@ -1557,9 +1844,12 @@
         "version": "1.3.4.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9af44cbe2372e29e963a8f58237bd77306b7881b",
+    "buildEvidence": "migration/batches/ReAction.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ReMakePlacePlugin",
@@ -1573,9 +1863,12 @@
         "version": "7.3.4.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "bbeee9ae78c427d3b853c01d462687fc8c0a8ee0",
+    "buildEvidence": "migration/batches/ReMakePlacePlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "RezPls",
@@ -1589,9 +1882,12 @@
         "version": "1.5.2.3"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4b59027736755d1eb0139cb93f37e804ae3df8fb",
+    "buildEvidence": "migration/batches/RezPls.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "RotationSolver",
@@ -1605,9 +1901,12 @@
         "version": "7.3.5.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
+    "buildEvidence": "migration/batches/RotationSolverReborn.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Saucy",
@@ -1621,9 +1920,12 @@
         "version": "1.4.2.9"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e1b857f5eae04713f02039a947a6e823f67034ac",
+    "buildEvidence": "migration/batches/Saucy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SimpleHeels",
@@ -1637,9 +1939,12 @@
         "version": "0.10.7.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9e13a34b6aeed2019d7778b0e47ae089ef3dc134",
+    "buildEvidence": "migration/batches/SimpleHeels.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SimpleTweaksPlugin",
@@ -1653,9 +1958,12 @@
         "version": "1.10.11.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
+    "buildEvidence": "migration/batches/SimpleTweaksPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Skippy",
@@ -1669,9 +1977,12 @@
         "version": "1.2.2.9"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "0e0f89a57d22d343388677fc2c0dbd49e2e4816a",
+    "buildEvidence": "migration/batches/Skippy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SomethingNeedDoing",
@@ -1685,9 +1996,12 @@
         "version": "0.0.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
+    "buildEvidence": "migration/batches/SomethingNeedDoing.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SonarPlugin",
@@ -1701,9 +2015,12 @@
         "version": "0.7.4.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
+    "buildEvidence": "migration/batches/SonarDistrib.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SortaKinda",
@@ -1717,9 +2034,12 @@
         "version": "2.1.1.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
+    "buildEvidence": "migration/batches/SortaKinda.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Splatoon",
@@ -1733,9 +2053,12 @@
         "version": "3.8.2.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
+    "buildEvidence": "migration/batches/Splatoon.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "SubmarineTracker",
@@ -1749,9 +2072,12 @@
         "version": "2.0.2.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "9c7494714914cd07688be720a36451fe32bcb8ff",
+    "buildEvidence": "migration/batches/SubmarineTracker.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "TeleporterPlugin",
@@ -1765,9 +2091,12 @@
         "version": "2.0.2.11"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e4b2cb0c2bf0904603db0a9b199c11afa981ca3c",
+    "buildEvidence": "migration/batches/TeleporterPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "TextAdvance",
@@ -1781,9 +2110,12 @@
         "version": "3.2.4.8"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "518009fa0fcaa92fb892545911571735dabb6c78",
+    "buildEvidence": "migration/batches/TextAdvance.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "TitleEdit",
@@ -1797,9 +2129,12 @@
         "version": "3.0.6.22"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "785a2cf61f2ffeee69fdc1d98f3fcb7569a4f661",
+    "buildEvidence": "migration/batches/TitleEdit.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "TriadBuddy",
@@ -1813,9 +2148,12 @@
         "version": "1.13.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "ef7605e196d6eb29e2d0f5ef2cf40639621a8be5",
+    "buildEvidence": "migration/batches/FFTriadBuddyDalamud.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Umbra",
@@ -1829,9 +2167,12 @@
         "version": "3.1.7.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "145c11985cfef117c943761a198422c40cc07ef1",
+    "buildEvidence": "migration/batches/umbra.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "VFXEditor",
@@ -1845,9 +2186,12 @@
         "version": "1.9.2.10"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
+    "buildEvidence": "migration/batches/Dalamud-VFXEditor-API13.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "Visibility",
@@ -1861,9 +2205,12 @@
         "version": "1.1.9.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
+    "buildEvidence": "migration/batches/VisibilityPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "WaymarkPresetPlugin",
@@ -1877,9 +2224,12 @@
         "version": "1.5.5.0"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "66e79d295b58938b9e93e6d5fdb12734455d0197",
+    "buildEvidence": "migration/batches/WaymarkPresetPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "WrathCombo",
@@ -1893,9 +2243,12 @@
         "version": "1.0.1.25"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "126b54451865c6df915df1b06fe14f1579cc3674",
+    "buildEvidence": "migration/batches/WrathCombo.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "XivTreasureParty",
@@ -1909,9 +2262,12 @@
         "version": "0.1.9.4"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
+    "buildEvidence": "migration/batches/xiv-party-treasure-helper.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "YesAlready",
@@ -1925,9 +2281,12 @@
         "version": "0.0.0.1"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e0c19a487483f89940eb296fa2b5b683406c6f81",
+    "buildEvidence": "migration/batches/YesAlready.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "ZodiacBuddy",
@@ -1941,9 +2300,12 @@
         "version": "1.13.0.2"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "e8ef85d79b7b66ae6766effef701a9b658e729bc",
+    "buildEvidence": "migration/batches/ZodiacBuddy.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "orchestrion",
@@ -1957,9 +2319,12 @@
         "version": "2.2.0.13"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
+    "buildEvidence": "migration/batches/OrchestrionPlugin.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "vfaux",
@@ -1973,9 +2338,12 @@
         "version": "0.0.0.11"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
+    "buildEvidence": "migration/batches/vfaux.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "visland",
@@ -1989,9 +2357,12 @@
         "version": "0.0.0.139"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "4950bc40be9468ee94b6cd4be7a60d7968ddc89b",
+    "buildEvidence": "migration/batches/ffxiv_visland.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   },
   {
     "internalName": "vnavmesh",
@@ -2005,8 +2376,11 @@
         "version": "1.1.2.5"
       }
     ],
-    "status": "queued",
-    "build": "not-run",
-    "runtime": "not-run"
+    "status": "build-passed",
+    "build": "passed",
+    "runtime": "pending",
+    "sourceCommit": "731be4ea3953ea235b7f590791764dae02939020",
+    "buildEvidence": "migration/batches/ffxiv_navmesh.json",
+    "assemblyEvidence": "migration/assembly-audit.json"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Raphael.Dalamud",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Raphael.Dalamud",
+  "results": [
+    {
+      "internalName": "Raphael.Dalamud",
+      "project": "Raphael.Dalamud/Raphael.Dalamud.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Raphael.Dalamud.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

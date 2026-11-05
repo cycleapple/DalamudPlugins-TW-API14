@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/xiv-party-treasure-helper",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\xiv-party-treasure-helper",
+  "results": [
+    {
+      "internalName": "XivTreasureParty",
+      "project": "XivTreasureParty/XivTreasureParty.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\XivTreasureParty.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

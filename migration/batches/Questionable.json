@@ -1,0 +1,28 @@
+{
+  "repository": "cycleapple/Questionable",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Questionable",
+  "results": [
+    {
+      "internalName": "GatheringPathRenderer",
+      "project": "GatheringPathRenderer/GatheringPathRenderer.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\GatheringPathRenderer.log"
+    },
+    {
+      "internalName": "Questionable",
+      "project": "Questionable/Questionable.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Questionable.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+  "publishedSource": true,
+  "dependencyPatches": 3
+}

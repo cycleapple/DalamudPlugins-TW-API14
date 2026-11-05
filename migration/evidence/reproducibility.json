@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "cycleapple/InventoryTools",
+    "sourceCommit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
+    "source": "fresh GitHub clone",
+    "build": "passed",
+    "command": ".api14/build.ps1 -DalamudHome <pinned-api14> -Dotnet <SDK10>",
+    "checks": [
+      "recursive pinned submodule initialization",
+      "SHA256 and patch applicability",
+      "Release build"
+    ],
+    "tcRuntime": "pending"
+  },
+  {
+    "repository": "cycleapple/Questionable",
+    "sourceCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
+    "source": "fresh GitHub clone",
+    "build": "passed",
+    "command": ".api14/build.ps1 -DalamudHome <pinned-api14> -Dotnet <SDK10>",
+    "checks": [
+      "recursive pinned submodule initialization",
+      "SHA256 and patch applicability",
+      "Release build"
+    ],
+    "tcRuntime": "pending"
+  }
+]

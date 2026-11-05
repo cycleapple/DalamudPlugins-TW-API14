@@ -34,6 +34,21 @@ def main():
     for plugin in plugins:
         require(plugin.get("repository") and plugin["repository"].lower() in repositories,
                 f"Plugin missing source branch: {plugin['internalName']}")
+    audit_path = ROOT / "migration/assembly-audit.json"
+    if audit_path.exists():
+        audit = read("migration/assembly-audit.json")
+        require(len(audit) == len(names) and {x['name'] for x in audit} == set(names), "Assembly audit coverage mismatch")
+        for assembly in audit:
+            require(assembly['references'].get('Dalamud', '').startswith('14.'), "Non-API14 main DLL")
+            require(assembly['references'].get('System.Runtime', '').startswith('10.'), "Non-.NET10 main DLL")
+        for assembly in read("migration/dependency-audit.json"):
+            version = assembly['references'].get('Dalamud')
+            require(not version or version.startswith('14.'), "Non-API14 bundled Dalamud reference")
+        refs = {x['repository']: x for x in read('migration/remote-refs.json')}
+        require(len(refs) == len(projects), "Remote ref coverage mismatch")
+        for project in projects:
+            ref = refs[project['repository']]
+            require(ref['matchesLocal'] and ref['commit'] == project['targetCommit'], "Remote source head mismatch")
     catalog = read("repo.json")
     ids = [p["InternalName"] for p in catalog]
     require(len(ids) == len(set(ids)), "Duplicate feed InternalName")

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AntiAfkKick",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AntiAfkKick",
+  "results": [
+    {
+      "internalName": "AntiAfkKick-Dalamud",
+      "project": "AntiAfkKick-Dalamud/AntiAfkKick-Dalamud.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AntiAfkKick-Dalamud.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

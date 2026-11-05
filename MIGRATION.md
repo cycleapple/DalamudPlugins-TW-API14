@@ -1,5 +1,17 @@
 # API14 移植工作流程
 
+## 已完成的預備移植
+
+124 個開源插件已通過上游 API14 建置，其中 PocketRecorder 的完整 C#／原生 C++、測試與打包由 Windows CI 驗證。MissFisher 主程式未開源，使用保留官方歷史的鏡像取得 API14 1.9.17.1，驗證 SHA256 及實際 DLL 參照後移植繁中資源，產生 1.9.17.2；方法內容與非語系資源保持一致。
+
+125 個主 DLL 及 868 個受控輸出已檢查實際參照。六個共用依賴已建置；Dalamud 與 FFXIVClientStructs 的台服分支保留平台追蹤狀態，不能以變更 API 數字替代台服原生結構驗證。所有插件的台服實機驗證仍待 API14 環境。
+
+移植涵蓋 .NET 10、SDK、服務介面、原生型別、Excel row／subrow、UI 與跨插件相依。子模組保留原始固定 commit，API14 差異以 `.api14/patches/` 記錄雜湊並由建置腳本套用；新加入的來源相依同樣固定版本。原 API13 checkout 不切換。
+
+InventoryTools 與 Questionable 的 GitHub 乾淨副本已成功初始化子模組、套用固定修正並完成 Release 建置（Questionable 包含 GatheringPathRenderer）。此項驗證確認修正可重現，不代表原生功能已通過遊戲內測試。
+
+部分資料在上游已移除，例如補充資料庫不再提供地城寶箱座標；移植版保留寶箱識別與副本資訊並移除無效座標顯示。SharpDX 使用明確的私有套件相依，避免依靠 API14 不再隨附的檔案。MissFisher 新增 414 個字串由 OpenCC 轉換，仍需人工用語審閱。
+
 ## 基線與順序
 
 1. 確認台服 API14 Dalamud、對應 FFXIVClientStructs、Lumina 與 ImGui bindings 的固定版本。

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/GaugeOMatic",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\GaugeOMatic",
+  "results": [
+    {
+      "internalName": "GaugeOMatic",
+      "project": "GaugeOMatic/GaugeOMatic.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\GaugeOMatic.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

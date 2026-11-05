@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AutoRetainer",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoRetainer",
+  "results": [
+    {
+      "internalName": "AutoRetainer",
+      "project": "AutoRetainer/AutoRetainer.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.0,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoRetainer.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
+  "publishedSource": true,
+  "dependencyPatches": 10
+}

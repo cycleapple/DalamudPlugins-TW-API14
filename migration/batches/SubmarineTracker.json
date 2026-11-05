@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/SubmarineTracker",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SubmarineTracker",
+  "results": [
+    {
+      "internalName": "SubmarineTracker",
+      "project": "SubmarineTracker/SubmarineTracker.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SubmarineTracker.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9c7494714914cd07688be720a36451fe32bcb8ff",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

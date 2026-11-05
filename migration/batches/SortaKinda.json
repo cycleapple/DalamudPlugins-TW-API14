@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/SortaKinda",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SortaKinda",
+  "results": [
+    {
+      "internalName": "SortaKinda",
+      "project": "SortaKinda/SortaKinda.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SortaKinda.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv_bossmod",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv_bossmod",
+  "results": [
+    {
+      "internalName": "BossMod",
+      "project": "BossMod/BossMod.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\BossMod.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/EurekaTrackerAutoPopper",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\EurekaTrackerAutoPopper",
+  "results": [
+    {
+      "internalName": "EurekaTrackerAutoPopper",
+      "project": "EurekaTrackerAutoPopper/EurekaTrackerAutoPopper.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.5,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\EurekaTrackerAutoPopper.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "cb602d028790b1aaf921ab41f3475b6e38cb5a68",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

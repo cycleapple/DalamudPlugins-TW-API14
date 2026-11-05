@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/LopClient",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\LopClient",
+  "results": [
+    {
+      "internalName": "LoporritSync",
+      "project": "MareSynchronos/MareSynchronos.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 8.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\LoporritSync.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3f9eac99de80e78a94bf64a131f379df273b1f70",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Craftimizer",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Craftimizer",
+  "results": [
+    {
+      "internalName": "Craftimizer",
+      "project": "Craftimizer/Craftimizer.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 4.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Craftimizer.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

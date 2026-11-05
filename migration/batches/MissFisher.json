@@ -1,0 +1,16 @@
+{
+  "repository": "cycleapple/MissFisher",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MissFisher",
+  "results": [
+    {
+      "internalName": "MissFisher",
+      "status": "official-api14-localized",
+      "evidence": "migration/evidence/MissFisher.json"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
+  "publishedSource": true
+}

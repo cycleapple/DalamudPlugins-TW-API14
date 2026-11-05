@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MapLinker",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MapLinker",
+  "results": [
+    {
+      "internalName": "MapLinker",
+      "project": "MapLinker/MapLinker.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MapLinker.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

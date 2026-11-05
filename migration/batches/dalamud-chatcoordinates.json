@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/dalamud-chatcoordinates",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\dalamud-chatcoordinates",
+  "results": [
+    {
+      "internalName": "ChatCoordinates",
+      "project": "ChatCoordinates/ChatCoordinates.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ChatCoordinates.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

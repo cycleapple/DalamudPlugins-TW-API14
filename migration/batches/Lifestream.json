@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Lifestream",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Lifestream",
+  "results": [
+    {
+      "internalName": "Lifestream",
+      "project": "Lifestream/Lifestream.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Lifestream.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
+  "publishedSource": true,
+  "dependencyPatches": 9
+}

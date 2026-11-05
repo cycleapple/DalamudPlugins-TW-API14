@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/GatherBuddyReborn",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\GatherBuddyReborn",
+  "results": [
+    {
+      "internalName": "GatherBuddyReborn",
+      "project": "GatherBuddy/GatherBuddy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 5.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\GatherBuddyReborn.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
+  "publishedSource": true,
+  "dependencyPatches": 3
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Ices-Cosmic-Exploration",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Ices-Cosmic-Exploration",
+  "results": [
+    {
+      "internalName": "ICE",
+      "project": "ICE/ICE.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.4,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ICE.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

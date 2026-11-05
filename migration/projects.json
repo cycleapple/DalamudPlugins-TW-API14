@@ -9,10 +9,11 @@
     "sourceCommit": "bbbeb5c36f08e9c78ad539df2120dac7f6d99628",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "bbbeb5c36f08e9c78ad539df2120dac7f6d99628",
+    "targetCommit": "377da77eba5ae7b6c4e3514079d98b99d557f7e9",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\ActionTimelineReplacement"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/aetherment",
@@ -24,10 +25,11 @@
     "sourceCommit": "5146f745673ff78a614deee731f800600dc33b7e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "5146f745673ff78a614deee731f800600dc33b7e",
+    "targetCommit": "a2ea539da6a4c0cd41f8699b96b15ddf6a305c6f",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\aetherment"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AllaganItemSearch",
@@ -39,10 +41,11 @@
     "sourceCommit": "ec56178ea99a14a22b87b9706124c83296371341",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "ec56178ea99a14a22b87b9706124c83296371341",
+    "targetCommit": "eed19f659ed32de0a3f3ab336fed5dae9399c6f2",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AllaganItemSearch"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AllaganMarket",
@@ -54,10 +57,11 @@
     "sourceCommit": "9c7a9c84b91db423ca48fd14e3ad908c8fee2739",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9c7a9c84b91db423ca48fd14e3ad908c8fee2739",
+    "targetCommit": "9dcc9ec9cc16401854bb0177b359ebad9252ef94",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AllaganMarket"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AntiAfkKick",
@@ -69,10 +73,11 @@
     "sourceCommit": "8689ea76f529bdc8f84a70b067e336f82b5a0a02",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "8689ea76f529bdc8f84a70b067e336f82b5a0a02",
+    "targetCommit": "76ae6ed0ad1502f6529037b2a87b79586ecb8abb",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AntiAfkKick"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Artisan",
@@ -84,10 +89,11 @@
     "sourceCommit": "68fc306a49280bb6539653aaa81f9f5ac7378fba",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "68fc306a49280bb6539653aaa81f9f5ac7378fba",
+    "targetCommit": "efb525a64f5c1d0d430747b75d0119d578058b72",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Artisan"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AutoDuty",
@@ -99,10 +105,11 @@
     "sourceCommit": "6577a44e091ca6414dc7ed0e8aabe74ac288b0f7",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6577a44e091ca6414dc7ed0e8aabe74ac288b0f7",
+    "targetCommit": "7ec9d0175971fa70304a3b04022b21f76011a7ef",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AutoDuty"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AutoHook",
@@ -114,10 +121,11 @@
     "sourceCommit": "2cf599e05466a4c8708006858f11afc3e4361ca5",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "2cf599e05466a4c8708006858f11afc3e4361ca5",
+    "targetCommit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AutoHook"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AutoMinion",
@@ -129,10 +137,11 @@
     "sourceCommit": "e1e208b782e0d1e9c031140211bf3dfe391526b6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "e1e208b782e0d1e9c031140211bf3dfe391526b6",
+    "targetCommit": "ada328192e8a67d822253b0456d4bc311e330a42",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AutoMinion"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AutoRetainer",
@@ -144,10 +153,11 @@
     "sourceCommit": "0747a7f111d4f85f6281b0402dca5f15ae920cfa",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0747a7f111d4f85f6281b0402dca5f15ae920cfa",
+    "targetCommit": "d94591bfbe0f7b3579233054bb0a9000ef61f226",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\AutoRetainer"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/AutoRetainerAPI",
@@ -157,8 +167,9 @@
     "sourceCommit": "c3689ae02cc27ea028265f4a369bba82a30756dd",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c3689ae02cc27ea028265f4a369bba82a30756dd",
-    "localCheckouts": []
+    "targetCommit": "567c0eb41ea95dfb293302ff5e855f51ad3065b2",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Avarice",
@@ -170,10 +181,11 @@
     "sourceCommit": "de779d908fc969581c131dbf0acc3984c05bdf6a",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "de779d908fc969581c131dbf0acc3984c05bdf6a",
+    "targetCommit": "99c0a592a63e8d58082b991b445a9fd774219b41",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Avarice"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/BDTHPlugin",
@@ -185,10 +197,11 @@
     "sourceCommit": "e1f7d27f0b9c2d2e65d41aa6bd4a9bc018434187",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "e1f7d27f0b9c2d2e65d41aa6bd4a9bc018434187",
+    "targetCommit": "9cd4b64fb1e6dc0caf6eebba73e7ebd1d2112ebf",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\BDTHPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/BetterMountRoulette",
@@ -200,10 +213,11 @@
     "sourceCommit": "8f8260e1930f4cb094b381faeaaab1fd588af8f2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "8f8260e1930f4cb094b381faeaaab1fd588af8f2",
+    "targetCommit": "b1ce50644c224916684dbf561eff0d20484b44dc",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\BetterMountRoulette"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/BigPlayerDebuffs",
@@ -215,10 +229,11 @@
     "sourceCommit": "291d248413aa9d67579276d0d307a6dda3ca1156",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "291d248413aa9d67579276d0d307a6dda3ca1156",
+    "targetCommit": "87d86516fdfe9a1815b78c80ab2862eb88b7d4c6",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\BigPlayerDebuffs"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/BOCCHI",
@@ -230,10 +245,11 @@
     "sourceCommit": "4b6f54d3d89c78bd672dd5554c4f3b7bede70c23",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "4b6f54d3d89c78bd672dd5554c4f3b7bede70c23",
+    "targetCommit": "888fb50a664b75a65b4a0729dcc8d70978d06f11",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\BOCCHI"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/BossmodReborn",
@@ -245,10 +261,11 @@
     "sourceCommit": "b838d4cccb8386df69de30d125c74a76bfc7155f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "b838d4cccb8386df69de30d125c74a76bfc7155f",
+    "targetCommit": "76e5afcc2da9fac68091fc3e865406e461f100d4",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\BossmodReborn"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Brio",
@@ -260,10 +277,11 @@
     "sourceCommit": "6d4e3bdb8ba37e6a159047c5bea0b804df42ddb2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6d4e3bdb8ba37e6a159047c5bea0b804df42ddb2",
+    "targetCommit": "4fbf3bc603022c2e2416b53f13bff212a0ee7e02",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\Brio"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Cammy",
@@ -275,10 +293,11 @@
     "sourceCommit": "19960570c949e1e145c70ca92c65fe4ec2eadca0",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "19960570c949e1e145c70ca92c65fe4ec2eadca0",
+    "targetCommit": "464638fa648547141aac9bdc5a1fcc611f5784a5",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Cammy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ChatTwo",
@@ -290,10 +309,11 @@
     "sourceCommit": "0b7b5edb1ee409be843aee92bb7e4acecca54242",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0b7b5edb1ee409be843aee92bb7e4acecca54242",
+    "targetCommit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ChatTwo"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ChilledLeves",
@@ -305,10 +325,11 @@
     "sourceCommit": "70db34a6b242350a295551ac244204bd7a1c8805",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "70db34a6b242350a295551ac244204bd7a1c8805",
+    "targetCommit": "f42356b0b1e97d4595e5710176287245c44c09de",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ChilledLeves"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Craftimizer",
@@ -320,10 +341,11 @@
     "sourceCommit": "6edb3617ce55bc537070f3e9cb3a94d91040d7b4",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6edb3617ce55bc537070f3e9cb3a94d91040d7b4",
+    "targetCommit": "807a290f7f03fb049af125ea4c2d5711ae31b312",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Craftimizer"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/CriticalCommonLib",
@@ -333,8 +355,9 @@
     "sourceCommit": "de2e3984ccb7a81c7e1eae6cc6dff34ef37f85a2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "de2e3984ccb7a81c7e1eae6cc6dff34ef37f85a2",
-    "localCheckouts": []
+    "targetCommit": "6dbc4d9967ae435c7e08fc4125bf7879973fd7b7",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/CrossUp",
@@ -346,10 +369,11 @@
     "sourceCommit": "c66ec1f93bb59fa337bd9e470dec0bbe6b52f849",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c66ec1f93bb59fa337bd9e470dec0bbe6b52f849",
+    "targetCommit": "3415ef6f859115f22d2a4051a3cc58df49f10ab0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\CrossUp"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/CustomizePlus",
@@ -361,10 +385,11 @@
     "sourceCommit": "613ab9500d4dd39e98af017753620b14a57bec6e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "613ab9500d4dd39e98af017753620b14a57bec6e",
+    "targetCommit": "d60168c2cbc6318e15ed073131f01ed9ef82f23b",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\CustomizePlus"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/DailyDuty",
@@ -376,10 +401,11 @@
     "sourceCommit": "0c4ba7a01127fb6349e098017e785b398c771287",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0c4ba7a01127fb6349e098017e785b398c771287",
+    "targetCommit": "1e166ded642acf8526e171210016edcb3e7dfb4e",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\DailyDuty-agent"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Dalamud",
@@ -390,7 +416,8 @@
     "targetBranch": "api14-tw",
     "status": "branch-exists",
     "targetCommit": "128847497eb255fc4c6b8121a0211587cb825c5d",
-    "localCheckouts": []
+    "localCheckouts": [],
+    "portStatus": "platform-tracking"
   },
   {
     "repository": "cycleapple/dalamud-chatcoordinates",
@@ -402,10 +429,11 @@
     "sourceCommit": "eeb5db3f185019345f874e1946eb206857b20a00",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "eeb5db3f185019345f874e1946eb206857b20a00",
+    "targetCommit": "b0f3940b44fe21e29413c0c2c86334faf654bb94",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ChatCoordinates"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Dalamud-FlashOnTellPlugin",
@@ -417,10 +445,11 @@
     "sourceCommit": "594d7df644da98a7f7aa43b0bba4d5eb9223d9b5",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "594d7df644da98a7f7aa43b0bba4d5eb9223d9b5",
+    "targetCommit": "1c09858a7f8a65d743d7a096137f5fce501d2230",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Dalamud-FlashOnTellPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Dalamud-VFXEditor-API13",
@@ -432,10 +461,11 @@
     "sourceCommit": "e33fe0026779c413c6e20fbc76a94335f3f79d36",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "e33fe0026779c413c6e20fbc76a94335f3f79d36",
+    "targetCommit": "69f0d43df3ca3f7a4c38aeb06bb623d01773ec71",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\VFXEditor-API13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Deliveroo",
@@ -447,10 +477,11 @@
     "sourceCommit": "46dd63279259ba19546d53e4c49e25760fa3c644",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "46dd63279259ba19546d53e4c49e25760fa3c644",
+    "targetCommit": "4050145a7771349eb3d143b136735bb7c2760b6e",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Deliveroo"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Distance",
@@ -462,10 +493,11 @@
     "sourceCommit": "72b4d0df35f170b5cfadc4afeff4f04f1260ceb6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "72b4d0df35f170b5cfadc4afeff4f04f1260ceb6",
+    "targetCommit": "3401bcc1fcfa1f5ad26382f9ab82fd35300e64d0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Distance"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Doorbell",
@@ -477,10 +509,11 @@
     "sourceCommit": "9b595811b2edac6ffc2668c1b2cd015a16e6a1cc",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9b595811b2edac6ffc2668c1b2cd015a16e6a1cc",
+    "targetCommit": "35cdfc53cbb4d71564088680229aefd548aad753",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Doorbell"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/DozeAnywhere",
@@ -492,10 +525,11 @@
     "sourceCommit": "6da8ef198892494aab88548ca352d26074d6f238",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6da8ef198892494aab88548ca352d26074d6f238",
+    "targetCommit": "5ba51f2530865aac7d483be221529166dbb6938e",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\DozeAnywhereWarp"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/DP-CustomResolution",
@@ -507,10 +541,11 @@
     "sourceCommit": "fd83a52b1b394e243e51a36a44fb5438829a041d",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "fd83a52b1b394e243e51a36a44fb5438829a041d",
+    "targetCommit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\DP-CustomResolution"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EasyEyes",
@@ -522,10 +557,11 @@
     "sourceCommit": "fdab548c0381c2b1bc2665a6d150cd9a5c1557ae",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "fdab548c0381c2b1bc2665a6d150cd9a5c1557ae",
+    "targetCommit": "37fe1c153125f21d4d4eaa3774ad635efdc90478",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\EasyEyes"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ECommons",
@@ -535,8 +571,9 @@
     "sourceCommit": "fdf444c1f8c793fd882b654923ddf451f01e74c2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "fdf444c1f8c793fd882b654923ddf451f01e74c2",
-    "localCheckouts": []
+    "targetCommit": "f240a746d439321e637ebccf579e219b77d82229",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EnemyListDebuffs",
@@ -548,10 +585,11 @@
     "sourceCommit": "3de258de9fa428cb643c3629061ff99cdfbc9a3c",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "3de258de9fa428cb643c3629061ff99cdfbc9a3c",
+    "targetCommit": "4e2feeb7e7300b578a54072e34aeca53345b971b",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\EnemyListDebuffs"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EngageTimer",
@@ -563,10 +601,11 @@
     "sourceCommit": "fc94da824a1e6462a7fe62ff99b527439440d3e2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "fc94da824a1e6462a7fe62ff99b527439440d3e2",
+    "targetCommit": "492804f08f6f83a7932acc4fa8631f87214460e0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\EngageTimer"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EnmityHp",
@@ -578,10 +617,11 @@
     "sourceCommit": "75b9afa3bc41c9477670e78586411a304830183f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "75b9afa3bc41c9477670e78586411a304830183f",
+    "targetCommit": "eef2bf5f730f3b9d4482f77a8bc9a07e697ab65c",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\EnemyListHP"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EurekaTrackerAutoPopper",
@@ -593,10 +633,11 @@
     "sourceCommit": "ecd774f83429363c056e2b4f7bfb6f932cde1c3f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "ecd774f83429363c056e2b4f7bfb6f932cde1c3f",
+    "targetCommit": "cb602d028790b1aaf921ab41f3475b6e38cb5a68",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\EurekaTrackerAutoPopper"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Explorers-Icebox",
@@ -608,10 +649,11 @@
     "sourceCommit": "c8c71dd800a350411603209e803d9e46032c3e9d",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c8c71dd800a350411603209e803d9e46032c3e9d",
+    "targetCommit": "3dc49c761ca34107fed63df39c8195bae767c615",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ExplorersIcebox-api13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/EzMiniCactpot",
@@ -623,10 +665,11 @@
     "sourceCommit": "eef2252cbbbf207a11e16266b29fd3e2c10b8eb6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "eef2252cbbbf207a11e16266b29fd3e2c10b8eb6",
+    "targetCommit": "62eed63019dd99cbf4d82844f8a3630ab9820bd5",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MiniCactpotSolver"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Facade",
@@ -638,10 +681,11 @@
     "sourceCommit": "655895424a94dd1f01248abdbe05349b7fa10c20",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "655895424a94dd1f01248abdbe05349b7fa10c20",
+    "targetCommit": "95125c9a8a6de8726d22c404267ded5589341eae",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\Facade-API13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/FFTriadBuddyDalamud",
@@ -653,10 +697,11 @@
     "sourceCommit": "9dbf1329afb4c79f362ed141dd684a47d002e996",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9dbf1329afb4c79f362ed141dd684a47d002e996",
+    "targetCommit": "ef7605e196d6eb29e2d0f5ef2cf40639621a8be5",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\TriadBuddy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv-bundleoftweaks",
@@ -668,10 +713,11 @@
     "sourceCommit": "bec5da9cb33780dc54ed59076b59a74212df0567",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "bec5da9cb33780dc54ed59076b59a74212df0567",
+    "targetCommit": "ae600e5af80a91741127d52f69e48194ba486b16",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Automaton"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv-deathrecap",
@@ -683,10 +729,11 @@
     "sourceCommit": "c95d352cbef8893c28f928c4bbab9cef6e973f5c",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c95d352cbef8893c28f928c4bbab9cef6e973f5c",
+    "targetCommit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\DeathRecap"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv-priceinsight",
@@ -698,10 +745,11 @@
     "sourceCommit": "d41cd5c1b8ee401bc15b422600bbdde772686eef",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "d41cd5c1b8ee401bc15b422600bbdde772686eef",
+    "targetCommit": "bfb5ad07728073e1155f29923e29d1147877867a",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PriceInsight"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv_bossmod",
@@ -713,10 +761,11 @@
     "sourceCommit": "2d2c09056de23d599e3e2811088186c2692e6204",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "2d2c09056de23d599e3e2811088186c2692e6204",
+    "targetCommit": "e21ca0d25ce0340231b01ae3bd09bb83408921a6",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Bossmod"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv_navmesh",
@@ -728,10 +777,11 @@
     "sourceCommit": "93b4eac80313ffcae186c7e30ba5e992112495a9",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "93b4eac80313ffcae186c7e30ba5e992112495a9",
+    "targetCommit": "731be4ea3953ea235b7f590791764dae02939020",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\vnavmesh"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ffxiv_visland",
@@ -743,10 +793,11 @@
     "sourceCommit": "71500922bf736d952e94336b464653f606462835",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "71500922bf736d952e94336b464653f606462835",
+    "targetCommit": "4950bc40be9468ee94b6cd4be7a60d7968ddc89b",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\visland"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/FFXIVClientStructs",
@@ -757,7 +808,8 @@
     "targetBranch": "api14-tw",
     "status": "branch-exists",
     "targetCommit": "a4b467e1363666116300baafe630d5312bef2265",
-    "localCheckouts": []
+    "localCheckouts": [],
+    "portStatus": "platform-tracking"
   },
   {
     "repository": "cycleapple/FlyTextFilter",
@@ -769,10 +821,11 @@
     "sourceCommit": "64bc27cdd37de44632fa1ef87c52e65bbc421240",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "64bc27cdd37de44632fa1ef87c52e65bbc421240",
+    "targetCommit": "082aac6e98a655ff7753f44c8673c7331e176be9",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\FlyTextFilter"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/FPSPlugin",
@@ -784,10 +837,11 @@
     "sourceCommit": "a14f297432be6b4e1f496e32b1c5388ed95b1a61",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "a14f297432be6b4e1f496e32b1c5388ed95b1a61",
+    "targetCommit": "99f4e394f982a447753e5ca88a1d9c97d754b8d3",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\FPSPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Fungah-Totally-Safe-Spot",
@@ -799,10 +853,11 @@
     "sourceCommit": "fe7a4548cdd66e0a11ad4f23b3c7c7098170ed2b",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "fe7a4548cdd66e0a11ad4f23b3c7c7098170ed2b",
+    "targetCommit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Fungah"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/GatherBuddyReborn",
@@ -814,10 +869,11 @@
     "sourceCommit": "81c2f89d7f1ff2736444df4771cda645a8ebe477",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "81c2f89d7f1ff2736444df4771cda645a8ebe477",
+    "targetCommit": "3d3de9699ec2f9827287c7ff6e8a89299f95b35c",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\GatherBuddyReborn"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/GaugeOMatic",
@@ -829,10 +885,11 @@
     "sourceCommit": "ddccd2ad8ede3aab43171d6c7532d0c5c620ae4f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "ddccd2ad8ede3aab43171d6c7532d0c5c620ae4f",
+    "targetCommit": "b93815efce1f2c0bc9dd2f67ce70839833d8696c",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\GaugeOMatic"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Gearsetter",
@@ -844,10 +901,11 @@
     "sourceCommit": "357ce3602d8cd8d0bb1c1a38294706c308fde699",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "357ce3602d8cd8d0bb1c1a38294706c308fde699",
+    "targetCommit": "019c292a8c96583f3891fa8d52c7a36368e2e9c8",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Gearsetter"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Glamourer",
@@ -859,10 +917,11 @@
     "sourceCommit": "c757050193b3c9d583eb75b0b668d6ffb917b8f6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c757050193b3c9d583eb75b0b668d6ffb917b8f6",
+    "targetCommit": "50fa8b8248cd8335cb0ba68a08b600f8ad17ec01",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\Glamourer"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Honorific",
@@ -874,10 +933,11 @@
     "sourceCommit": "897ea5a6a7ba00f3dfc240ac34362250cf649e7e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "897ea5a6a7ba00f3dfc240ac34362250cf649e7e",
+    "targetCommit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Honorific"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Housemate",
@@ -889,10 +949,11 @@
     "sourceCommit": "1a097d3fc33263f8059f7a61e467ea19742b5db3",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "1a097d3fc33263f8059f7a61e467ea19742b5db3",
+    "targetCommit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Housemate"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/HuntBuddy",
@@ -904,10 +965,11 @@
     "sourceCommit": "768413a68d8670545297b8277f3e74ab42a4454c",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "768413a68d8670545297b8277f3e74ab42a4454c",
+    "targetCommit": "28192e8d076316ac88118eb7b7eee69f78d87394",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\HuntBuddy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Hyperborea",
@@ -919,10 +981,11 @@
     "sourceCommit": "142e137caf8fd8cd460c5719e991e2414873d1c6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "142e137caf8fd8cd460c5719e991e2414873d1c6",
+    "targetCommit": "810015c058983111960788d6c00ded34c0565b25",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Hyperborea"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Ices-Cosmic-Exploration",
@@ -934,10 +997,11 @@
     "sourceCommit": "92a01bd524c75b7d378930626b227917782792b1",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "92a01bd524c75b7d378930626b227917782792b1",
+    "targetCommit": "fc4d09997544ae29bc9df8dd55d1d8a664e44dec",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ICE"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/IINACT",
@@ -949,10 +1013,11 @@
     "sourceCommit": "117bd43eb1915fa42922d686bcb9e0d2f1a731cb",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "117bd43eb1915fa42922d686bcb9e0d2f1a731cb",
+    "targetCommit": "190a782dea3b89e15337905d0023b04d273967e0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\IINACT"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/InventoryTools",
@@ -964,10 +1029,11 @@
     "sourceCommit": "0d09a291dff71583ea0a44ae7e7708ee9933e896",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0d09a291dff71583ea0a44ae7e7708ee9933e896",
+    "targetCommit": "4454db2b55ddd15262f71b6d23c398a4b857b2ce",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\InventoryTools"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/JobBars",
@@ -979,10 +1045,11 @@
     "sourceCommit": "c4c1cbde94511a57c2278626df303197ef93c33d",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c4c1cbde94511a57c2278626df303197ef93c33d",
+    "targetCommit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\JobBars"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/KamiToolKit",
@@ -992,8 +1059,9 @@
     "sourceCommit": "76dacbcf4c499007db2f62b63ef9fbbd62f8eb06",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "76dacbcf4c499007db2f62b63ef9fbbd62f8eb06",
-    "localCheckouts": []
+    "targetCommit": "55e18c9d51264ace165201e9f97f8bd5ad5d3f7a",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Ktisis",
@@ -1005,10 +1073,11 @@
     "sourceCommit": "5fd3b546b4d276dd1edbab78101a42e98f678ab8",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "5fd3b546b4d276dd1edbab78101a42e98f678ab8",
+    "targetCommit": "53046d5e9c054a026294732e3dd9e243b173b4eb",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\Ktisis"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/LazyLoot",
@@ -1020,10 +1089,11 @@
     "sourceCommit": "994d7add83ea986c9bfa405650e5cd867a9776fc",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "994d7add83ea986c9bfa405650e5cd867a9776fc",
+    "targetCommit": "3d272961c3a65feb01b19af487e155a1fa8937eb",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\LazyLoot"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Lifestream",
@@ -1035,11 +1105,12 @@
     "sourceCommit": "8d1b5f778f5eeada1e6b234c7f89031dd4cb5e79",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "8d1b5f778f5eeada1e6b234c7f89031dd4cb5e79",
+    "targetCommit": "9d8e52ccb88f3b7f7a6ac8da85fac719b983a4fd",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Lifestream",
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Lifestream-2.5.3.1-tw"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/LMeter_TC",
@@ -1051,10 +1122,11 @@
     "sourceCommit": "1052d57f37c0a734f5353d7a138fa8cceeb69bba",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "1052d57f37c0a734f5353d7a138fa8cceeb69bba",
+    "targetCommit": "a763a8e594cc2775ac13576e47d5bde68b5f50ec",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\LMeter_TC"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/LopClient",
@@ -1066,10 +1138,11 @@
     "sourceCommit": "a2e03541f1fe756ee0b2cf0eaaf0f9a52a1290fc",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "a2e03541f1fe756ee0b2cf0eaaf0f9a52a1290fc",
+    "targetCommit": "3f9eac99de80e78a94bf64a131f379df273b1f70",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\LoporritSync"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MapLinker",
@@ -1081,10 +1154,11 @@
     "sourceCommit": "8ef3ab1eec6c5fedacfca0b3a0293d90db4433fb",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "8ef3ab1eec6c5fedacfca0b3a0293d90db4433fb",
+    "targetCommit": "fea398b590c70f89be6640a54d11d242ff63bbc5",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MapLinker"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Mappy",
@@ -1096,10 +1170,11 @@
     "sourceCommit": "f7691ebb389a01e4ff085720760febfce72fedad",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "f7691ebb389a01e4ff085720760febfce72fedad",
+    "targetCommit": "46a5792c62fff43dbc1704a16a92d4e4cab09925",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Mappy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MarketBoardPlugin",
@@ -1111,10 +1186,11 @@
     "sourceCommit": "6ee22ef827f88e08ba03cf4434dd79ade54dcdb4",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6ee22ef827f88e08ba03cf4434dd79ade54dcdb4",
+    "targetCommit": "343f09cfd342bc461dd2becb42b64b0c6cad5c19",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MarketBoardPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Marketbuddy",
@@ -1126,10 +1202,11 @@
     "sourceCommit": "29f1e6a1919cc573657fbfb5a83514f91a447d5a",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "29f1e6a1919cc573657fbfb5a83514f91a447d5a",
+    "targetCommit": "f6df96f538884670df062ca1c257b9a8217c5196",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Marketbuddy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/mask-of-kefka",
@@ -1141,10 +1218,11 @@
     "sourceCommit": "00fa18fc75559c28c69fcb1833219d2e6becdeaf",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "00fa18fc75559c28c69fcb1833219d2e6becdeaf",
+    "targetCommit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\MaskOfKefka-API13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MeterWay",
@@ -1156,10 +1234,11 @@
     "sourceCommit": "3413abf662863e129916b4c176db93c430b13955",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "3413abf662863e129916b4c176db93c430b13955",
+    "targetCommit": "e55f07d8514fb3db72de7cbbcd09790c6ac628a1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MeterWay"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MidiBard2",
@@ -1171,10 +1250,11 @@
     "sourceCommit": "d141b5d0c2e0c673de46340719c00d7252f58f2b",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "d141b5d0c2e0c673de46340719c00d7252f58f2b",
+    "targetCommit": "1f569c8105d426985a6f9a1c0458e1b3ba75ff74",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MidiBard2"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MissFisher",
@@ -1186,10 +1266,11 @@
     "sourceCommit": "18f70b2be29f20d3f8521b211b881ce8302f7fa7",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "18f70b2be29f20d3f8521b211b881ce8302f7fa7",
+    "targetCommit": "b149d39aaaed28be1f3a9dca3e5538b3417321c1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MissFisher"
-    ]
+    ],
+    "portStatus": "official-api14-localized"
   },
   {
     "repository": "cycleapple/MonsterDex",
@@ -1201,10 +1282,11 @@
     "sourceCommit": "cbe5f576cbf8fa88534f51af6d805adeff6adbe3",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "cbe5f576cbf8fa88534f51af6d805adeff6adbe3",
+    "targetCommit": "38a2bc2728dea0ec74dddb741f628c4e83f47473",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\MonsterDex"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MouseLock",
@@ -1216,10 +1298,11 @@
     "sourceCommit": "953e9d11a18d8ecd353d323f3d468f95e10b71fa",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "953e9d11a18d8ecd353d323f3d468f95e10b71fa",
+    "targetCommit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\MouseLock-API13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/MultiHit",
@@ -1231,10 +1314,11 @@
     "sourceCommit": "1357aab8eb348fec797e4aa9d02ea2dc60a0435f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "1357aab8eb348fec797e4aa9d02ea2dc60a0435f",
+    "targetCommit": "330421dd8ac58d7b118e4ba83737c9a1b28f35f0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\MultiHit"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/NamingWay",
@@ -1246,10 +1330,11 @@
     "sourceCommit": "968bfb9e7910875eff8e378d0da9c1dd3ea06f98",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "968bfb9e7910875eff8e378d0da9c1dd3ea06f98",
+    "targetCommit": "2130a6cff286dfc378d800aee619c042e4830b91",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\NamingWayPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/NecroLens",
@@ -1261,10 +1346,11 @@
     "sourceCommit": "aad2e7b0fea11e5783adc0ede37fd004296a6149",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "aad2e7b0fea11e5783adc0ede37fd004296a6149",
+    "targetCommit": "e34694fbd0a3bb17e0f82fa76e8a4cc0f1e43270",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\NecroLens"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/NoClippy",
@@ -1276,10 +1362,11 @@
     "sourceCommit": "934ab0f743b8220f055d1ab54e4315e67fbc07cc",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "934ab0f743b8220f055d1ab54e4315e67fbc07cc",
+    "targetCommit": "73a73a9a69b19acd826fe9e514c5523a06eed35d",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\NoClippy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/NOTED",
@@ -1291,10 +1378,11 @@
     "sourceCommit": "0be8c4835fdc6b68ad0c9097571a22db2889e6a7",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0be8c4835fdc6b68ad0c9097571a22db2889e6a7",
+    "targetCommit": "9cbda54ffe7ced16f60735bb8cfcd23ea80d4a53",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\NOTED"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/NotificationMaster",
@@ -1306,10 +1394,11 @@
     "sourceCommit": "3168c39bb48d4c00c4e7ef459cbcdc395cd045b0",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "3168c39bb48d4c00c4e7ef459cbcdc395cd045b0",
+    "targetCommit": "dba34891268d39ecea96117794caa97771f431af",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\NotificationMaster"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Orbwalker",
@@ -1321,10 +1410,11 @@
     "sourceCommit": "6be9bc38656d2aa0fd48041c707e04a2dee58119",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6be9bc38656d2aa0fd48041c707e04a2dee58119",
+    "targetCommit": "2ff1b8141c54b05c065d55245f113a3400c715de",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Orbwalker"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/OrchestrionPlugin",
@@ -1336,10 +1426,11 @@
     "sourceCommit": "9272d6450468728765c49b5dfd5c034c665fba2c",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9272d6450468728765c49b5dfd5c034c665fba2c",
+    "targetCommit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\OrchestrionPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/OtterGui",
@@ -1349,8 +1440,9 @@
     "sourceCommit": "cf29d2dc04b93e067230192d783f3e97fb2fafd0",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "cf29d2dc04b93e067230192d783f3e97fb2fafd0",
-    "localCheckouts": []
+    "targetCommit": "ca8f1790560e3137401912bf8d1685280a4ed4a4",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PalacePal",
@@ -1362,10 +1454,11 @@
     "sourceCommit": "c001972718487d1e94f9f22558dbbede289215d3",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "c001972718487d1e94f9f22558dbbede289215d3",
+    "targetCommit": "3fbb22b94f90ff77b5f954a37d903a9328fb5955",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PalacePal"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PandorasBox",
@@ -1377,10 +1470,11 @@
     "sourceCommit": "dfb297af55a1fdb5dce83b1baf3eb9182ebfa88b",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "dfb297af55a1fdb5dce83b1baf3eb9182ebfa88b",
+    "targetCommit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PandorasBox"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PeepingTom",
@@ -1392,10 +1486,11 @@
     "sourceCommit": "9028ee22def76a17053d50b9eb4d94e0eb566dc2",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9028ee22def76a17053d50b9eb4d94e0eb566dc2",
+    "targetCommit": "38a42e409919c282a647eb74501144f522196a62",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PeepingTom-maintained"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PennyPincher",
@@ -1407,10 +1502,11 @@
     "sourceCommit": "b26e81e0bee363b40f6d27e549f79397eee2dcc9",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "b26e81e0bee363b40f6d27e549f79397eee2dcc9",
+    "targetCommit": "4b078f61e886862a99346e8918a1a9d6ae2f17ba",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PennyPincher"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Penumbra",
@@ -1422,11 +1518,12 @@
     "sourceCommit": "d2f6f0c4b44ba6aee3bfc98c1bbffe7916a9d023",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "d2f6f0c4b44ba6aee3bfc98c1bbffe7916a9d023",
+    "targetCommit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\Penumbra",
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\Penumbra-1.5.1-tw"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Penumbra.GameData",
@@ -1436,8 +1533,9 @@
     "sourceCommit": "34382a2145de854f307abc08a6e54e35ef322dd6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "34382a2145de854f307abc08a6e54e35ef322dd6",
-    "localCheckouts": []
+    "targetCommit": "feb6b3e9f23fb800f8104bc502cac3a504d18dcc",
+    "localCheckouts": [],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PingPlugin",
@@ -1449,10 +1547,11 @@
     "sourceCommit": "f6a8386e121ce193aac504df6be688d418ad437e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "f6a8386e121ce193aac504df6be688d418ad437e",
+    "targetCommit": "c30ed86542bd50aa76a2df36d1383ffc94c685ef",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PingPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PixelPerfect",
@@ -1464,10 +1563,11 @@
     "sourceCommit": "80adfa2498731f47c52842a5edba4dcd21b80d4d",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "80adfa2498731f47c52842a5edba4dcd21b80d4d",
+    "targetCommit": "36c28fcf179710d3157bcd3a5e61f975619190cd",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\PixelPerfect"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PlayerWatchlist",
@@ -1479,10 +1579,11 @@
     "sourceCommit": "b5fee4f1dd1762d259c5d3ebe5aa8522ea9b2bd9",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "2d9c8049095c4305f30f51a5e3becea65e83ae5b",
+    "targetCommit": "483ae3d8fc58d5b8251193720e682d633362efdc",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\PlayerWatchlist"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/PocketRecorder",
@@ -1494,10 +1595,11 @@
     "sourceCommit": "bd73438c9498af2a006090bcb31a13d20d63aaab",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "bd73438c9498af2a006090bcb31a13d20d63aaab",
+    "targetCommit": "5253ef809dd6dd4b6d581275ce9c0da80863049d",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\PocketRecorder-API13"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/QoLBar",
@@ -1509,10 +1611,11 @@
     "sourceCommit": "77ed099653006be98bed36321c522dcaaf416f33",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "77ed099653006be98bed36321c522dcaaf416f33",
+    "targetCommit": "19c26872c0f14b61c1c2d0ec08efe3673d61f8b2",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\QoLBar"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Questionable",
@@ -1525,10 +1628,11 @@
     "sourceCommit": "7ba45d6f497530f757c7a026df3082d8abbf7918",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "7ba45d6f497530f757c7a026df3082d8abbf7918",
+    "targetCommit": "c17d4921a330823b5cb7630b59822e2b6dd40e41",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Questionable"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/RadarPlugin",
@@ -1540,10 +1644,11 @@
     "sourceCommit": "809dbdc3f90fc314d1e0f0823a3a8282f503d852",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "809dbdc3f90fc314d1e0f0823a3a8282f503d852",
+    "targetCommit": "6d46b18f3e7ed6869d19110c1d3152c8350b80e1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\RadarPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Raphael.Dalamud",
@@ -1555,10 +1660,11 @@
     "sourceCommit": "583151acb46593d05514935dbe556e2046fbd167",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "583151acb46593d05514935dbe556e2046fbd167",
+    "targetCommit": "d36473192bc0f501f481aa8b31f92c78a346f0e3",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Raphael.Dalamud"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ReAction",
@@ -1570,10 +1676,11 @@
     "sourceCommit": "ee19e3292a3b43ed3e1b28b417b3394526417121",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "ee19e3292a3b43ed3e1b28b417b3394526417121",
+    "targetCommit": "9af44cbe2372e29e963a8f58237bd77306b7881b",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ReAction"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ReMakePlacePlugin",
@@ -1585,10 +1692,11 @@
     "sourceCommit": "1cb860703f6e1246010cbd746f4aec5d538f1951",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "1cb860703f6e1246010cbd746f4aec5d538f1951",
+    "targetCommit": "bbeee9ae78c427d3b853c01d462687fc8c0a8ee0",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ReMakePlacePlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/RezPls",
@@ -1600,10 +1708,11 @@
     "sourceCommit": "e79cefaa4185cbdcffb49dcb6838e48e0a0dc65e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "e79cefaa4185cbdcffb49dcb6838e48e0a0dc65e",
+    "targetCommit": "4b59027736755d1eb0139cb93f37e804ae3df8fb",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\RezPls"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/RotationSolverReborn",
@@ -1615,10 +1724,11 @@
     "sourceCommit": "0a9938158d782653235da670983c3e51ec4ab196",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0a9938158d782653235da670983c3e51ec4ab196",
+    "targetCommit": "0fd6ab9178600428bf3ecf058ea9f401cae7cd61",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\RotationSolverReborn"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Saucy",
@@ -1630,10 +1740,11 @@
     "sourceCommit": "5c751d1996e4af2def66df9b6c3bad1fcee194f6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "5c751d1996e4af2def66df9b6c3bad1fcee194f6",
+    "targetCommit": "e1b857f5eae04713f02039a947a6e823f67034ac",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Saucy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SimpleHeels",
@@ -1645,10 +1756,11 @@
     "sourceCommit": "8bb08300c685602ccd52b2bb0570b99d56261382",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "8bb08300c685602ccd52b2bb0570b99d56261382",
+    "targetCommit": "9e13a34b6aeed2019d7778b0e47ae089ef3dc134",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\SimpleHeels"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SimpleTweaksPlugin",
@@ -1660,10 +1772,11 @@
     "sourceCommit": "2c7b83cfcf87def2f47ce7c64c2ec5dff425b1b5",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "2c7b83cfcf87def2f47ce7c64c2ec5dff425b1b5",
+    "targetCommit": "b96a3e7cc16fea657f0d8cc6d0978afc3945cae6",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\SimpleTweaksPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Skippy",
@@ -1675,10 +1788,11 @@
     "sourceCommit": "4bad10c517f6fad6ad831c75d45c05e37bf66d58",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "4bad10c517f6fad6ad831c75d45c05e37bf66d58",
+    "targetCommit": "0e0f89a57d22d343388677fc2c0dbd49e2e4816a",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Skippy"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SomethingNeedDoing",
@@ -1690,10 +1804,11 @@
     "sourceCommit": "0d05161fa1a7d184c4525430cadce070b6319b4b",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "0d05161fa1a7d184c4525430cadce070b6319b4b",
+    "targetCommit": "b3f9bf59df278b90ce4dff2ab2713430434bda69",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\SomethingNeedDoing"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SonarDistrib",
@@ -1705,10 +1820,11 @@
     "sourceCommit": "9c4c1d9f7ed219c14bffc13aece2f4631e6cbcd5",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "9c4c1d9f7ed219c14bffc13aece2f4631e6cbcd5",
+    "targetCommit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Sonar"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SortaKinda",
@@ -1720,10 +1836,11 @@
     "sourceCommit": "11b59be731951ffa8f9a57eb8e2336b64396af51",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "11b59be731951ffa8f9a57eb8e2336b64396af51",
+    "targetCommit": "88404d3b133ea27a4ddea78bbaaa1a2104c230f9",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\SortaKinda"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/Splatoon",
@@ -1735,10 +1852,11 @@
     "sourceCommit": "d1873a6fed844ca6e34249106af7df5f5156b022",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "d1873a6fed844ca6e34249106af7df5f5156b022",
+    "targetCommit": "2e7226833b36ae9d4270cd7e480b9111a05faa39",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Splatoon"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/SubmarineTracker",
@@ -1750,10 +1868,11 @@
     "sourceCommit": "1c63175612251f6451757771e146e49fcff256e1",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "1c63175612251f6451757771e146e49fcff256e1",
+    "targetCommit": "9c7494714914cd07688be720a36451fe32bcb8ff",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\SubmarineTracker"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/TeleporterPlugin",
@@ -1765,10 +1884,11 @@
     "sourceCommit": "199a31a84bbc24b6c9b7b6dc7480c32ffb4390f0",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "199a31a84bbc24b6c9b7b6dc7480c32ffb4390f0",
+    "targetCommit": "e4b2cb0c2bf0904603db0a9b199c11afa981ca3c",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\TeleporterPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/TextAdvance",
@@ -1780,10 +1900,11 @@
     "sourceCommit": "f8a7cf50cfee8b860727fd01e7e5383b943cd520",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "f8a7cf50cfee8b860727fd01e7e5383b943cd520",
+    "targetCommit": "518009fa0fcaa92fb892545911571735dabb6c78",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\TextAdvance"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/TitleEdit",
@@ -1795,10 +1916,11 @@
     "sourceCommit": "64aa0368561aaf9f7c2bda7f0ee6b91044cab384",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "64aa0368561aaf9f7c2bda7f0ee6b91044cab384",
+    "targetCommit": "785a2cf61f2ffeee69fdc1d98f3fcb7569a4f661",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\TitleEdit"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/umbra",
@@ -1810,10 +1932,11 @@
     "sourceCommit": "ba182606616ea26fb02587d4a0db2e7069b6710f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "ba182606616ea26fb02587d4a0db2e7069b6710f",
+    "targetCommit": "145c11985cfef117c943761a198422c40cc07ef1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Umbra"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/vfaux",
@@ -1825,10 +1948,11 @@
     "sourceCommit": "be3f90ed2c002f828e4703f96d7db3a2a18b061f",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "be3f90ed2c002f828e4703f96d7db3a2a18b061f",
+    "targetCommit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\vfaux"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/VisibilityPlugin",
@@ -1840,10 +1964,11 @@
     "sourceCommit": "99177509709ad74a8d8c93650408fc0f28b35366",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "99177509709ad74a8d8c93650408fc0f28b35366",
+    "targetCommit": "20420d9bcee30b803bad38500dfde0c96bc206ef",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\Visibility"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/WaymarkPresetPlugin",
@@ -1855,10 +1980,11 @@
     "sourceCommit": "bb2277a7edb1f07425add745db1aa324c885b985",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "bb2277a7edb1f07425add745db1aa324c885b985",
+    "targetCommit": "66e79d295b58938b9e93e6d5fdb12734455d0197",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\WaymarkPresetPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/WrathCombo",
@@ -1870,10 +1996,11 @@
     "sourceCommit": "cb8dd426d9b7f92deb38bc9483bfb3ef1e014d0e",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "cb8dd426d9b7f92deb38bc9483bfb3ef1e014d0e",
+    "targetCommit": "126b54451865c6df915df1b06fe14f1579cc3674",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\WrathCombo"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/xiv-party-treasure-helper",
@@ -1885,10 +2012,11 @@
     "sourceCommit": "054af73bb3467c13dd2b5024adb59d3e20117413",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "054af73bb3467c13dd2b5024adb59d3e20117413",
+    "targetCommit": "b3f48e04a452884098d47e7ff5d3dde963bba201",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\XivTreasureParty"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/xivlauncher_physics_plugin",
@@ -1900,10 +2028,11 @@
     "sourceCommit": "82249e88c94cf83c98cd95e1c9a864f56d338312",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "82249e88c94cf83c98cd95e1c9a864f56d338312",
+    "targetCommit": "1432625f846b866438d287005f241f100da1b9b1",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-work\\plugins\\HighFpsPhysicsPlugin"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/xivPartyIcons",
@@ -1915,10 +2044,11 @@
     "sourceCommit": "6d2482f7e0dcc42c8ee2abfe1c1a20595775ac05",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "6d2482f7e0dcc42c8ee2abfe1c1a20595775ac05",
+    "targetCommit": "237fbbf6ecaaa5ffc63884b55b92d0e2d7f845ff",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\xivPartyIcons-nebel"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/YesAlready",
@@ -1930,10 +2060,11 @@
     "sourceCommit": "619d0a3bde4793865c12ad4dc6f39810def30919",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "619d0a3bde4793865c12ad4dc6f39810def30919",
+    "targetCommit": "e0c19a487483f89940eb296fa2b5b683406c6f81",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\YesAlready"
-    ]
+    ],
+    "portStatus": "build-passed"
   },
   {
     "repository": "cycleapple/ZodiacBuddy",
@@ -1945,9 +2076,10 @@
     "sourceCommit": "2ac308a0b6e8be5f33a2adba0774f40e411041d6",
     "targetBranch": "api14-tw",
     "status": "branch-exists",
-    "targetCommit": "2ac308a0b6e8be5f33a2adba0774f40e411041d6",
+    "targetCommit": "e8ef85d79b7b66ae6766effef701a9b658e729bc",
     "localCheckouts": [
       "E:\\FFXIV\\XIVLauncher\\api13-extended-work\\sources\\ZodiacBuddy"
-    ]
+    ],
+    "portStatus": "build-passed"
   }
 ]

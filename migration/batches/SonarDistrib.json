@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/SonarDistrib",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\SonarDistrib",
+  "results": [
+    {
+      "internalName": "SonarPlugin",
+      "project": "SonarPlugin/SonarPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 7.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\SonarPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "f68fe1f4e42ab94fe99b7e2d5b28401fb290ce3d",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

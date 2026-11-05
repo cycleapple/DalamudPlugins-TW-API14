@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Honorific",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Honorific",
+  "results": [
+    {
+      "internalName": "Honorific",
+      "project": "Honorific.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Honorific.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "a34c4ae8ed2c8514be02a40f9dd0ab23ade41126",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

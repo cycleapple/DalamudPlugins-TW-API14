@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/OrchestrionPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\OrchestrionPlugin",
+  "results": [
+    {
+      "internalName": "orchestrion",
+      "project": "Orchestrion/Orchestrion.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\orchestrion.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "efa591ed8b9a057ba98ac73e1d54560e6b2454d9",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

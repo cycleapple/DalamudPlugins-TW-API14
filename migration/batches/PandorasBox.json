@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/PandorasBox",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PandorasBox",
+  "results": [
+    {
+      "internalName": "PandorasBox",
+      "project": "PandorasBox/PandorasBox.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PandorasBox.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "241762ac22aeee84ef69a264d6d04b5092da04e1",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

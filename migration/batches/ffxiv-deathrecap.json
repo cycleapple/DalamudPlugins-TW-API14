@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv-deathrecap",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-deathrecap",
+  "results": [
+    {
+      "internalName": "DeathRecap",
+      "project": "DeathRecap.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\DeathRecap.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "b59aad77d65bf4d331d32b30298aec958331f8b4",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

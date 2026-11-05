@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/mask-of-kefka",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\mask-of-kefka",
+  "results": [
+    {
+      "internalName": "MaskOfKefka",
+      "project": "MaskOfKefka/MaskOfKefka.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MaskOfKefka.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "a26d329c0ec90d2fb8f8c662f843d80df90ec81c",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

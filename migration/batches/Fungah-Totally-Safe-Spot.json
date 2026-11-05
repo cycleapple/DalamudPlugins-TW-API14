@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Fungah-Totally-Safe-Spot",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Fungah-Totally-Safe-Spot",
+  "results": [
+    {
+      "internalName": "Fungah",
+      "project": "Fungah/Fungah.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Fungah.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "9a8a7371e2fd49cceedc88ac6850367e4b86affc",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

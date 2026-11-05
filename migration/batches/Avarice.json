@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Avarice",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Avarice",
+  "results": [
+    {
+      "internalName": "Avarice",
+      "project": "Avarice/Avarice.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Avarice.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "99c0a592a63e8d58082b991b445a9fd774219b41",
+  "publishedSource": true,
+  "dependencyPatches": 2
+}

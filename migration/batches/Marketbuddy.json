@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Marketbuddy",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Marketbuddy",
+  "results": [
+    {
+      "internalName": "Marketbuddy",
+      "project": "Marketbuddy/Marketbuddy.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Marketbuddy.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "f6df96f538884670df062ca1c257b9a8217c5196",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

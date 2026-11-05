@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Hyperborea",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Hyperborea",
+  "results": [
+    {
+      "internalName": "Hyperborea",
+      "project": "Hyperborea/Hyperborea.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Hyperborea.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "810015c058983111960788d6c00ded34c0565b25",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

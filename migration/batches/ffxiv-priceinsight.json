@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ffxiv-priceinsight",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ffxiv-priceinsight",
+  "results": [
+    {
+      "internalName": "PriceInsight",
+      "project": "PriceInsight.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.1,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PriceInsight.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "bfb5ad07728073e1155f29923e29d1147877867a",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

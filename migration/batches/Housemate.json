@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Housemate",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Housemate",
+  "results": [
+    {
+      "internalName": "Housemate",
+      "project": "Housemate/Housemate.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.6,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Housemate.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "edfa8cf687f8c2349eefebc4d71c0fe8611c016f",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

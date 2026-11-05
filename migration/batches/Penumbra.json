@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/Penumbra",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\Penumbra",
+  "results": [
+    {
+      "internalName": "Penumbra",
+      "project": "Penumbra/Penumbra.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\Penumbra.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "c5491a6d91c0bbfbef8c5825c21d2a58bb6f126a",
+  "publishedSource": true,
+  "dependencyPatches": 5
+}

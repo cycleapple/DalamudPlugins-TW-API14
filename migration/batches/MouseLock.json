@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/MouseLock",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\MouseLock",
+  "results": [
+    {
+      "internalName": "MouseLock",
+      "project": "MouseLock/MouseLock.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\MouseLock.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "22f8f032fcc5d6806e0a0c9e9853b440aac9972f",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

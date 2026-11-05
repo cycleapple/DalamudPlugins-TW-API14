@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/JobBars",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\JobBars",
+  "results": [
+    {
+      "internalName": "JobBars",
+      "project": "JobBars/JobBars.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\JobBars.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "fc1c17e0f9f8af4fee885182e62f79749c666f9a",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

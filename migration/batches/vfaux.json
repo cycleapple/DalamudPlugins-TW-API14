@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/vfaux",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\vfaux",
+  "results": [
+    {
+      "internalName": "vfaux",
+      "project": "vfaux/vfaux.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 1.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\vfaux.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3b47a90a0a9373d32af713bef1735a0a9b52108a",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

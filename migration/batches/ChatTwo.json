@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/ChatTwo",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\ChatTwo",
+  "results": [
+    {
+      "internalName": "ChatTwo",
+      "project": "ChatTwo/ChatTwo.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.7,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\ChatTwo.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "07787eeff85785a8025f2c6838e9dcda3df4fa22",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

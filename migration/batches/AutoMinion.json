@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AutoMinion",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoMinion",
+  "results": [
+    {
+      "internalName": "AutoMinion",
+      "project": "AutoMinion/AutoMinion.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 3.9,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoMinion.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "ada328192e8a67d822253b0456d4bc311e330a42",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

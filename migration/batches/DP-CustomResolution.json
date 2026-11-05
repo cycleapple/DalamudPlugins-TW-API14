@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/DP-CustomResolution",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\DP-CustomResolution",
+  "results": [
+    {
+      "internalName": "CustomResolution2782",
+      "project": "CustomResolution2782/CustomResolution2782.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.8,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\CustomResolution2782.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "c9d5179b387a4424ee2823ab9fbbf27223fbaa5b",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}

@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/PingPlugin",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\PingPlugin",
+  "results": [
+    {
+      "internalName": "PingPlugin",
+      "project": "PingPlugin/PingPlugin.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 2.2,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\PingPlugin.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "c30ed86542bd50aa76a2df36d1383ffc94c685ef",
+  "publishedSource": true,
+  "dependencyPatches": 0
+}

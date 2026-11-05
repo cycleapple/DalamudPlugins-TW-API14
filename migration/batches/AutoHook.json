@@ -1,0 +1,20 @@
+{
+  "repository": "cycleapple/AutoHook",
+  "path": "E:\\FFXIV\\XIVLauncher\\api14-work\\sources\\AutoHook",
+  "results": [
+    {
+      "internalName": "AutoHook",
+      "project": "AutoHook/AutoHook.csproj",
+      "status": "build-passed",
+      "errors": [],
+      "seconds": 4.3,
+      "log": "E:\\FFXIV\\XIVLauncher\\api14-work\\repo\\logs\\AutoHook.log"
+    }
+  ],
+  "changed": [],
+  "unresolved": [],
+  "status": "processed",
+  "sourceCommit": "3ebb9891a00473503d35f4ec9154f49c7e313f7e",
+  "publishedSource": true,
+  "dependencyPatches": 1
+}
